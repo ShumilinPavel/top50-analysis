@@ -1,0 +1,51 @@
+N,Место,Кол-во CPU/ядер,Архитектура(тип процессора / сеть),Производительность Linpack Пиковая,Разработчик
+1,Москва МСЦ РАН 2005 г.,1148/1148,узлов: 574 (2xPowerPC 970 2.2 GHz 4 GB RAM) сеть: Myrinet/2xGigabit Ethernet,6.68 10.10,"ФГУП ""Квант"", ИПМ РАН, МСЦ"
+2,Минск ОИПИ НАНБ 2004 г.,576/576,узлов: 288 (2xOpteron 248 2.2 GHz 4 GB RAM) сеть: InfiniBand/Gigabit Ethernet/СКИФ-ServNet,2.03 2.53,СКИФ
+3,Москва МСЦ РАН 2005 г.,256/256,узлов: 128 (2xItanium 2 1.5 GHz 2.048 GB RAM) сеть: Myrinet 2000/Gigabit Ethernet/Fast Ethernet,1.29 1.54,Hewlett-Packard
+4,Рыбинск НПО Сатурн 2005 г.,128/128,узлов: 64 (2xXeon EM64T 3.6 GHz 4.096 GB RAM) сеть: InfiniBand/Gigabit Ethernet,0.77 0.92,IBM/КРОК
+5,Москва 2005 г.,128/128,узлов: 2 (64xPOWER5 1.9 GHz 256 GB RAM) сеть: Gigabit Ethernet,0.64 0.97,IBM/КРОК
+6,Москва Paradigm Geophysical 2005 г.,152/152,узлов: 76 (2xXeon EM64T 3.4 GHz 4.096 GB RAM) сеть: Gigabit Ethernet/Gigabit Ethernet,0.59 1.03,Т-Платформы
+7,Москва НИВЦ МГУ 2004 г.,160/160,узлов: 80 (2xOpteron 248 2.2 GHz 4 GB RAM) сеть: InfiniBand/Gigabit Ethernet/Fast Ethernet,0.51 0.70,Hewlett-Packard
+8,Ереван ИПИА НАН РА 2004 г.,128/128,узлов: 64 (2xXeon 3 GHz 1 GB RAM) сеть: Myrinet/Gigabit Ethernet,0.48 0.78,"ИПИА НАН РА, ИСП РАН, C.I.Technology"
+9,Минск ОИПИ НАНБ 2003 г.,128/128,узлов: 64 (2xXeon 2.8 GHz 2 GB RAM) сеть: SCI/Gigabit Ethernet/СКИФ-ServNet,0.48 0.72,СКИФ
+10,Москва Landmark 2005 г.,86/86,узлов: 42 (2xXeon EM64T 3.6 GHz 4 GB RAM) узлов: 1 (2xXeon EM64T 3.6 GHz 2 GB RAM) сеть: Gigabit Ethernet,0.44 0.62,IBM/Verysel-проекты
+11,Москва СберБанк 2003 г.,256/256,HP SuperDome PA-RISC 750 MHz,0.44 0.77,Hewlett-Packard
+12,Новосибирск 2006 г.,76/76,узлов: 38 (2xItanium 2 1.6 GHz 4 GB RAM) сеть: InfiniBand,0.36 0.49,Hewlett-Packard
+13,Москва Schlumberger 2005 г.,104/104,узлов: 48 (2xXeon EM64T 2.4 GHz 2 GB RAM) узлов: 1 (2xXeon EM64T 2.8 GHz 2 GB RAM) узлов: 1 (2xXeon EM64T 3 GHz 2 GB RAM) сеть: Gigabit Ethernet,0.35 0.59,IBM/X-COM
+14,Москва 2005 г.,208/208,узлов: 1 (64xPA-RISC 8800 1 GHz 128 GB RAM) узлов: 1 (64xPA-RISC 8700 750 MHz 112 GB RAM) узлов: 1 (48xPA-RISC 8700+ 875 MHz 96 GB RAM) узлов: 1 (32xPA-8600 650 MHz 32 GB RAM) сеть: Gigabit Ethernet,0.35 0.70,Hewlett-Packard
+16,Екатеринбург 2004 г.,64/64,узлов: 1 (32xPOWER4+ 1.9 GHz 128 GB RAM) узлов: 1 (16xPOWER4+ 1.9 GHz 64 GB RAM) узлов: 1 (16xPOWER5 1.9 GHz 64 GB RAM) сеть: Gigabit Ethernet,0.34 0.49,IBM/КРОК
+15,Самара 2005 г.,64/64,узлов: 2 (32xPOWER5 1.9 GHz 224 GB RAM) сеть: Gigabit Ethernet,0.34 0.49,IBM
+17,Москва МСЦ РАН 2005 г.,384/384,узлов: 192 (2xAlpha 21264A 667 MHz 1 GB RAM) сеть: Myrinet 2000/Fast Ethernet,0.32 0.51,"ФГУП ""Квант"", ИПМ РАН, МСЦ"
+18,Бугульма ТатНефтеГеофизика 2005 г.,72/72,узлов: 26 (2xXeon EM64T 3.6 GHz 4 GB RAM) узлов: 8 (2xXeon EM64T 3.6 GHz 2 GB RAM) сеть: Gigabit Ethernet,0.31 0.49,IBM/ROY Int
+19,Москва СевМорНефтеГеофизика 2005 г.,68/68,узлов: 1 (2xXeon EM64T 3.6 GHz 2 GB RAM) узлов: 32 (2xXeon EM64T 3.6 GHz 3 GB RAM) сеть: Gigabit Ethernet,0.29 0.48,IBM/Inline
+20,Москва Petroalliance 2005 г.,72/72,узлов: 32 (2xXeon EM64T 3.2 GHz 2 GB RAM) узлов: 4 (2xXeon EM64T 3.6 GHz 2 GB RAM) сеть: Gigabit Ethernet,0.29 0.46,IBM/Verysel-проекты
+21,Бишкек Кыргизско Российский Славянский Университет 2006 г.,64/64,узлов: 32 (2xXeon EM64T 3 GHz 2.048 GB RAM) сеть: Myrinet/Gigabit Ethernet,0.29 0.38,Т-Платформы
+22,Пермь 2005 г.,128/128,узлов: 2 (64xPA-RISC 8900 1.1 GHz 128 GB RAM) сеть: Gigabit Ethernet,0.28 0.56,Hewlett-Packard
+23,Киев ИК НАН Украины 2004 г.,64/64,узлов: 32 (2xItanium 2 1.4 GHz 2 GB RAM) сеть: SCI/Gigabit Ethernet/Fast Ethernet,0.28 0.36,"ИК НАН Украины / ПНВП ""ЮСТАР"" г. Киев"
+24,Якутск Якутский Государственный Университет 2006 г.,34/34,узлов: 17 (2xOpteron 280 2.4 GHz 8.192 GB RAM) сеть: InfiniBand/Gigabit Ethernet/СКИФ-ServNet,0.28 0.33,Т-Платформы
+25,Санкт-Петербург 2005 г.,148/148,узлов: 2 (48xPA-RISC 8800 1 GHz 96 GB RAM) узлов: 1 (32xPA-RISC 8700+ 875 MHz 64 GB RAM) узлов: 1 (20xPA-RISC 8700 750 MHz 40 GB RAM) сеть: Gigabit Ethernet,0.28 0.56,Hewlett-Packard
+26,Челябинск Суперкомпьютерный центр ЮУрГУ 2004 г.,52/52,узлов: 26 (2xXeon EM64T 3.2 GHz 2 GB RAM) сеть: Infiniband (PCI-Express)/Gigabit Ethernet,0.27 0.33,Т-Платформы
+27,Дубна Научно-исследовательский институт прикладной акустики 2006 г.,48/48,узлов: 26 (2xOpteron 265 1.8 GHz 4.096 GB RAM) сеть: Gigabit Ethernet/Gigabit Ethernet/СКИФ-ServNet,0.27 0.36,Т-Платформы
+28,Снежинск ООО Стрела 2004 г.,66/66,узлов: 20 (2xXeon 2.8 GHz 4.096 GB RAM) узлов: 13 (2xXeon EM64T 3.2 GHz 4.096 GB RAM) сеть: InfiniBand/Fast Ethernet/Fast Ethernet,0.26 0.39,Собственная сборка
+29,Тула 2005 г.,48/48,узлов: 2 (24xPOWER5 1.9 GHz 96 GB RAM) сеть: Gigabit Ethernet,0.26 0.49,IBM
+30,Москва 2005 г.,144/144,узлов: 1 (64xPA-RISC 8800 1 GHz 128 GB RAM) узлов: 1 (48xPA-RISC 8700+ 875 MHz 96 GB RAM) узлов: 1 (32xPA-8600 650 MHz 32 GB RAM) сеть: Gigabit Ethernet,0.25 0.51,Hewlett-Packard
+31,Москва отдел высокопроизводительных вычислительных систем ОАО НИЦЭВТ 2003 г.,72/72,узлов: 36 (2xXeon 2.8 GHz 2 GB RAM) сеть: SCI/Gigabit Ethernet,0.25 0.40,"СКИФ, ОАО ”НИЦЭВТ”"
+32,Бугульма ТатНефтеГеофизика 2005 г.,60/60,узлов: 26 (2xXeon EM64T 3.6 GHz 4 GB RAM) узлов: 2 (2xXeon EM64T 3.6 GHz 2 GB RAM) сеть: Gigabit Ethernet,0.25 0.40,IBM/ROY Int
+33,Саров ЗАО Саровские Лаборатории 2005 г.,64/64,узлов: 32 (2xXeon EM64T 2.8 GHz 2 GB RAM) сеть: Gigabit Ethernet/Gigabit Ethernet,0.22 0.36,Т-Платформы
+34,Новосибирск 2005 г.,64/64,узлов: 2 (32xPOWER4+ 1.9 GHz 128 GB RAM) сеть: Gigabit Ethernet,0.21 0.49,IBM
+35,Красноярск КрасноярскГеофизика 2005 г.,60/60,узлов: 28 (2xXeon EM64T 3.4 GHz 4 GB RAM) узлов: 2 (2xXeon EM64T 3.6 GHz 2 GB RAM) сеть: Gigabit Ethernet,0.21 0.41,IBM/Verysel-проекты
+36,Ростов 2005 г.,120/120,узлов: 2 (60xPA-RISC 8700 875 MHz 120 GB RAM) сеть: Gigabit Ethernet,0.21 0.42,Hewlett-Packard
+37,Ставрополь 2004 г.,64/64,узлов: 2 (32xPOWER4+ 1.9 GHz 64 GB RAM) сеть: Gigabit Ethernet,0.21 0.49,IBM
+38,Иркутск 2005 г.,64/64,узлов: 2 (32xItanium 2 1.6 GHz 64 GB RAM) сеть: Gigabit Ethernet,0.20 0.41,Hewlett-Packard
+39,"Королев, МО отдел 2121, Центр параллельных вычислений ФГУП ЦНИИ машиностроения 2005 г.",49/49,узлов: 1 (Pentium IV 3.2 GHz 1.024 GB RAM) узлов: 26 (Pentium IV 3.2 GHz 1.024 GB RAM) узлов: 11 (2xXeon EM64T 3.2 GHz 2.048 GB RAM) сеть: Gigabit Ethernet/Fast Ethernet,0.20 0.31,Собственная сборка
+40,Алматы Paradigm Geophysical 2006 г.,52/52,узлов: 26 (2xXeon EM64T 3.4 GHz 4.096 GB RAM) сеть: Gigabit Ethernet/Gigabit Ethernet/СКИФ-ServNet,0.19 0.35,Т-Платформы
+41,Киев отдел 245 Институт Кибернетики НАН Украины 2005 г.,48/48,узлов: 24 (2xXeon 2.67 GHz 2.048 GB RAM) сеть: InfiniBand/Gigabit Ethernet/СКИФ-ServNet,0.19 0.26,"Институт Кибернетики НАН Украины, ЮСТАР (г. Киев), Т-Платформы (г. Москва)"
+42,Москва ИБХ РАН 2005 г.,48/48,узлов: 24 (2xOpteron 250 2.4 GHz 4 GB RAM) сеть: InfiniBand/Fast Ethernet,0.18 0.23,ДАТА Технологии
+43,"Череповец ОАО ""Северсталь"" 2005 г.",48/48,узлов: 1 (16xPOWER4 1.5 GHz 48 GB RAM) узлов: 1 (32xPOWER5 1.65 GHz 48 GB RAM) сеть: Gigabit Ethernet,0.18 0.30,IBM/BCC
+44,Ижевск КВЦ Институт прикладной механики УрО РАН 2005 г.,64/64,узлов: 32 (2xXeon 2.4 GHz 2.048 GB RAM) сеть: Myrinet 2000/Fast Ethernet,0.17 0.22,
+45,"Москва ООО «Кинтех», ФГУ РНЦ «Курчатовский институт» 2005 г.",36/36,узлов: 18 (2xXeon EM64T 3.4 GHz 4.096 GB RAM) сеть: InfiniBand/Gigabit Ethernet,0.16 0.24,"ООО ""ДАТА Технологии"" (поставщик)"
+46,Санкт-Петербург межкафедральная лаборатория прикладной математики и механики СПбГПУ 2006 г.,24/24,узлов: 12 (2xOpteron 275 2.2 GHz 8.192 GB RAM) сеть: Gigabit Ethernet/Gigabit Ethernet/СКИФ-ServNet,0.16 0.21,Т-Платформы
+47,Тюмень 2005 г.,48/48,узлов: 2 (24xPOWER4+ 1.9 GHz 96 GB RAM) сеть: Gigabit Ethernet,0.16 0.36,IBM
+48,Санкт-Петербург СКБ Газовых турбин ОАО Силовые машины-ЛМЗ 2005 г.,32/32,узлов: 16 (2xOpteron 265 1.8 GHz 2 GB RAM) сеть: Myrinet/Gigabit Ethernet/Fast Ethernet,0.16 0.23,"Кафедра ""Компьютерные технологии в машиностроении"" СПбГПУ"
+49,Москва НИИЯФ МГУ 2006 г.,24/24,узлов: 12 (2xOpteron 275 2.2 GHz 4.096 GB RAM) сеть: Gigabit Ethernet/Gigabit Ethernet,0.16 0.21,"Т-Платформы, Sun Microsystems"
+50,Москва Ингосстрах 2005 г.,48/48,узлов: 2 (24xPOWER4+ 1.9 GHz 48 GB RAM) сеть: Gigabit Ethernet,0.16 0.36,IBM/КРОК

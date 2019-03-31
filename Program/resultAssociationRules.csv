@@ -1,0 +1,1117 @@
+,place,cpu,cores,nodes,memory,nets,linpack,peak,developer
+1,not Moscow,1 cpu,1 cores,1 nodes,1 memory,1 nets,1 linpack,1 peak,domestic dev
+2,Moscow,1 cpu,1 cores,1 nodes,1 memory,5 nets,1 linpack,1 peak,domestic dev
+3,Moscow,1 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,domestic dev
+4,Moscow,2 cpu,2 cores,2 nodes,2 memory,2 nets,2 linpack,2 peak,foreign dev
+5,not Moscow,2 cpu,2 cores,2 nodes,3 memory,3 nets,2 linpack,2 peak,joint dev
+6,not Moscow,2 cpu,2 cores,2 nodes,2 memory,10 nets,2 linpack,2 peak,domestic dev
+7,Moscow,3 cpu,3 cores,3 nodes,2 memory,9 nets,3 linpack,3 peak,domestic dev
+8,not Moscow,4 cpu,4 cores,4 nodes,3 memory,1 nets,3 linpack,3 peak,domestic dev
+9,not Moscow,3 cpu,3 cores,3 nodes,5 memory,1 nets,3 linpack,3 peak,domestic dev
+10,Moscow,6 cpu,5 cores,5 nodes,4 memory,9 nets,3 linpack,3 peak,domestic dev
+11,not Moscow,5 cpu,5 cores,5 nodes,7 memory,8 nets,4 linpack,4 peak,domestic dev
+12,Moscow,7 cpu,7 cores,7 nodes,5 memory,2 nets,4 linpack,5 peak,domestic dev
+13,not Moscow,5 cpu,5 cores,4 nodes,5 memory,4 nets,4 linpack,4 peak,domestic dev
+14,Moscow,5 cpu,4 cores,6 nodes,7 memory,3 nets,4 linpack,4 peak,domestic dev
+15,Moscow,9 cpu,7 cores,9 nodes,8 memory,5 nets,5 linpack,6 peak,joint dev
+16,Moscow,5 cpu,5 cores,6 nodes,4 memory,7 nets,5 linpack,5 peak,domestic dev
+17,Moscow,8 cpu,8 cores,8 nodes,4 memory,4 nets,5 linpack,6 peak,joint dev
+18,not Moscow,4 cpu,6 cores,5 nodes,6 memory,10 nets,5 linpack,5 peak,domestic dev
+19,Moscow,7 cpu,7 cores,7 nodes,8 memory,6 nets,6 linpack,5 peak,domestic dev
+20,not Moscow,9 cpu,9 cores,9 nodes,9 memory,3 nets,6 linpack,6 peak,domestic dev
+21,not Moscow,8 cpu,8 cores,9 nodes,3 memory,7 nets,6 linpack,7 peak,domestic dev
+22,not Moscow,9 cpu,9 cores,7 nodes,5 memory,7 nets,6 linpack,7 peak,domestic dev
+23,Moscow,10 cpu,10 cores,10 nodes,7 memory,2 nets,7 linpack,9 peak,domestic dev
+24,not Moscow,7 cpu,8 cores,8 nodes,9 memory,5 nets,7 linpack,8 peak,joint dev
+25,not Moscow,7 cpu,9 cores,8 nodes,8 memory,5 nets,7 linpack,8 peak,domestic dev
+26,Moscow,6 cpu,4 cores,6 nodes,6 memory,7 nets,7 linpack,4 peak,domestic dev
+27,Moscow,3 cpu,3 cores,3 nodes,3 memory,10 nets,8 linpack,6 peak,domestic dev
+28,not Moscow,9 cpu,9 cores,7 nodes,9 memory,6 nets,8 linpack,8 peak,domestic dev
+29,Moscow,8 cpu,7 cores,9 nodes,8 memory,9 nets,8 linpack,8 peak,domestic dev
+30,not Moscow,6 cpu,4 cores,6 nodes,4 memory,4 nets,8 linpack,9 peak,domestic dev
+31,Moscow,8 cpu,8 cores,10 nodes,10 memory,3 nets,9 linpack,9 peak,joint dev
+32,not Moscow,4 cpu,6 cores,5 nodes,6 memory,8 nets,9 linpack,9 peak,domestic dev
+33,not Moscow,10 cpu,10 cores,10 nodes,7 memory,8 nets,9 linpack,10 peak,domestic dev
+34,not Moscow,10 cpu,10 cores,8 nodes,9 memory,6 nets,9 linpack,10 peak,domestic dev
+35,Moscow,10 cpu,10 cores,10 nodes,10 memory,9 nets,10 linpack,10 peak,domestic dev
+36,Moscow,4 cpu,6 cores,4 nodes,6 memory,8 nets,10 linpack,10 peak,domestic dev
+37,not Moscow,3 cpu,3 cores,3 nodes,10 memory,6 nets,10 linpack,7 peak,foreign dev
+38,not Moscow,6 cpu,6 cores,4 nodes,10 memory,10 nets,10 linpack,7 peak,domestic dev
+39,Moscow,1 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,domestic dev
+40,not Moscow,1 cpu,1 cores,1 nodes,1 memory,1 nets,1 linpack,1 peak,domestic dev
+41,Moscow,1 cpu,1 cores,1 nodes,1 memory,1 nets,1 linpack,2 peak,foreign dev
+42,Moscow,1 cpu,1 cores,1 nodes,1 memory,5 nets,1 linpack,1 peak,domestic dev
+43,not Moscow,2 cpu,2 cores,2 nodes,4 memory,5 nets,2 linpack,1 peak,joint dev
+44,not Moscow,2 cpu,2 cores,2 nodes,2 memory,10 nets,2 linpack,2 peak,domestic dev
+45,not Moscow,3 cpu,3 cores,3 nodes,5 memory,9 nets,2 linpack,3 peak,domestic dev
+46,Moscow,2 cpu,2 cores,2 nodes,4 memory,10 nets,2 linpack,2 peak,domestic dev
+47,not Moscow,3 cpu,3 cores,3 nodes,5 memory,9 nets,3 linpack,3 peak,domestic dev
+48,Moscow,4 cpu,4 cores,3 nodes,3 memory,8 nets,3 linpack,3 peak,domestic dev
+49,not Moscow,3 cpu,3 cores,10 nodes,3 memory,8 nets,3 linpack,2 peak,foreign dev
+50,not Moscow,4 cpu,4 cores,4 nodes,6 memory,2 nets,3 linpack,5 peak,domestic dev
+51,Moscow,4 cpu,4 cores,4 nodes,3 memory,2 nets,4 linpack,5 peak,domestic dev
+52,not Moscow,4 cpu,4 cores,4 nodes,6 memory,1 nets,4 linpack,5 peak,domestic dev
+53,not Moscow,2 cpu,2 cores,2 nodes,4 memory,5 nets,4 linpack,5 peak,domestic dev
+54,not Moscow,7 cpu,5 cores,6 nodes,8 memory,10 nets,4 linpack,6 peak,domestic dev
+55,not Moscow,6 cpu,6 cores,9 nodes,2 memory,7 nets,5 linpack,4 peak,foreign dev
+56,not Moscow,6 cpu,7 cores,10 nodes,3 memory,6 nets,5 linpack,4 peak,foreign dev
+57,not Moscow,6 cpu,6 cores,10 nodes,2 memory,7 nets,5 linpack,4 peak,foreign dev
+58,not Moscow,7 cpu,5 cores,10 nodes,2 memory,7 nets,5 linpack,4 peak,foreign dev
+59,Moscow,6 cpu,6 cores,5 nodes,7 memory,10 nets,6 linpack,6 peak,domestic dev
+60,Moscow,3 cpu,3 cores,3 nodes,5 memory,9 nets,6 linpack,3 peak,domestic dev
+61,not Moscow,7 cpu,7 cores,7 nodes,7 memory,3 nets,6 linpack,7 peak,domestic dev
+62,Moscow,9 cpu,9 cores,8 nodes,8 memory,3 nets,6 linpack,9 peak,joint dev
+63,Moscow,8 cpu,8 cores,7 nodes,8 memory,2 nets,7 linpack,8 peak,domestic dev
+64,not Moscow,5 cpu,7 cores,5 nodes,7 memory,4 nets,7 linpack,6 peak,domestic dev
+65,Moscow,5 cpu,6 cores,5 nodes,6 memory,8 nets,7 linpack,7 peak,domestic dev
+66,Moscow,5 cpu,7 cores,5 nodes,9 memory,3 nets,7 linpack,7 peak,domestic dev
+67,Moscow,8 cpu,10 cores,8 nodes,6 memory,4 nets,7 linpack,9 peak,joint dev
+68,not Moscow,7 cpu,5 cores,6 nodes,9 memory,10 nets,8 linpack,7 peak,domestic dev
+69,Moscow,8 cpu,8 cores,7 nodes,10 memory,6 nets,8 linpack,8 peak,domestic dev
+70,not Moscow,8 cpu,9 cores,8 nodes,5 memory,8 nets,8 linpack,9 peak,domestic dev
+71,not Moscow,10 cpu,10 cores,8 nodes,10 memory,5 nets,8 linpack,9 peak,domestic dev
+72,Moscow,8 cpu,9 cores,9 nodes,7 memory,8 nets,8 linpack,7 peak,foreign dev
+73,Moscow,7 cpu,5 cores,6 nodes,10 memory,6 nets,9 linpack,6 peak,domestic dev
+74,not Moscow,9 cpu,9 cores,9 nodes,4 memory,9 nets,9 linpack,8 peak,foreign dev
+75,Moscow,9 cpu,9 cores,9 nodes,9 memory,7 nets,9 linpack,8 peak,foreign dev
+76,Moscow,9 cpu,8 cores,10 nodes,9 memory,7 nets,9 linpack,8 peak,foreign dev
+77,not Moscow,9 cpu,8 cores,8 nodes,8 memory,3 nets,9 linpack,9 peak,domestic dev
+78,not Moscow,10 cpu,10 cores,6 nodes,8 memory,9 nets,10 linpack,10 peak,domestic dev
+79,not Moscow,10 cpu,8 cores,7 nodes,10 memory,2 nets,10 linpack,10 peak,joint dev
+80,Moscow,10 cpu,10 cores,9 nodes,9 memory,1 nets,10 linpack,10 peak,domestic dev
+81,not Moscow,5 cpu,7 cores,4 nodes,7 memory,4 nets,10 linpack,10 peak,domestic dev
+82,not Moscow,10 cpu,10 cores,7 nodes,10 memory,6 nets,10 linpack,10 peak,domestic dev
+83,Moscow,1 cpu,1 cores,1 nodes,1 memory,5 nets,1 linpack,1 peak,domestic dev
+84,not Moscow,1 cpu,1 cores,1 nodes,1 memory,2 nets,1 linpack,1 peak,domestic dev
+85,Moscow,1 cpu,1 cores,1 nodes,2 memory,5 nets,1 linpack,1 peak,foreign dev
+86,not Moscow,3 cpu,4 cores,3 nodes,2 memory,1 nets,1 linpack,1 peak,joint dev
+87,Moscow,2 cpu,2 cores,2 nodes,2 memory,3 nets,2 linpack,2 peak,foreign dev
+88,not Moscow,3 cpu,4 cores,3 nodes,6 memory,4 nets,2 linpack,2 peak,joint dev
+89,not Moscow,3 cpu,3 cores,2 nodes,5 memory,10 nets,2 linpack,2 peak,domestic dev
+90,Moscow,2 cpu,2 cores,8 nodes,1 memory,6 nets,2 linpack,2 peak,foreign dev
+91,not Moscow,5 cpu,5 cores,10 nodes,1 memory,6 nets,3 linpack,4 peak,foreign dev
+92,Moscow,1 cpu,1 cores,1 nodes,4 memory,5 nets,3 linpack,3 peak,domestic dev
+93,not Moscow,5 cpu,5 cores,4 nodes,6 memory,10 nets,3 linpack,5 peak,domestic dev
+94,not Moscow,2 cpu,2 cores,8 nodes,2 memory,6 nets,3 linpack,3 peak,foreign dev
+95,not Moscow,3 cpu,3 cores,10 nodes,3 memory,7 nets,4 linpack,3 peak,foreign dev
+96,not Moscow,7 cpu,6 cores,9 nodes,4 memory,8 nets,4 linpack,4 peak,foreign dev
+97,not Moscow,4 cpu,4 cores,3 nodes,4 memory,2 nets,4 linpack,5 peak,domestic dev
+98,Moscow,2 cpu,2 cores,8 nodes,3 memory,5 nets,4 linpack,3 peak,foreign dev
+99,Moscow,4 cpu,4 cores,3 nodes,6 memory,10 nets,4 linpack,5 peak,domestic dev
+100,Moscow,6 cpu,6 cores,5 nodes,6 memory,9 nets,5 linpack,6 peak,domestic dev
+101,not Moscow,5 cpu,5 cores,4 nodes,6 memory,8 nets,5 linpack,6 peak,domestic dev
+102,not Moscow,5 cpu,5 cores,9 nodes,5 memory,7 nets,5 linpack,4 peak,foreign dev
+103,not Moscow,4 cpu,4 cores,8 nodes,3 memory,8 nets,5 linpack,4 peak,foreign dev
+104,not Moscow,5 cpu,5 cores,10 nodes,3 memory,7 nets,5 linpack,4 peak,foreign dev
+105,not Moscow,6 cpu,6 cores,10 nodes,5 memory,5 nets,6 linpack,5 peak,foreign dev
+106,not Moscow,7 cpu,7 cores,5 nodes,8 memory,2 nets,6 linpack,7 peak,domestic dev
+107,Moscow,6 cpu,6 cores,5 nodes,5 memory,1 nets,6 linpack,7 peak,domestic dev
+108,not Moscow,6 cpu,7 cores,9 nodes,4 memory,8 nets,6 linpack,5 peak,foreign dev
+109,Moscow,9 cpu,9 cores,7 nodes,9 memory,1 nets,6 linpack,8 peak,domestic dev
+110,not Moscow,4 cpu,3 cores,2 nodes,7 memory,4 nets,7 linpack,7 peak,domestic dev
+111,Moscow,8 cpu,7 cores,6 nodes,8 memory,4 nets,7 linpack,8 peak,joint dev
+112,not Moscow,4 cpu,3 cores,2 nodes,7 memory,4 nets,7 linpack,7 peak,domestic dev
+113,Moscow,6 cpu,6 cores,4 nodes,7 memory,7 nets,7 linpack,6 peak,domestic dev
+114,not Moscow,9 cpu,8 cores,9 nodes,5 memory,9 nets,7 linpack,6 peak,foreign dev
+115,not Moscow,9 cpu,7 cores,10 nodes,4 memory,9 nets,8 linpack,6 peak,foreign dev
+116,not Moscow,9 cpu,7 cores,6 nodes,10 memory,9 nets,8 linpack,8 peak,domestic dev
+117,not Moscow,10 cpu,10 cores,5 nodes,7 memory,2 nets,8 linpack,9 peak,domestic dev
+118,Moscow,8 cpu,8 cores,9 nodes,7 memory,8 nets,8 linpack,7 peak,foreign dev
+119,Moscow,7 cpu,9 cores,6 nodes,8 memory,10 nets,8 linpack,8 peak,domestic dev
+120,not Moscow,9 cpu,9 cores,7 nodes,9 memory,4 nets,9 linpack,10 peak,domestic dev
+121,not Moscow,7 cpu,9 cores,4 nodes,8 memory,7 nets,9 linpack,9 peak,domestic dev
+122,not Moscow,10 cpu,10 cores,4 nodes,9 memory,9 nets,9 linpack,9 peak,domestic dev
+123,not Moscow,7 cpu,9 cores,6 nodes,9 memory,3 nets,9 linpack,8 peak,domestic dev
+124,Moscow,8 cpu,8 cores,7 nodes,10 memory,3 nets,9 linpack,9 peak,domestic dev
+125,Moscow,8 cpu,8 cores,5 nodes,9 memory,6 nets,10 linpack,9 peak,domestic dev
+126,Moscow,10 cpu,10 cores,7 nodes,10 memory,1 nets,10 linpack,10 peak,domestic dev
+127,not Moscow,10 cpu,10 cores,7 nodes,10 memory,6 nets,10 linpack,10 peak,domestic dev
+128,not Moscow,8 cpu,8 cores,6 nodes,10 memory,10 nets,10 linpack,10 peak,domestic dev
+129,Moscow,10 cpu,10 cores,8 nodes,8 memory,3 nets,10 linpack,10 peak,joint dev
+130,Moscow,1 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,domestic dev
+131,not Moscow,1 cpu,1 cores,1 nodes,1 memory,2 nets,1 linpack,1 peak,domestic dev
+132,Moscow,1 cpu,1 cores,1 nodes,3 memory,4 nets,1 linpack,1 peak,foreign dev
+133,not Moscow,4 cpu,3 cores,2 nodes,3 memory,2 nets,1 linpack,2 peak,joint dev
+134,Moscow,3 cpu,4 cores,8 nodes,1 memory,4 nets,2 linpack,2 peak,joint dev
+135,Moscow,2 cpu,2 cores,2 nodes,2 memory,5 nets,2 linpack,1 peak,domestic dev
+136,Moscow,2 cpu,2 cores,2 nodes,2 memory,1 nets,2 linpack,3 peak,foreign dev
+137,not Moscow,3 cpu,3 cores,3 nodes,9 memory,3 nets,2 linpack,2 peak,joint dev
+138,not Moscow,3 cpu,3 cores,2 nodes,5 memory,10 nets,3 linpack,2 peak,domestic dev
+139,Moscow,4 cpu,4 cores,3 nodes,5 memory,8 nets,3 linpack,3 peak,joint dev
+140,Moscow,4 cpu,4 cores,3 nodes,6 memory,10 nets,3 linpack,3 peak,joint dev
+141,Moscow,2 cpu,2 cores,7 nodes,2 memory,5 nets,3 linpack,3 peak,foreign dev
+142,not Moscow,6 cpu,6 cores,10 nodes,1 memory,5 nets,3 linpack,5 peak,foreign dev
+143,not Moscow,7 cpu,6 cores,8 nodes,3 memory,8 nets,4 linpack,4 peak,joint dev
+144,Moscow,1 cpu,1 cores,1 nodes,4 memory,3 nets,4 linpack,4 peak,domestic dev
+145,not Moscow,5 cpu,5 cores,4 nodes,6 memory,9 nets,4 linpack,5 peak,foreign dev
+146,Moscow,5 cpu,5 cores,4 nodes,7 memory,7 nets,4 linpack,5 peak,joint dev
+147,Moscow,5 cpu,5 cores,4 nodes,8 memory,6 nets,4 linpack,6 peak,joint dev
+148,not Moscow,6 cpu,5 cores,5 nodes,9 memory,10 nets,5 linpack,7 peak,domestic dev
+149,not Moscow,2 cpu,2 cores,7 nodes,2 memory,6 nets,5 linpack,4 peak,foreign dev
+150,not Moscow,3 cpu,3 cores,9 nodes,4 memory,8 nets,5 linpack,3 peak,foreign dev
+151,not Moscow,7 cpu,7 cores,5 nodes,9 memory,1 nets,5 linpack,8 peak,domestic dev
+152,not Moscow,8 cpu,8 cores,10 nodes,4 memory,7 nets,5 linpack,4 peak,foreign dev
+153,not Moscow,5 cpu,5 cores,4 nodes,5 memory,3 nets,6 linpack,7 peak,domestic dev
+154,Moscow,3 cpu,3 cores,8 nodes,3 memory,6 nets,6 linpack,4 peak,foreign dev
+155,Moscow,4 cpu,4 cores,3 nodes,8 memory,10 nets,6 linpack,7 peak,domestic dev
+156,not Moscow,7 cpu,7 cores,5 nodes,6 memory,9 nets,6 linpack,6 peak,foreign dev
+157,not Moscow,6 cpu,6 cores,4 nodes,9 memory,6 nets,6 linpack,7 peak,domestic dev
+158,not Moscow,4 cpu,4 cores,9 nodes,4 memory,4 nets,7 linpack,6 peak,foreign dev
+159,not Moscow,7 cpu,7 cores,5 nodes,6 memory,10 nets,7 linpack,6 peak,joint dev
+160,not Moscow,6 cpu,7 cores,8 nodes,5 memory,9 nets,7 linpack,5 peak,foreign dev
+161,not Moscow,6 cpu,6 cores,10 nodes,3 memory,9 nets,7 linpack,5 peak,foreign dev
+162,not Moscow,5 cpu,6 cores,10 nodes,5 memory,8 nets,7 linpack,6 peak,foreign dev
+163,not Moscow,8 cpu,8 cores,6 nodes,10 memory,1 nets,8 linpack,9 peak,domestic dev
+164,not Moscow,8 cpu,7 cores,9 nodes,7 memory,7 nets,8 linpack,8 peak,joint dev
+165,Moscow,8 cpu,8 cores,6 nodes,8 memory,2 nets,8 linpack,9 peak,domestic dev
+166,Moscow,8 cpu,8 cores,10 nodes,7 memory,4 nets,8 linpack,8 peak,joint dev
+167,not Moscow,7 cpu,8 cores,9 nodes,4 memory,8 nets,8 linpack,7 peak,foreign dev
+168,Moscow,9 cpu,9 cores,6 nodes,8 memory,2 nets,9 linpack,9 peak,domestic dev
+169,not Moscow,9 cpu,9 cores,6 nodes,10 memory,3 nets,9 linpack,9 peak,domestic dev
+170,not Moscow,10 cpu,10 cores,7 nodes,7 memory,7 nets,9 linpack,10 peak,domestic dev
+171,Moscow,10 cpu,10 cores,7 nodes,10 memory,5 nets,9 linpack,10 peak,joint dev
+172,Moscow,10 cpu,10 cores,6 nodes,9 memory,3 nets,9 linpack,9 peak,joint dev
+173,Moscow,10 cpu,10 cores,7 nodes,10 memory,1 nets,10 linpack,10 peak,domestic dev
+174,not Moscow,9 cpu,9 cores,5 nodes,8 memory,6 nets,10 linpack,8 peak,domestic dev
+175,Moscow,9 cpu,9 cores,9 nodes,7 memory,7 nets,10 linpack,10 peak,joint dev
+176,Moscow,10 cpu,10 cores,8 nodes,6 memory,9 nets,10 linpack,10 peak,joint dev
+177,not Moscow,9 cpu,9 cores,3 nodes,10 memory,5 nets,10 linpack,8 peak,domestic dev
+178,Moscow,1 cpu,1 cores,1 nodes,1 memory,3 nets,1 linpack,1 peak,domestic dev
+179,not Moscow,1 cpu,1 cores,1 nodes,1 memory,2 nets,1 linpack,1 peak,domestic dev
+180,Moscow,1 cpu,1 cores,1 nodes,3 memory,4 nets,1 linpack,1 peak,foreign dev
+181,not Moscow,4 cpu,3 cores,2 nodes,3 memory,2 nets,1 linpack,2 peak,joint dev
+182,Moscow,3 cpu,3 cores,10 nodes,1 memory,5 nets,2 linpack,2 peak,joint dev
+183,Moscow,2 cpu,2 cores,2 nodes,2 memory,6 nets,2 linpack,1 peak,domestic dev
+184,Moscow,2 cpu,2 cores,2 nodes,2 memory,1 nets,2 linpack,3 peak,foreign dev
+185,not Moscow,3 cpu,3 cores,3 nodes,9 memory,3 nets,2 linpack,2 peak,joint dev
+186,not Moscow,3 cpu,3 cores,2 nodes,5 memory,10 nets,3 linpack,2 peak,domestic dev
+187,Moscow,4 cpu,4 cores,3 nodes,5 memory,8 nets,3 linpack,3 peak,joint dev
+188,not Moscow,4 cpu,4 cores,3 nodes,5 memory,3 nets,3 linpack,5 peak,foreign dev
+189,Moscow,2 cpu,2 cores,8 nodes,2 memory,6 nets,3 linpack,3 peak,foreign dev
+190,Moscow,4 cpu,4 cores,3 nodes,7 memory,7 nets,3 linpack,3 peak,joint dev
+191,not Moscow,7 cpu,6 cores,8 nodes,3 memory,8 nets,4 linpack,5 peak,joint dev
+192,not Moscow,6 cpu,6 cores,9 nodes,1 memory,5 nets,4 linpack,5 peak,foreign dev
+193,Moscow,1 cpu,1 cores,1 nodes,4 memory,3 nets,4 linpack,4 peak,domestic dev
+194,not Moscow,5 cpu,5 cores,4 nodes,6 memory,9 nets,4 linpack,5 peak,foreign dev
+195,not Moscow,6 cpu,6 cores,5 nodes,9 memory,4 nets,4 linpack,7 peak,domestic dev
+196,Moscow,5 cpu,5 cores,4 nodes,7 memory,7 nets,5 linpack,6 peak,joint dev
+197,Moscow,5 cpu,5 cores,4 nodes,9 memory,6 nets,5 linpack,6 peak,joint dev
+198,not Moscow,6 cpu,7 cores,5 nodes,9 memory,10 nets,5 linpack,8 peak,domestic dev
+199,not Moscow,2 cpu,2 cores,8 nodes,2 memory,6 nets,5 linpack,4 peak,foreign dev
+200,not Moscow,10 cpu,10 cores,7 nodes,5 memory,3 nets,5 linpack,9 peak,domestic dev
+201,not Moscow,3 cpu,4 cores,10 nodes,3 memory,9 nets,6 linpack,3 peak,foreign dev
+202,not Moscow,8 cpu,9 cores,6 nodes,7 memory,7 nets,6 linpack,8 peak,domestic dev
+203,not Moscow,8 cpu,8 cores,6 nodes,10 memory,1 nets,6 linpack,9 peak,domestic dev
+204,not Moscow,8 cpu,9 cores,10 nodes,4 memory,4 nets,6 linpack,5 peak,foreign dev
+205,not Moscow,5 cpu,5 cores,4 nodes,5 memory,2 nets,6 linpack,7 peak,domestic dev
+206,Moscow,3 cpu,3 cores,8 nodes,3 memory,8 nets,7 linpack,4 peak,foreign dev
+207,not Moscow,7 cpu,7 cores,5 nodes,6 memory,9 nets,7 linpack,7 peak,foreign dev
+208,Moscow,5 cpu,5 cores,4 nodes,8 memory,10 nets,7 linpack,7 peak,domestic dev
+209,not Moscow,7 cpu,6 cores,5 nodes,9 memory,5 nets,7 linpack,8 peak,domestic dev
+210,not Moscow,6 cpu,7 cores,9 nodes,6 memory,9 nets,7 linpack,4 peak,foreign dev
+211,not Moscow,7 cpu,6 cores,10 nodes,4 memory,8 nets,8 linpack,4 peak,foreign dev
+212,not Moscow,7 cpu,7 cores,5 nodes,6 memory,9 nets,8 linpack,6 peak,joint dev
+213,not Moscow,4 cpu,4 cores,10 nodes,4 memory,4 nets,8 linpack,6 peak,foreign dev
+214,not Moscow,6 cpu,7 cores,8 nodes,6 memory,10 nets,8 linpack,6 peak,foreign dev
+215,not Moscow,8 cpu,8 cores,3 nodes,10 memory,5 nets,8 linpack,9 peak,domestic dev
+216,not Moscow,8 cpu,8 cores,6 nodes,7 memory,10 nets,9 linpack,8 peak,domestic dev
+217,not Moscow,9 cpu,9 cores,6 nodes,10 memory,1 nets,9 linpack,9 peak,domestic dev
+218,not Moscow,9 cpu,8 cores,9 nodes,8 memory,7 nets,9 linpack,9 peak,joint dev
+219,Moscow,9 cpu,9 cores,6 nodes,8 memory,2 nets,9 linpack,10 peak,domestic dev
+220,not Moscow,9 cpu,9 cores,9 nodes,4 memory,8 nets,9 linpack,7 peak,foreign dev
+221,Moscow,9 cpu,8 cores,9 nodes,8 memory,6 nets,10 linpack,8 peak,joint dev
+222,Moscow,10 cpu,10 cores,7 nodes,8 memory,1 nets,10 linpack,10 peak,domestic dev
+223,not Moscow,10 cpu,10 cores,7 nodes,10 memory,4 nets,10 linpack,10 peak,domestic dev
+224,not Moscow,10 cpu,10 cores,7 nodes,7 memory,7 nets,10 linpack,10 peak,domestic dev
+225,Moscow,10 cpu,10 cores,7 nodes,10 memory,5 nets,10 linpack,10 peak,joint dev
+226,not Moscow,1 cpu,1 cores,1 nodes,1 memory,1 nets,1 linpack,1 peak,domestic dev
+227,Moscow,1 cpu,1 cores,1 nodes,1 memory,5 nets,1 linpack,1 peak,domestic dev
+228,Moscow,1 cpu,1 cores,1 nodes,1 memory,2 nets,1 linpack,1 peak,foreign dev
+229,Moscow,1 cpu,1 cores,7 nodes,10 memory,1 nets,1 linpack,1 peak,foreign dev
+230,not Moscow,4 cpu,2 cores,3 nodes,2 memory,2 nets,1 linpack,1 peak,domestic dev
+231,not Moscow,1 cpu,1 cores,1 nodes,1 memory,4 nets,2 linpack,2 peak,domestic dev
+232,not Moscow,5 cpu,2 cores,3 nodes,5 memory,4 nets,2 linpack,2 peak,domestic dev
+233,Moscow,2 cpu,2 cores,1 nodes,4 memory,5 nets,2 linpack,2 peak,foreign dev
+234,not Moscow,3 cpu,2 cores,2 nodes,2 memory,2 nets,2 linpack,2 peak,domestic dev
+235,not Moscow,9 cpu,5 cores,7 nodes,5 memory,1 nets,2 linpack,3 peak,domestic dev
+236,not Moscow,4 cpu,4 cores,2 nodes,4 memory,3 nets,3 linpack,3 peak,joint dev
+237,Moscow,4 cpu,3 cores,9 nodes,2 memory,6 nets,3 linpack,3 peak,joint dev
+238,Moscow,2 cpu,3 cores,2 nodes,3 memory,8 nets,3 linpack,2 peak,domestic dev
+239,not Moscow,3 cpu,4 cores,2 nodes,7 memory,5 nets,3 linpack,3 peak,joint dev
+240,Moscow,2 cpu,3 cores,2 nodes,3 memory,3 nets,3 linpack,4 peak,foreign dev
+241,not Moscow,3 cpu,4 cores,3 nodes,7 memory,10 nets,4 linpack,3 peak,domestic dev
+242,Moscow,9 cpu,5 cores,7 nodes,2 memory,1 nets,4 linpack,5 peak,domestic dev
+243,Moscow,5 cpu,5 cores,3 nodes,6 memory,10 nets,4 linpack,4 peak,joint dev
+244,Moscow,9 cpu,5 cores,6 nodes,3 memory,1 nets,4 linpack,5 peak,domestic dev
+245,Moscow,10 cpu,8 cores,8 nodes,1 memory,10 nets,4 linpack,8 peak,domestic dev
+246,not Moscow,5 cpu,6 cores,4 nodes,6 memory,4 nets,5 linpack,6 peak,foreign dev
+247,not Moscow,10 cpu,10 cores,8 nodes,10 memory,2 nets,5 linpack,7 peak,domestic dev
+248,Moscow,4 cpu,5 cores,3 nodes,8 memory,7 nets,5 linpack,4 peak,joint dev
+249,Moscow,2 cpu,2 cores,8 nodes,3 memory,7 nets,5 linpack,4 peak,foreign dev
+250,not Moscow,7 cpu,7 cores,9 nodes,2 memory,6 nets,5 linpack,6 peak,foreign dev
+251,not Moscow,7 cpu,7 cores,9 nodes,4 memory,9 nets,6 linpack,6 peak,joint dev
+252,Moscow,10 cpu,8 cores,8 nodes,6 memory,3 nets,6 linpack,8 peak,domestic dev
+253,not Moscow,5 cpu,6 cores,4 nodes,7 memory,8 nets,6 linpack,5 peak,foreign dev
+254,not Moscow,7 cpu,7 cores,5 nodes,9 memory,4 nets,6 linpack,9 peak,domestic dev
+255,Moscow,6 cpu,6 cores,5 nodes,8 memory,7 nets,6 linpack,7 peak,joint dev
+256,Moscow,6 cpu,6 cores,4 nodes,9 memory,6 nets,7 linpack,7 peak,joint dev
+257,not Moscow,3 cpu,4 cores,9 nodes,4 memory,9 nets,7 linpack,5 peak,foreign dev
+258,not Moscow,2 cpu,3 cores,8 nodes,3 memory,9 nets,7 linpack,4 peak,foreign dev
+259,not Moscow,10 cpu,10 cores,7 nodes,6 memory,4 nets,7 linpack,10 peak,domestic dev
+260,not Moscow,8 cpu,9 cores,5 nodes,9 memory,10 nets,7 linpack,9 peak,domestic dev
+261,not Moscow,8 cpu,9 cores,6 nodes,10 memory,2 nets,8 linpack,10 peak,domestic dev
+262,not Moscow,9 cpu,10 cores,6 nodes,8 memory,7 nets,8 linpack,9 peak,domestic dev
+263,not Moscow,6 cpu,7 cores,5 nodes,6 memory,3 nets,8 linpack,9 peak,domestic dev
+264,not Moscow,9 cpu,10 cores,10 nodes,5 memory,7 nets,8 linpack,7 peak,foreign dev
+265,not Moscow,8 cpu,9 cores,6 nodes,8 memory,8 nets,8 linpack,8 peak,foreign dev
+266,Moscow,5 cpu,6 cores,4 nodes,9 memory,10 nets,9 linpack,9 peak,domestic dev
+267,Moscow,3 cpu,3 cores,9 nodes,5 memory,9 nets,9 linpack,5 peak,foreign dev
+268,Moscow,10 cpu,7 cores,7 nodes,9 memory,3 nets,9 linpack,10 peak,joint dev
+269,not Moscow,7 cpu,8 cores,5 nodes,10 memory,6 nets,9 linpack,10 peak,domestic dev
+270,not Moscow,8 cpu,9 cores,6 nodes,8 memory,5 nets,9 linpack,8 peak,joint dev
+271,not Moscow,4 cpu,4 cores,10 nodes,5 memory,5 nets,10 linpack,7 peak,foreign dev
+272,not Moscow,7 cpu,8 cores,10 nodes,7 memory,8 nets,10 linpack,6 peak,foreign dev
+273,not Moscow,6 cpu,9 cores,10 nodes,4 memory,9 nets,10 linpack,6 peak,foreign dev
+274,not Moscow,6 cpu,8 cores,10 nodes,7 memory,8 nets,10 linpack,8 peak,foreign dev
+275,not Moscow,8 cpu,10 cores,4 nodes,10 memory,6 nets,10 linpack,10 peak,domestic dev
+276,not Moscow,1 cpu,1 cores,1 nodes,1 memory,1 nets,1 linpack,1 peak,domestic dev
+277,Moscow,1 cpu,1 cores,1 nodes,1 memory,6 nets,1 linpack,1 peak,domestic dev
+278,Moscow,2 cpu,1 cores,1 nodes,2 memory,4 nets,1 linpack,1 peak,foreign dev
+279,Moscow,2 cpu,2 cores,2 nodes,2 memory,6 nets,1 linpack,1 peak,joint dev
+280,not Moscow,2 cpu,2 cores,2 nodes,4 memory,5 nets,2 linpack,2 peak,domestic dev
+281,Moscow,1 cpu,1 cores,8 nodes,10 memory,1 nets,2 linpack,2 peak,foreign dev
+282,not Moscow,5 cpu,3 cores,4 nodes,2 memory,4 nets,2 linpack,2 peak,domestic dev
+283,not Moscow,1 cpu,2 cores,1 nodes,1 memory,4 nets,2 linpack,3 peak,domestic dev
+284,not Moscow,4 cpu,3 cores,3 nodes,10 memory,7 nets,2 linpack,2 peak,domestic dev
+285,Moscow,2 cpu,2 cores,2 nodes,5 memory,6 nets,3 linpack,3 peak,foreign dev
+286,not Moscow,5 cpu,3 cores,4 nodes,3 memory,7 nets,3 linpack,2 peak,domestic dev
+287,not Moscow,3 cpu,2 cores,3 nodes,2 memory,5 nets,3 linpack,3 peak,domestic dev
+288,not Moscow,10 cpu,4 cores,8 nodes,10 memory,2 nets,3 linpack,3 peak,domestic dev
+289,not Moscow,8 cpu,7 cores,7 nodes,5 memory,2 nets,3 linpack,4 peak,domestic dev
+290,not Moscow,4 cpu,5 cores,3 nodes,4 memory,3 nets,4 linpack,4 peak,joint dev
+291,Moscow,10 cpu,6 cores,8 nodes,8 memory,5 nets,4 linpack,4 peak,domestic dev
+292,Moscow,5 cpu,4 cores,10 nodes,2 memory,7 nets,4 linpack,4 peak,joint dev
+293,Moscow,3 cpu,4 cores,2 nodes,4 memory,9 nets,4 linpack,3 peak,domestic dev
+294,not Moscow,4 cpu,5 cores,3 nodes,7 memory,5 nets,4 linpack,4 peak,joint dev
+295,Moscow,3 cpu,3 cores,2 nodes,4 memory,3 nets,5 linpack,5 peak,foreign dev
+296,Moscow,8 cpu,6 cores,5 nodes,7 memory,3 nets,5 linpack,5 peak,foreign dev
+297,not Moscow,10 cpu,8 cores,8 nodes,7 memory,9 nets,5 linpack,5 peak,domestic dev
+298,not Moscow,4 cpu,5 cores,3 nodes,8 memory,10 nets,5 linpack,5 peak,domestic dev
+299,Moscow,9 cpu,6 cores,7 nodes,3 memory,1 nets,5 linpack,7 peak,domestic dev
+300,Moscow,5 cpu,7 cores,4 nodes,6 memory,6 nets,6 linpack,6 peak,joint dev
+301,Moscow,9 cpu,6 cores,7 nodes,3 memory,1 nets,6 linpack,7 peak,domestic dev
+302,not Moscow,9 cpu,8 cores,7 nodes,9 memory,4 nets,6 linpack,6 peak,domestic dev
+303,Moscow,10 cpu,8 cores,9 nodes,1 memory,10 nets,6 linpack,9 peak,domestic dev
+304,not Moscow,6 cpu,7 cores,4 nodes,6 memory,2 nets,6 linpack,8 peak,foreign dev
+305,not Moscow,10 cpu,10 cores,9 nodes,10 memory,2 nets,7 linpack,9 peak,domestic dev
+306,Moscow,2 cpu,3 cores,9 nodes,3 memory,8 nets,7 linpack,5 peak,foreign dev
+307,Moscow,5 cpu,6 cores,4 nodes,8 memory,8 nets,7 linpack,6 peak,joint dev
+308,not Moscow,7 cpu,9 cores,9 nodes,5 memory,10 nets,7 linpack,8 peak,joint dev
+309,not Moscow,7 cpu,9 cores,10 nodes,3 memory,7 nets,7 linpack,8 peak,foreign dev
+310,Moscow,9 cpu,9 cores,8 nodes,7 memory,3 nets,8 linpack,9 peak,domestic dev
+311,not Moscow,6 cpu,7 cores,5 nodes,8 memory,8 nets,8 linpack,8 peak,foreign dev
+312,Moscow,6 cpu,7 cores,5 nodes,9 memory,7 nets,8 linpack,9 peak,joint dev
+313,Moscow,6 cpu,8 cores,5 nodes,9 memory,8 nets,8 linpack,8 peak,joint dev
+314,not Moscow,7 cpu,9 cores,6 nodes,9 memory,5 nets,8 linpack,10 peak,domestic dev
+315,not Moscow,9 cpu,10 cores,7 nodes,6 memory,2 nets,9 linpack,10 peak,domestic dev
+316,not Moscow,7 cpu,9 cores,6 nodes,9 memory,10 nets,9 linpack,10 peak,domestic dev
+317,not Moscow,7 cpu,5 cores,6 nodes,7 memory,9 nets,9 linpack,7 peak,domestic dev
+318,not Moscow,3 cpu,4 cores,9 nodes,4 memory,9 nets,9 linpack,6 peak,foreign dev
+319,not Moscow,4 cpu,5 cores,10 nodes,5 memory,6 nets,9 linpack,6 peak,foreign dev
+320,not Moscow,8 cpu,10 cores,6 nodes,8 memory,8 nets,10 linpack,10 peak,domestic dev
+321,not Moscow,8 cpu,10 cores,6 nodes,10 memory,4 nets,10 linpack,10 peak,domestic dev
+322,not Moscow,6 cpu,8 cores,5 nodes,6 memory,3 nets,10 linpack,9 peak,domestic dev
+323,not Moscow,8 cpu,10 cores,10 nodes,6 memory,10 nets,10 linpack,7 peak,foreign dev
+324,Moscow,3 cpu,4 cores,10 nodes,5 memory,9 nets,10 linpack,7 peak,foreign dev
+325,Moscow,1 cpu,1 cores,1 nodes,1 memory,5 nets,1 linpack,1 peak,domestic dev
+326,Moscow,1 cpu,1 cores,1 nodes,1 memory,5 nets,1 linpack,1 peak,foreign dev
+327,not Moscow,2 cpu,1 cores,2 nodes,1 memory,6 nets,1 linpack,1 peak,foreign dev
+328,not Moscow,2 cpu,2 cores,2 nodes,2 memory,5 nets,1 linpack,2 peak,domestic dev
+329,not Moscow,2 cpu,1 cores,2 nodes,10 memory,4 nets,2 linpack,1 peak,foreign dev
+330,not Moscow,2 cpu,2 cores,1 nodes,2 memory,1 nets,2 linpack,2 peak,domestic dev
+331,not Moscow,3 cpu,2 cores,2 nodes,2 memory,7 nets,2 linpack,2 peak,foreign dev
+332,Moscow,2 cpu,3 cores,2 nodes,10 memory,4 nets,2 linpack,2 peak,foreign dev
+333,not Moscow,3 cpu,2 cores,3 nodes,1 memory,7 nets,2 linpack,2 peak,domestic dev
+334,Moscow,3 cpu,3 cores,3 nodes,2 memory,9 nets,3 linpack,3 peak,joint dev
+335,not Moscow,5 cpu,3 cores,5 nodes,3 memory,1 nets,3 linpack,3 peak,domestic dev
+336,not Moscow,4 cpu,4 cores,4 nodes,5 memory,6 nets,3 linpack,3 peak,domestic dev
+337,Moscow,1 cpu,2 cores,9 nodes,10 memory,2 nets,3 linpack,3 peak,foreign dev
+338,not Moscow,6 cpu,3 cores,6 nodes,7 memory,4 nets,3 linpack,3 peak,domestic dev
+339,not Moscow,1 cpu,3 cores,1 nodes,2 memory,6 nets,4 linpack,4 peak,domestic dev
+340,not Moscow,7 cpu,5 cores,7 nodes,6 memory,5 nets,4 linpack,4 peak,domestic dev
+341,not Moscow,3 cpu,4 cores,3 nodes,3 memory,7 nets,4 linpack,4 peak,domestic dev
+342,Moscow,8 cpu,5 cores,7 nodes,7 memory,4 nets,4 linpack,5 peak,domestic dev
+343,not Moscow,5 cpu,4 cores,5 nodes,10 memory,9 nets,4 linpack,4 peak,domestic dev
+344,Moscow,8 cpu,5 cores,8 nodes,6 memory,4 nets,5 linpack,5 peak,domestic dev
+345,Moscow,3 cpu,4 cores,3 nodes,6 memory,8 nets,5 linpack,5 peak,foreign dev
+346,not Moscow,6 cpu,5 cores,6 nodes,3 memory,10 nets,5 linpack,4 peak,domestic dev
+347,Moscow,9 cpu,6 cores,9 nodes,8 memory,3 nets,5 linpack,6 peak,joint dev
+348,not Moscow,5 cpu,4 cores,4 nodes,3 memory,6 nets,5 linpack,6 peak,domestic dev
+349,not Moscow,4 cpu,6 cores,4 nodes,4 memory,8 nets,6 linpack,5 peak,domestic dev
+350,not Moscow,9 cpu,6 cores,8 nodes,6 memory,5 nets,6 linpack,6 peak,domestic dev
+351,not Moscow,4 cpu,5 cores,3 nodes,4 memory,6 nets,6 linpack,7 peak,foreign dev
+352,Moscow,4 cpu,6 cores,4 nodes,5 memory,7 nets,6 linpack,6 peak,domestic dev
+353,not Moscow,9 cpu,7 cores,8 nodes,10 memory,2 nets,6 linpack,6 peak,domestic dev
+354,not Moscow,8 cpu,8 cores,7 nodes,6 memory,1 nets,7 linpack,7 peak,domestic dev
+355,not Moscow,7 cpu,7 cores,7 nodes,8 memory,10 nets,7 linpack,5 peak,domestic dev
+356,not Moscow,5 cpu,8 cores,5 nodes,5 memory,3 nets,7 linpack,8 peak,joint dev
+357,Moscow,10 cpu,9 cores,9 nodes,9 memory,2 nets,7 linpack,7 peak,domestic dev
+358,Moscow,10 cpu,9 cores,10 nodes,9 memory,8 nets,7 linpack,7 peak,domestic dev
+359,Moscow,6 cpu,8 cores,10 nodes,3 memory,9 nets,8 linpack,8 peak,joint dev
+360,Moscow,4 cpu,6 cores,4 nodes,5 memory,10 nets,8 linpack,7 peak,domestic dev
+361,not Moscow,9 cpu,10 cores,9 nodes,5 memory,9 nets,8 linpack,8 peak,foreign dev
+362,not Moscow,6 cpu,7 cores,5 nodes,8 memory,8 nets,8 linpack,8 peak,joint dev
+363,Moscow,7 cpu,7 cores,7 nodes,8 memory,3 nets,8 linpack,9 peak,foreign dev
+364,not Moscow,9 cpu,10 cores,9 nodes,7 memory,9 nets,9 linpack,8 peak,domestic dev
+365,not Moscow,7 cpu,9 cores,6 nodes,7 memory,8 nets,9 linpack,9 peak,domestic dev
+366,not Moscow,5 cpu,7 cores,5 nodes,8 memory,10 nets,9 linpack,9 peak,domestic dev
+367,not Moscow,10 cpu,10 cores,10 nodes,9 memory,3 nets,9 linpack,9 peak,domestic dev
+368,not Moscow,10 cpu,10 cores,10 nodes,9 memory,3 nets,9 linpack,10 peak,domestic dev
+369,not Moscow,7 cpu,8 cores,6 nodes,4 memory,7 nets,10 linpack,10 peak,domestic dev
+370,Moscow,6 cpu,9 cores,6 nodes,7 memory,10 nets,10 linpack,9 peak,joint dev
+371,Moscow,8 cpu,8 cores,8 nodes,4 memory,1 nets,10 linpack,10 peak,domestic dev
+372,not Moscow,10 cpu,10 cores,10 nodes,9 memory,2 nets,10 linpack,10 peak,domestic dev
+373,Moscow,8 cpu,9 cores,8 nodes,4 memory,2 nets,10 linpack,10 peak,domestic dev
+374,Moscow,1 cpu,1 cores,1 nodes,1 memory,2 nets,1 linpack,1 peak,foreign dev
+375,Moscow,1 cpu,1 cores,1 nodes,1 memory,6 nets,1 linpack,1 peak,domestic dev
+376,Moscow,1 cpu,1 cores,1 nodes,1 memory,1 nets,1 linpack,1 peak,foreign dev
+377,not Moscow,2 cpu,1 cores,2 nodes,1 memory,7 nets,1 linpack,1 peak,joint dev
+378,not Moscow,3 cpu,2 cores,2 nodes,10 memory,5 nets,2 linpack,2 peak,foreign dev
+379,not Moscow,3 cpu,2 cores,3 nodes,2 memory,7 nets,2 linpack,2 peak,domestic dev
+380,not Moscow,3 cpu,2 cores,3 nodes,2 memory,1 nets,2 linpack,2 peak,joint dev
+381,not Moscow,2 cpu,3 cores,2 nodes,2 memory,2 nets,2 linpack,2 peak,domestic dev
+382,not Moscow,4 cpu,3 cores,3 nodes,4 memory,7 nets,3 linpack,3 peak,foreign dev
+383,Moscow,3 cpu,3 cores,3 nodes,10 memory,6 nets,3 linpack,3 peak,foreign dev
+384,not Moscow,5 cpu,3 cores,4 nodes,2 memory,7 nets,3 linpack,3 peak,domestic dev
+385,Moscow,4 cpu,4 cores,4 nodes,4 memory,8 nets,3 linpack,3 peak,joint dev
+386,not Moscow,7 cpu,5 cores,6 nodes,3 memory,1 nets,4 linpack,4 peak,foreign dev
+387,not Moscow,7 cpu,5 cores,6 nodes,5 memory,1 nets,4 linpack,5 peak,domestic dev
+388,not Moscow,7 cpu,5 cores,7 nodes,3 memory,6 nets,4 linpack,4 peak,joint dev
+389,not Moscow,6 cpu,4 cores,6 nodes,5 memory,8 nets,4 linpack,5 peak,joint dev
+390,not Moscow,5 cpu,6 cores,6 nodes,6 memory,6 nets,5 linpack,5 peak,domestic dev
+391,Moscow,1 cpu,2 cores,10 nodes,10 memory,2 nets,5 linpack,4 peak,foreign dev
+392,not Moscow,5 cpu,4 cores,5 nodes,3 memory,10 nets,5 linpack,4 peak,joint dev
+393,not Moscow,2 cpu,5 cores,2 nodes,5 memory,9 nets,5 linpack,5 peak,foreign dev
+394,not Moscow,8 cpu,7 cores,8 nodes,7 memory,4 nets,6 linpack,6 peak,domestic dev
+395,not Moscow,8 cpu,6 cores,7 nodes,8 memory,5 nets,6 linpack,6 peak,domestic dev
+396,not Moscow,2 cpu,4 cores,1 nodes,3 memory,7 nets,6 linpack,6 peak,domestic dev
+397,not Moscow,8 cpu,7 cores,8 nodes,7 memory,4 nets,6 linpack,7 peak,domestic dev
+398,not Moscow,4 cpu,7 cores,4 nodes,5 memory,9 nets,6 linpack,6 peak,domestic dev
+399,Moscow,9 cpu,8 cores,9 nodes,8 memory,4 nets,7 linpack,7 peak,domestic dev
+400,not Moscow,8 cpu,9 cores,8 nodes,4 memory,6 nets,7 linpack,7 peak,joint dev
+401,Moscow,9 cpu,8 cores,9 nodes,8 memory,3 nets,7 linpack,7 peak,domestic dev
+402,not Moscow,7 cpu,6 cores,7 nodes,10 memory,10 nets,7 linpack,6 peak,domestic dev
+403,Moscow,4 cpu,7 cores,4 nodes,7 memory,9 nets,7 linpack,8 peak,foreign dev
+404,Moscow,7 cpu,6 cores,7 nodes,6 memory,10 nets,8 linpack,7 peak,foreign dev
+405,Moscow,10 cpu,9 cores,10 nodes,9 memory,5 nets,8 linpack,9 peak,joint dev
+406,not Moscow,6 cpu,6 cores,6 nodes,4 memory,8 nets,8 linpack,9 peak,domestic dev
+407,not Moscow,6 cpu,8 cores,5 nodes,6 memory,8 nets,8 linpack,8 peak,domestic dev
+408,not Moscow,10 cpu,9 cores,10 nodes,7 memory,3 nets,8 linpack,9 peak,domestic dev
+409,not Moscow,10 cpu,9 cores,9 nodes,9 memory,9 nets,9 linpack,8 peak,domestic dev
+410,not Moscow,6 cpu,8 cores,5 nodes,6 memory,9 nets,9 linpack,8 peak,domestic dev
+411,Moscow,9 cpu,7 cores,8 nodes,9 memory,10 nets,9 linpack,8 peak,domestic dev
+412,not Moscow,9 cpu,10 cores,9 nodes,8 memory,4 nets,9 linpack,10 peak,domestic dev
+413,not Moscow,5 cpu,8 cores,5 nodes,6 memory,8 nets,9 linpack,10 peak,foreign dev
+414,not Moscow,10 cpu,9 cores,10 nodes,10 memory,2 nets,10 linpack,9 peak,domestic dev
+415,not Moscow,9 cpu,10 cores,9 nodes,8 memory,3 nets,10 linpack,10 peak,domestic dev
+416,not Moscow,8 cpu,10 cores,8 nodes,9 memory,10 nets,10 linpack,9 peak,domestic dev
+417,not Moscow,6 cpu,10 cores,7 nodes,7 memory,3 nets,10 linpack,10 peak,joint dev
+418,Moscow,10 cpu,10 cores,10 nodes,9 memory,5 nets,10 linpack,10 peak,domestic dev
+419,Moscow,1 cpu,1 cores,1 nodes,1 memory,1 nets,1 linpack,1 peak,foreign dev
+420,Moscow,1 cpu,1 cores,1 nodes,1 memory,7 nets,1 linpack,1 peak,domestic dev
+421,Moscow,1 cpu,1 cores,1 nodes,1 memory,1 nets,1 linpack,1 peak,foreign dev
+422,not Moscow,2 cpu,1 cores,2 nodes,2 memory,6 nets,1 linpack,1 peak,joint dev
+423,not Moscow,2 cpu,2 cores,4 nodes,1 memory,1 nets,2 linpack,2 peak,joint dev
+424,not Moscow,3 cpu,2 cores,2 nodes,4 memory,3 nets,2 linpack,2 peak,foreign dev
+425,not Moscow,3 cpu,2 cores,3 nodes,10 memory,8 nets,2 linpack,2 peak,foreign dev
+426,not Moscow,4 cpu,3 cores,3 nodes,2 memory,4 nets,2 linpack,2 peak,domestic dev
+427,not Moscow,3 cpu,2 cores,3 nodes,2 memory,2 nets,3 linpack,3 peak,joint dev
+428,not Moscow,2 cpu,3 cores,2 nodes,3 memory,4 nets,3 linpack,3 peak,domestic dev
+429,Moscow,4 cpu,4 cores,3 nodes,10 memory,7 nets,3 linpack,3 peak,foreign dev
+430,not Moscow,5 cpu,4 cores,5 nodes,5 memory,8 nets,3 linpack,4 peak,domestic dev
+431,not Moscow,5 cpu,3 cores,5 nodes,2 memory,6 nets,4 linpack,3 peak,domestic dev
+432,Moscow,4 cpu,5 cores,4 nodes,5 memory,9 nets,4 linpack,4 peak,joint dev
+433,not Moscow,7 cpu,6 cores,6 nodes,3 memory,3 nets,4 linpack,5 peak,foreign dev
+434,Moscow,7 cpu,6 cores,6 nodes,4 memory,1 nets,4 linpack,6 peak,domestic dev
+435,not Moscow,6 cpu,5 cores,7 nodes,6 memory,3 nets,5 linpack,6 peak,domestic dev
+436,not Moscow,6 cpu,5 cores,6 nodes,5 memory,8 nets,5 linpack,5 peak,foreign dev
+437,not Moscow,8 cpu,6 cores,7 nodes,4 memory,8 nets,5 linpack,5 peak,joint dev
+438,not Moscow,8 cpu,7 cores,8 nodes,4 memory,3 nets,5 linpack,5 peak,foreign dev
+439,not Moscow,6 cpu,5 cores,6 nodes,6 memory,7 nets,6 linpack,6 peak,joint dev
+440,Moscow,1 cpu,3 cores,10 nodes,10 memory,4 nets,6 linpack,4 peak,foreign dev
+441,not Moscow,5 cpu,4 cores,5 nodes,3 memory,10 nets,6 linpack,4 peak,joint dev
+442,not Moscow,3 cpu,6 cores,2 nodes,6 memory,9 nets,6 linpack,6 peak,foreign dev
+443,not Moscow,9 cpu,8 cores,8 nodes,8 memory,5 nets,6 linpack,7 peak,domestic dev
+444,Moscow,9 cpu,8 cores,9 nodes,7 memory,4 nets,7 linpack,7 peak,domestic dev
+445,Moscow,7 cpu,6 cores,7 nodes,7 memory,10 nets,7 linpack,6 peak,domestic dev
+446,not Moscow,8 cpu,7 cores,8 nodes,9 memory,6 nets,7 linpack,7 peak,domestic dev
+447,not Moscow,2 cpu,4 cores,1 nodes,3 memory,6 nets,7 linpack,7 peak,domestic dev
+448,not Moscow,9 cpu,8 cores,9 nodes,8 memory,5 nets,7 linpack,8 peak,domestic dev
+449,Moscow,10 cpu,9 cores,9 nodes,8 memory,2 nets,8 linpack,8 peak,joint dev
+450,not Moscow,5 cpu,8 cores,4 nodes,6 memory,9 nets,8 linpack,8 peak,domestic dev
+451,not Moscow,10 cpu,9 cores,10 nodes,9 memory,2 nets,8 linpack,9 peak,domestic dev
+452,not Moscow,8 cpu,10 cores,8 nodes,5 memory,8 nets,8 linpack,8 peak,joint dev
+453,Moscow,9 cpu,9 cores,9 nodes,9 memory,7 nets,8 linpack,9 peak,domestic dev
+454,not Moscow,7 cpu,7 cores,7 nodes,10 memory,10 nets,9 linpack,7 peak,domestic dev
+455,Moscow,9 cpu,9 cores,9 nodes,9 memory,6 nets,9 linpack,9 peak,domestic dev
+456,Moscow,4 cpu,8 cores,4 nodes,7 memory,9 nets,9 linpack,10 peak,foreign dev
+457,Moscow,7 cpu,7 cores,7 nodes,7 memory,10 nets,9 linpack,8 peak,foreign dev
+458,Moscow,8 cpu,10 cores,8 nodes,10 memory,2 nets,9 linpack,9 peak,foreign dev
+459,Moscow,10 cpu,10 cores,10 nodes,8 memory,5 nets,10 linpack,9 peak,domestic dev
+460,not Moscow,6 cpu,7 cores,6 nodes,6 memory,7 nets,10 linpack,10 peak,domestic dev
+461,not Moscow,6 cpu,9 cores,5 nodes,7 memory,9 nets,10 linpack,10 peak,domestic dev
+462,not Moscow,10 cpu,10 cores,10 nodes,8 memory,5 nets,10 linpack,10 peak,domestic dev
+463,not Moscow,10 cpu,10 cores,10 nodes,9 memory,10 nets,10 linpack,10 peak,domestic dev
+464,Moscow,1 cpu,1 cores,1 nodes,1 memory,1 nets,1 linpack,1 peak,foreign dev
+465,Moscow,1 cpu,1 cores,1 nodes,1 memory,7 nets,1 linpack,1 peak,domestic dev
+466,Moscow,1 cpu,1 cores,1 nodes,1 memory,1 nets,1 linpack,1 peak,foreign dev
+467,not Moscow,2 cpu,1 cores,2 nodes,2 memory,8 nets,1 linpack,1 peak,joint dev
+468,not Moscow,2 cpu,2 cores,4 nodes,1 memory,1 nets,2 linpack,2 peak,joint dev
+469,not Moscow,3 cpu,2 cores,2 nodes,4 memory,1 nets,2 linpack,2 peak,foreign dev
+470,not Moscow,3 cpu,2 cores,3 nodes,10 memory,6 nets,2 linpack,2 peak,foreign dev
+471,not Moscow,4 cpu,3 cores,3 nodes,2 memory,6 nets,2 linpack,2 peak,domestic dev
+472,not Moscow,3 cpu,2 cores,3 nodes,2 memory,2 nets,3 linpack,3 peak,joint dev
+473,not Moscow,2 cpu,3 cores,2 nodes,3 memory,4 nets,3 linpack,3 peak,domestic dev
+474,Moscow,4 cpu,4 cores,3 nodes,10 memory,6 nets,3 linpack,3 peak,foreign dev
+475,not Moscow,5 cpu,4 cores,5 nodes,5 memory,8 nets,3 linpack,4 peak,domestic dev
+476,not Moscow,5 cpu,3 cores,5 nodes,2 memory,5 nets,4 linpack,3 peak,domestic dev
+477,Moscow,4 cpu,5 cores,4 nodes,6 memory,9 nets,4 linpack,4 peak,joint dev
+478,not Moscow,7 cpu,6 cores,7 nodes,3 memory,3 nets,4 linpack,5 peak,foreign dev
+479,not Moscow,8 cpu,7 cores,8 nodes,7 memory,5 nets,4 linpack,5 peak,domestic dev
+480,Moscow,7 cpu,6 cores,7 nodes,4 memory,4 nets,5 linpack,6 peak,domestic dev
+481,not Moscow,6 cpu,4 cores,6 nodes,5 memory,3 nets,5 linpack,6 peak,domestic dev
+482,not Moscow,6 cpu,5 cores,6 nodes,5 memory,8 nets,5 linpack,5 peak,foreign dev
+483,not Moscow,8 cpu,7 cores,8 nodes,4 memory,7 nets,5 linpack,6 peak,joint dev
+484,not Moscow,8 cpu,7 cores,8 nodes,4 memory,3 nets,6 linpack,6 peak,foreign dev
+485,not Moscow,7 cpu,6 cores,7 nodes,6 memory,4 nets,6 linpack,7 peak,joint dev
+486,Moscow,1 cpu,3 cores,10 nodes,10 memory,4 nets,6 linpack,5 peak,foreign dev
+487,not Moscow,6 cpu,5 cores,5 nodes,3 memory,10 nets,6 linpack,4 peak,joint dev
+488,not Moscow,3 cpu,6 cores,2 nodes,6 memory,9 nets,6 linpack,7 peak,foreign dev
+489,Moscow,9 cpu,9 cores,9 nodes,7 memory,7 nets,7 linpack,8 peak,domestic dev
+490,Moscow,7 cpu,6 cores,7 nodes,7 memory,10 nets,7 linpack,6 peak,domestic dev
+491,not Moscow,9 cpu,8 cores,9 nodes,7 memory,3 nets,7 linpack,7 peak,domestic dev
+492,not Moscow,8 cpu,7 cores,8 nodes,9 memory,5 nets,7 linpack,7 peak,domestic dev
+493,Moscow,5 cpu,7 cores,5 nodes,7 memory,7 nets,7 linpack,7 peak,joint dev
+494,not Moscow,2 cpu,5 cores,1 nodes,3 memory,8 nets,8 linpack,8 peak,domestic dev
+495,not Moscow,10 cpu,9 cores,9 nodes,8 memory,6 nets,8 linpack,9 peak,domestic dev
+496,Moscow,9 cpu,4 cores,9 nodes,8 memory,10 nets,8 linpack,4 peak,domestic dev
+497,Moscow,10 cpu,10 cores,10 nodes,9 memory,2 nets,8 linpack,9 peak,joint dev
+498,not Moscow,5 cpu,9 cores,4 nodes,6 memory,9 nets,8 linpack,8 peak,domestic dev
+499,not Moscow,10 cpu,10 cores,10 nodes,9 memory,2 nets,9 linpack,9 peak,domestic dev
+500,Moscow,10 cpu,9 cores,10 nodes,9 memory,6 nets,9 linpack,10 peak,domestic dev
+501,not Moscow,9 cpu,10 cores,9 nodes,5 memory,8 nets,9 linpack,9 peak,joint dev
+502,Moscow,10 cpu,9 cores,10 nodes,9 memory,5 nets,9 linpack,9 peak,domestic dev
+503,not Moscow,7 cpu,8 cores,6 nodes,10 memory,10 nets,9 linpack,8 peak,domestic dev
+504,Moscow,4 cpu,8 cores,4 nodes,8 memory,9 nets,10 linpack,10 peak,foreign dev
+505,Moscow,8 cpu,8 cores,7 nodes,8 memory,10 nets,10 linpack,8 peak,foreign dev
+506,Moscow,9 cpu,10 cores,8 nodes,10 memory,2 nets,10 linpack,10 peak,foreign dev
+507,not Moscow,6 cpu,8 cores,6 nodes,6 memory,7 nets,10 linpack,10 peak,domestic dev
+508,not Moscow,6 cpu,10 cores,6 nodes,8 memory,9 nets,10 linpack,10 peak,domestic dev
+509,Moscow,1 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,domestic dev
+510,Moscow,1 cpu,1 cores,1 nodes,1 memory,3 nets,1 linpack,1 peak,foreign dev
+511,Moscow,1 cpu,1 cores,1 nodes,1 memory,6 nets,1 linpack,1 peak,domestic dev
+512,Moscow,2 cpu,1 cores,1 nodes,1 memory,1 nets,1 linpack,1 peak,foreign dev
+513,not Moscow,2 cpu,2 cores,2 nodes,2 memory,6 nets,2 linpack,2 peak,joint dev
+514,not Moscow,3 cpu,3 cores,3 nodes,2 memory,2 nets,2 linpack,2 peak,foreign dev
+515,not Moscow,2 cpu,2 cores,4 nodes,2 memory,2 nets,2 linpack,2 peak,joint dev
+516,not Moscow,3 cpu,2 cores,2 nodes,5 memory,4 nets,2 linpack,2 peak,foreign dev
+517,not Moscow,3 cpu,2 cores,3 nodes,10 memory,6 nets,3 linpack,3 peak,foreign dev
+518,not Moscow,4 cpu,3 cores,4 nodes,3 memory,9 nets,3 linpack,3 peak,domestic dev
+519,not Moscow,4 cpu,3 cores,3 nodes,2 memory,2 nets,3 linpack,3 peak,joint dev
+520,not Moscow,5 cpu,4 cores,5 nodes,3 memory,8 nets,3 linpack,4 peak,foreign dev
+521,not Moscow,2 cpu,4 cores,2 nodes,4 memory,5 nets,4 linpack,3 peak,domestic dev
+522,Moscow,4 cpu,4 cores,3 nodes,10 memory,5 nets,4 linpack,4 peak,foreign dev
+523,not Moscow,5 cpu,5 cores,5 nodes,6 memory,9 nets,4 linpack,4 peak,domestic dev
+524,not Moscow,5 cpu,4 cores,5 nodes,3 memory,5 nets,4 linpack,4 peak,domestic dev
+525,Moscow,4 cpu,6 cores,4 nodes,6 memory,10 nets,5 linpack,5 peak,joint dev
+526,not Moscow,7 cpu,6 cores,7 nodes,4 memory,4 nets,5 linpack,6 peak,foreign dev
+527,not Moscow,8 cpu,8 cores,7 nodes,9 memory,7 nets,5 linpack,6 peak,domestic dev
+528,Moscow,7 cpu,6 cores,6 nodes,4 memory,1 nets,5 linpack,7 peak,domestic dev
+529,not Moscow,6 cpu,5 cores,6 nodes,6 memory,1 nets,6 linpack,7 peak,domestic dev
+530,not Moscow,6 cpu,6 cores,6 nodes,6 memory,8 nets,6 linpack,6 peak,foreign dev
+531,not Moscow,8 cpu,8 cores,8 nodes,5 memory,9 nets,6 linpack,6 peak,joint dev
+532,not Moscow,8 cpu,8 cores,8 nodes,5 memory,3 nets,6 linpack,7 peak,foreign dev
+533,Moscow,9 cpu,7 cores,8 nodes,3 memory,9 nets,7 linpack,8 peak,domestic dev
+534,not Moscow,7 cpu,7 cores,7 nodes,7 memory,8 nets,7 linpack,8 peak,joint dev
+535,Moscow,10 cpu,9 cores,9 nodes,5 memory,4 nets,7 linpack,8 peak,domestic dev
+536,Moscow,1 cpu,3 cores,10 nodes,10 memory,5 nets,7 linpack,5 peak,foreign dev
+537,not Moscow,6 cpu,5 cores,6 nodes,4 memory,10 nets,8 linpack,5 peak,joint dev
+538,not Moscow,3 cpu,7 cores,2 nodes,7 memory,9 nets,8 linpack,8 peak,foreign dev
+539,not Moscow,9 cpu,9 cores,9 nodes,7 memory,8 nets,8 linpack,9 peak,foreign dev
+540,Moscow,10 cpu,10 cores,10 nodes,8 memory,7 nets,8 linpack,9 peak,domestic dev
+541,Moscow,7 cpu,7 cores,7 nodes,9 memory,10 nets,9 linpack,7 peak,domestic dev
+542,not Moscow,9 cpu,9 cores,9 nodes,8 memory,3 nets,9 linpack,9 peak,domestic dev
+543,not Moscow,8 cpu,9 cores,8 nodes,10 memory,6 nets,9 linpack,9 peak,domestic dev
+544,Moscow,6 cpu,8 cores,5 nodes,8 memory,7 nets,9 linpack,9 peak,joint dev
+545,not Moscow,9 cpu,9 cores,9 nodes,8 memory,3 nets,9 linpack,10 peak,domestic dev
+546,not Moscow,10 cpu,10 cores,10 nodes,9 memory,7 nets,10 linpack,10 peak,domestic dev
+547,Moscow,9 cpu,5 cores,9 nodes,9 memory,10 nets,10 linpack,5 peak,domestic dev
+548,Moscow,10 cpu,10 cores,10 nodes,9 memory,2 nets,10 linpack,10 peak,joint dev
+549,not Moscow,5 cpu,10 cores,4 nodes,7 memory,10 nets,10 linpack,10 peak,domestic dev
+550,not Moscow,10 cpu,10 cores,10 nodes,10 memory,1 nets,10 linpack,10 peak,domestic dev
+551,Moscow,1 cpu,1 cores,1 nodes,1 memory,5 nets,1 linpack,1 peak,domestic dev
+552,Moscow,1 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,foreign dev
+553,Moscow,2 cpu,1 cores,1 nodes,1 memory,7 nets,1 linpack,1 peak,domestic dev
+554,Moscow,2 cpu,2 cores,2 nodes,2 memory,2 nets,2 linpack,2 peak,foreign dev
+555,not Moscow,3 cpu,2 cores,2 nodes,3 memory,7 nets,2 linpack,2 peak,joint dev
+556,not Moscow,4 cpu,3 cores,4 nodes,2 memory,2 nets,2 linpack,2 peak,foreign dev
+557,not Moscow,3 cpu,2 cores,5 nodes,2 memory,2 nets,3 linpack,3 peak,joint dev
+558,not Moscow,4 cpu,3 cores,3 nodes,6 memory,4 nets,3 linpack,3 peak,foreign dev
+559,not Moscow,4 cpu,3 cores,3 nodes,10 memory,6 nets,3 linpack,3 peak,foreign dev
+560,not Moscow,5 cpu,4 cores,4 nodes,4 memory,9 nets,4 linpack,4 peak,domestic dev
+561,not Moscow,5 cpu,4 cores,4 nodes,3 memory,3 nets,4 linpack,4 peak,joint dev
+562,not Moscow,6 cpu,5 cores,5 nodes,4 memory,9 nets,4 linpack,4 peak,foreign dev
+563,not Moscow,2 cpu,4 cores,2 nodes,5 memory,6 nets,4 linpack,4 peak,domestic dev
+564,not Moscow,6 cpu,5 cores,6 nodes,4 memory,6 nets,5 linpack,5 peak,foreign dev
+565,not Moscow,7 cpu,5 cores,7 nodes,7 memory,4 nets,5 linpack,5 peak,foreign dev
+566,Moscow,4 cpu,6 cores,4 nodes,10 memory,6 nets,5 linpack,5 peak,foreign dev
+567,not Moscow,6 cpu,6 cores,6 nodes,7 memory,8 nets,5 linpack,6 peak,domestic dev
+568,not Moscow,6 cpu,5 cores,5 nodes,4 memory,9 nets,6 linpack,5 peak,domestic dev
+569,not Moscow,8 cpu,8 cores,8 nodes,9 memory,3 nets,6 linpack,6 peak,foreign dev
+570,Moscow,5 cpu,7 cores,5 nodes,8 memory,10 nets,6 linpack,6 peak,joint dev
+571,not Moscow,9 cpu,8 cores,8 nodes,6 memory,5 nets,6 linpack,6 peak,foreign dev
+572,not Moscow,8 cpu,8 cores,7 nodes,5 memory,1 nets,7 linpack,7 peak,foreign dev
+573,not Moscow,9 cpu,9 cores,9 nodes,10 memory,7 nets,7 linpack,8 peak,domestic dev
+574,Moscow,8 cpu,7 cores,8 nodes,6 memory,1 nets,7 linpack,8 peak,domestic dev
+575,not Moscow,7 cpu,6 cores,7 nodes,8 memory,3 nets,7 linpack,8 peak,domestic dev
+576,not Moscow,7 cpu,7 cores,7 nodes,8 memory,8 nets,8 linpack,7 peak,foreign dev
+577,not Moscow,9 cpu,9 cores,9 nodes,7 memory,9 nets,8 linpack,8 peak,joint dev
+578,Moscow,10 cpu,9 cores,9 nodes,5 memory,10 nets,8 linpack,9 peak,domestic dev
+579,not Moscow,8 cpu,8 cores,8 nodes,9 memory,7 nets,8 linpack,9 peak,joint dev
+580,Moscow,10 cpu,10 cores,10 nodes,6 memory,4 nets,9 linpack,9 peak,domestic dev
+581,Moscow,1 cpu,4 cores,10 nodes,10 memory,5 nets,9 linpack,7 peak,foreign dev
+582,not Moscow,10 cpu,10 cores,10 nodes,7 memory,5 nets,9 linpack,10 peak,domestic dev
+583,not Moscow,7 cpu,7 cores,6 nodes,5 memory,10 nets,9 linpack,7 peak,joint dev
+584,not Moscow,9 cpu,10 cores,9 nodes,9 memory,1 nets,10 linpack,10 peak,joint dev
+585,not Moscow,3 cpu,9 cores,3 nodes,9 memory,10 nets,10 linpack,9 peak,foreign dev
+586,Moscow,5 cpu,6 cores,6 nodes,3 memory,8 nets,10 linpack,10 peak,foreign dev
+587,not Moscow,10 cpu,10 cores,10 nodes,8 memory,8 nets,10 linpack,10 peak,foreign dev
+588,Moscow,1 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,domestic dev
+589,Moscow,1 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,foreign dev
+590,Moscow,1 cpu,1 cores,1 nodes,2 memory,10 nets,1 linpack,2 peak,domestic dev
+591,Moscow,9 cpu,2 cores,9 nodes,2 memory,1 nets,2 linpack,1 peak,domestic dev
+592,Moscow,2 cpu,2 cores,2 nodes,3 memory,2 nets,2 linpack,2 peak,foreign dev
+593,not Moscow,2 cpu,2 cores,2 nodes,2 memory,7 nets,2 linpack,2 peak,domestic dev
+594,Moscow,2 cpu,3 cores,2 nodes,1 memory,7 nets,3 linpack,3 peak,foreign dev
+595,not Moscow,3 cpu,3 cores,3 nodes,5 memory,9 nets,3 linpack,3 peak,joint dev
+596,not Moscow,4 cpu,4 cores,4 nodes,4 memory,3 nets,3 linpack,4 peak,foreign dev
+597,not Moscow,3 cpu,3 cores,6 nodes,4 memory,3 nets,4 linpack,4 peak,joint dev
+598,not Moscow,3 cpu,4 cores,3 nodes,8 memory,2 nets,4 linpack,4 peak,foreign dev
+599,not Moscow,4 cpu,4 cores,3 nodes,10 memory,8 nets,4 linpack,5 peak,foreign dev
+600,not Moscow,4 cpu,5 cores,4 nodes,4 memory,6 nets,5 linpack,5 peak,joint dev
+601,not Moscow,5 cpu,5 cores,5 nodes,6 memory,8 nets,5 linpack,5 peak,domestic dev
+602,Moscow,10 cpu,7 cores,10 nodes,8 memory,7 nets,5 linpack,3 peak,foreign dev
+603,not Moscow,6 cpu,6 cores,5 nodes,7 memory,3 nets,5 linpack,6 peak,foreign dev
+604,not Moscow,5 cpu,5 cores,4 nodes,5 memory,4 nets,6 linpack,6 peak,joint dev
+605,not Moscow,10 cpu,9 cores,10 nodes,10 memory,6 nets,6 linpack,5 peak,domestic dev
+606,not Moscow,8 cpu,6 cores,8 nodes,5 memory,5 nets,6 linpack,6 peak,domestic dev
+607,not Moscow,7 cpu,6 cores,6 nodes,6 memory,9 nets,6 linpack,7 peak,foreign dev
+608,not Moscow,7 cpu,7 cores,7 nodes,7 memory,5 nets,7 linpack,7 peak,foreign dev
+609,not Moscow,5 cpu,5 cores,5 nodes,3 memory,10 nets,7 linpack,6 peak,joint dev
+610,not Moscow,8 cpu,6 cores,8 nodes,3 memory,6 nets,7 linpack,8 peak,foreign dev
+611,not Moscow,7 cpu,7 cores,7 nodes,8 memory,1 nets,7 linpack,7 peak,foreign dev
+612,Moscow,5 cpu,8 cores,5 nodes,10 memory,10 nets,8 linpack,8 peak,foreign dev
+613,not Moscow,10 cpu,7 cores,10 nodes,5 memory,6 nets,8 linpack,8 peak,domestic dev
+614,not Moscow,7 cpu,8 cores,7 nodes,9 memory,8 nets,8 linpack,9 peak,domestic dev
+615,not Moscow,6 cpu,8 cores,7 nodes,8 memory,9 nets,8 linpack,9 peak,domestic dev
+616,not Moscow,6 cpu,8 cores,6 nodes,6 memory,9 nets,9 linpack,8 peak,domestic dev
+617,not Moscow,10 cpu,10 cores,10 nodes,7 memory,5 nets,9 linpack,7 peak,domestic dev
+618,Moscow,6 cpu,9 cores,6 nodes,9 memory,10 nets,9 linpack,9 peak,joint dev
+619,not Moscow,9 cpu,10 cores,9 nodes,6 memory,5 nets,9 linpack,9 peak,foreign dev
+620,not Moscow,9 cpu,10 cores,9 nodes,10 memory,8 nets,10 linpack,10 peak,domestic dev
+621,Moscow,9 cpu,10 cores,9 nodes,7 memory,2 nets,10 linpack,10 peak,domestic dev
+622,not Moscow,8 cpu,9 cores,8 nodes,9 memory,1 nets,10 linpack,10 peak,domestic dev
+623,not Moscow,8 cpu,9 cores,8 nodes,9 memory,7 nets,10 linpack,10 peak,foreign dev
+624,Moscow,1 cpu,1 cores,1 nodes,1 memory,8 nets,1 linpack,1 peak,domestic dev
+625,Moscow,1 cpu,1 cores,1 nodes,1 memory,3 nets,1 linpack,1 peak,foreign dev
+626,Moscow,2 cpu,2 cores,2 nodes,3 memory,10 nets,1 linpack,2 peak,domestic dev
+627,not Moscow,1 cpu,1 cores,1 nodes,1 memory,6 nets,2 linpack,2 peak,domestic dev
+628,Moscow,9 cpu,2 cores,9 nodes,3 memory,1 nets,2 linpack,1 peak,domestic dev
+629,Moscow,2 cpu,2 cores,2 nodes,4 memory,1 nets,2 linpack,3 peak,foreign dev
+630,not Moscow,6 cpu,4 cores,6 nodes,2 memory,4 nets,3 linpack,4 peak,joint dev
+631,not Moscow,10 cpu,6 cores,10 nodes,6 memory,7 nets,3 linpack,2 peak,foreign dev
+632,not Moscow,3 cpu,3 cores,3 nodes,2 memory,10 nets,3 linpack,3 peak,joint dev
+633,Moscow,2 cpu,3 cores,2 nodes,2 memory,7 nets,4 linpack,4 peak,foreign dev
+634,not Moscow,3 cpu,4 cores,3 nodes,6 memory,9 nets,4 linpack,5 peak,joint dev
+635,not Moscow,5 cpu,5 cores,4 nodes,5 memory,3 nets,4 linpack,5 peak,foreign dev
+636,not Moscow,4 cpu,4 cores,6 nodes,5 memory,1 nets,5 linpack,6 peak,joint dev
+637,Moscow,8 cpu,7 cores,8 nodes,4 memory,8 nets,5 linpack,8 peak,domestic dev
+638,not Moscow,4 cpu,5 cores,4 nodes,9 memory,2 nets,5 linpack,6 peak,foreign dev
+639,not Moscow,4 cpu,5 cores,4 nodes,10 memory,10 nets,6 linpack,7 peak,foreign dev
+640,not Moscow,3 cpu,3 cores,3 nodes,4 memory,4 nets,6 linpack,3 peak,joint dev
+641,not Moscow,6 cpu,6 cores,5 nodes,8 memory,9 nets,6 linpack,7 peak,domestic dev
+642,Moscow,10 cpu,9 cores,10 nodes,9 memory,7 nets,7 linpack,4 peak,foreign dev
+643,not Moscow,6 cpu,7 cores,6 nodes,8 memory,2 nets,7 linpack,7 peak,foreign dev
+644,not Moscow,5 cpu,6 cores,5 nodes,7 memory,2 nets,7 linpack,8 peak,joint dev
+645,not Moscow,10 cpu,10 cores,10 nodes,10 memory,4 nets,8 linpack,6 peak,domestic dev
+646,not Moscow,8 cpu,8 cores,8 nodes,7 memory,6 nets,8 linpack,8 peak,domestic dev
+647,not Moscow,7 cpu,8 cores,7 nodes,8 memory,10 nets,8 linpack,9 peak,foreign dev
+648,not Moscow,10 cpu,10 cores,10 nodes,10 memory,5 nets,8 linpack,5 peak,joint dev
+649,not Moscow,7 cpu,8 cores,7 nodes,8 memory,5 nets,9 linpack,9 peak,foreign dev
+650,not Moscow,9 cpu,9 cores,9 nodes,3 memory,8 nets,9 linpack,9 peak,foreign dev
+651,not Moscow,9 cpu,8 cores,9 nodes,5 memory,8 nets,9 linpack,10 peak,foreign dev
+652,not Moscow,7 cpu,7 cores,7 nodes,6 memory,6 nets,9 linpack,8 peak,foreign dev
+653,not Moscow,8 cpu,9 cores,8 nodes,9 memory,3 nets,10 linpack,9 peak,foreign dev
+654,Moscow,5 cpu,10 cores,5 nodes,10 memory,9 nets,10 linpack,10 peak,foreign dev
+655,not Moscow,9 cpu,9 cores,9 nodes,7 memory,5 nets,10 linpack,10 peak,domestic dev
+656,not Moscow,8 cpu,10 cores,8 nodes,9 memory,9 nets,10 linpack,10 peak,domestic dev
+657,Moscow,1 cpu,1 cores,1 nodes,1 memory,3 nets,1 linpack,1 peak,domestic dev
+658,Moscow,1 cpu,1 cores,1 nodes,1 memory,3 nets,1 linpack,1 peak,foreign dev
+659,not Moscow,5 cpu,2 cores,4 nodes,4 memory,2 nets,1 linpack,1 peak,joint dev
+660,Moscow,8 cpu,3 cores,8 nodes,7 memory,10 nets,2 linpack,2 peak,foreign dev
+661,not Moscow,1 cpu,1 cores,1 nodes,10 memory,10 nets,2 linpack,2 peak,foreign dev
+662,not Moscow,9 cpu,4 cores,9 nodes,7 memory,5 nets,2 linpack,3 peak,joint dev
+663,not Moscow,2 cpu,2 cores,2 nodes,1 memory,7 nets,3 linpack,3 peak,domestic dev
+664,Moscow,2 cpu,2 cores,2 nodes,5 memory,10 nets,3 linpack,4 peak,domestic dev
+665,Moscow,9 cpu,4 cores,9 nodes,5 memory,1 nets,3 linpack,2 peak,domestic dev
+666,not Moscow,9 cpu,5 cores,9 nodes,7 memory,5 nets,4 linpack,3 peak,joint dev
+667,not Moscow,7 cpu,7 cores,7 nodes,2 memory,7 nets,4 linpack,4 peak,domestic dev
+668,Moscow,8 cpu,8 cores,8 nodes,4 memory,9 nets,4 linpack,5 peak,domestic dev
+669,not Moscow,7 cpu,3 cores,7 nodes,3 memory,8 nets,5 linpack,5 peak,domestic dev
+670,Moscow,2 cpu,3 cores,2 nodes,6 memory,1 nets,5 linpack,5 peak,foreign dev
+671,not Moscow,3 cpu,4 cores,3 nodes,5 memory,6 nets,5 linpack,6 peak,joint dev
+672,not Moscow,6 cpu,7 cores,6 nodes,2 memory,7 nets,6 linpack,7 peak,joint dev
+673,not Moscow,10 cpu,8 cores,10 nodes,8 memory,5 nets,6 linpack,4 peak,foreign dev
+674,not Moscow,8 cpu,5 cores,7 nodes,3 memory,8 nets,6 linpack,8 peak,domestic dev
+675,not Moscow,4 cpu,5 cores,4 nodes,2 memory,7 nets,7 linpack,6 peak,joint dev
+676,Moscow,3 cpu,6 cores,3 nodes,3 memory,8 nets,7 linpack,6 peak,foreign dev
+677,not Moscow,3 cpu,6 cores,3 nodes,8 memory,9 nets,7 linpack,8 peak,joint dev
+678,not Moscow,4 cpu,6 cores,7 nodes,7 memory,3 nets,7 linpack,8 peak,joint dev
+679,Moscow,8 cpu,10 cores,8 nodes,6 memory,6 nets,8 linpack,9 peak,domestic dev
+680,not Moscow,4 cpu,7 cores,4 nodes,9 memory,1 nets,8 linpack,8 peak,foreign dev
+681,not Moscow,7 cpu,9 cores,8 nodes,6 memory,6 nets,8 linpack,10 peak,domestic dev
+682,not Moscow,5 cpu,7 cores,5 nodes,10 memory,10 nets,8 linpack,9 peak,foreign dev
+683,not Moscow,6 cpu,9 cores,5 nodes,9 memory,9 nets,9 linpack,9 peak,domestic dev
+684,Moscow,9 cpu,8 cores,9 nodes,4 memory,8 nets,9 linpack,10 peak,domestic dev
+685,Moscow,10 cpu,10 cores,10 nodes,10 memory,4 nets,9 linpack,7 peak,foreign dev
+686,not Moscow,10 cpu,10 cores,10 nodes,9 memory,4 nets,9 linpack,7 peak,joint dev
+687,not Moscow,10 cpu,10 cores,10 nodes,10 memory,4 nets,10 linpack,7 peak,joint dev
+688,not Moscow,6 cpu,9 cores,6 nodes,9 memory,2 nets,10 linpack,9 peak,foreign dev
+689,not Moscow,5 cpu,8 cores,5 nodes,8 memory,2 nets,10 linpack,10 peak,joint dev
+690,not Moscow,7 cpu,9 cores,6 nodes,8 memory,9 nets,10 linpack,10 peak,foreign dev
+691,Moscow,1 cpu,1 cores,1 nodes,1 memory,6 nets,1 linpack,1 peak,domestic dev
+692,Moscow,1 cpu,1 cores,1 nodes,1 memory,2 nets,1 linpack,1 peak,foreign dev
+693,not Moscow,5 cpu,2 cores,5 nodes,4 memory,2 nets,1 linpack,1 peak,joint dev
+694,Moscow,7 cpu,3 cores,7 nodes,9 memory,10 nets,2 linpack,2 peak,foreign dev
+695,not Moscow,1 cpu,1 cores,1 nodes,10 memory,10 nets,2 linpack,2 peak,foreign dev
+696,not Moscow,8 cpu,4 cores,8 nodes,7 memory,6 nets,2 linpack,3 peak,joint dev
+697,not Moscow,2 cpu,2 cores,2 nodes,1 memory,8 nets,3 linpack,3 peak,domestic dev
+698,Moscow,2 cpu,2 cores,2 nodes,5 memory,10 nets,3 linpack,4 peak,domestic dev
+699,Moscow,8 cpu,4 cores,8 nodes,5 memory,1 nets,3 linpack,2 peak,domestic dev
+700,not Moscow,9 cpu,5 cores,9 nodes,7 memory,5 nets,4 linpack,3 peak,joint dev
+701,not Moscow,6 cpu,7 cores,6 nodes,2 memory,7 nets,4 linpack,4 peak,domestic dev
+702,not Moscow,4 cpu,3 cores,4 nodes,2 memory,9 nets,4 linpack,4 peak,domestic dev
+703,Moscow,7 cpu,8 cores,7 nodes,5 memory,7 nets,5 linpack,5 peak,domestic dev
+704,not Moscow,6 cpu,3 cores,6 nodes,3 memory,8 nets,5 linpack,6 peak,domestic dev
+705,Moscow,2 cpu,4 cores,2 nodes,6 memory,3 nets,5 linpack,5 peak,foreign dev
+706,not Moscow,3 cpu,5 cores,3 nodes,6 memory,6 nets,6 linpack,6 peak,joint dev
+707,not Moscow,6 cpu,7 cores,6 nodes,2 memory,9 nets,6 linpack,8 peak,joint dev
+708,not Moscow,10 cpu,9 cores,9 nodes,8 memory,4 nets,6 linpack,6 peak,domestic dev
+709,not Moscow,9 cpu,8 cores,10 nodes,8 memory,3 nets,6 linpack,5 peak,foreign dev
+710,not Moscow,7 cpu,6 cores,7 nodes,4 memory,7 nets,7 linpack,9 peak,domestic dev
+711,not Moscow,4 cpu,5 cores,4 nodes,3 memory,8 nets,7 linpack,7 peak,joint dev
+712,not Moscow,8 cpu,9 cores,8 nodes,6 memory,1 nets,7 linpack,8 peak,foreign dev
+713,Moscow,3 cpu,6 cores,3 nodes,3 memory,8 nets,7 linpack,6 peak,foreign dev
+714,not Moscow,7 cpu,8 cores,7 nodes,7 memory,4 nets,8 linpack,7 peak,foreign dev
+715,not Moscow,3 cpu,6 cores,3 nodes,8 memory,9 nets,8 linpack,9 peak,joint dev
+716,Moscow,9 cpu,9 cores,9 nodes,7 memory,5 nets,8 linpack,7 peak,domestic dev
+717,not Moscow,4 cpu,6 cores,6 nodes,6 memory,2 nets,8 linpack,9 peak,joint dev
+718,not Moscow,5 cpu,7 cores,4 nodes,9 memory,3 nets,9 linpack,9 peak,foreign dev
+719,not Moscow,5 cpu,7 cores,5 nodes,10 memory,10 nets,9 linpack,10 peak,foreign dev
+720,not Moscow,6 cpu,9 cores,5 nodes,9 memory,9 nets,9 linpack,10 peak,domestic dev
+721,Moscow,8 cpu,8 cores,8 nodes,4 memory,7 nets,9 linpack,10 peak,domestic dev
+722,Moscow,10 cpu,10 cores,10 nodes,10 memory,5 nets,10 linpack,7 peak,foreign dev
+723,not Moscow,10 cpu,10 cores,10 nodes,9 memory,4 nets,10 linpack,8 peak,joint dev
+724,Moscow,9 cpu,10 cores,9 nodes,8 memory,1 nets,10 linpack,10 peak,foreign dev
+725,not Moscow,10 cpu,10 cores,10 nodes,10 memory,6 nets,10 linpack,8 peak,joint dev
+726,Moscow,1 cpu,1 cores,1 nodes,1 memory,3 nets,1 linpack,1 peak,domestic dev
+727,Moscow,6 cpu,1 cores,5 nodes,1 memory,1 nets,1 linpack,1 peak,domestic dev
+728,not Moscow,6 cpu,1 cores,6 nodes,5 memory,8 nets,1 linpack,1 peak,domestic dev
+729,Moscow,1 cpu,2 cores,1 nodes,2 memory,2 nets,2 linpack,2 peak,foreign dev
+730,not Moscow,6 cpu,10 cores,9 nodes,7 memory,3 nets,2 linpack,2 peak,joint dev
+731,not Moscow,5 cpu,3 cores,5 nodes,1 memory,9 nets,2 linpack,4 peak,domestic dev
+732,Moscow,9 cpu,3 cores,8 nodes,9 memory,10 nets,3 linpack,2 peak,foreign dev
+733,not Moscow,1 cpu,2 cores,1 nodes,10 memory,10 nets,3 linpack,3 peak,foreign dev
+734,not Moscow,9 cpu,5 cores,9 nodes,8 memory,5 nets,3 linpack,3 peak,joint dev
+735,not Moscow,2 cpu,2 cores,2 nodes,2 memory,9 nets,4 linpack,4 peak,domestic dev
+736,Moscow,2 cpu,3 cores,2 nodes,6 memory,10 nets,4 linpack,5 peak,domestic dev
+737,Moscow,9 cpu,5 cores,9 nodes,5 memory,1 nets,4 linpack,3 peak,domestic dev
+738,not Moscow,10 cpu,6 cores,10 nodes,8 memory,5 nets,5 linpack,4 peak,joint dev
+739,not Moscow,4 cpu,4 cores,4 nodes,2 memory,8 nets,5 linpack,5 peak,domestic dev
+740,Moscow,8 cpu,8 cores,8 nodes,5 memory,6 nets,5 linpack,6 peak,domestic dev
+741,not Moscow,8 cpu,4 cores,7 nodes,4 memory,7 nets,6 linpack,6 peak,domestic dev
+742,Moscow,2 cpu,4 cores,2 nodes,6 memory,3 nets,6 linpack,6 peak,foreign dev
+743,not Moscow,3 cpu,5 cores,3 nodes,6 memory,6 nets,6 linpack,7 peak,joint dev
+744,not Moscow,7 cpu,8 cores,6 nodes,3 memory,6 nets,7 linpack,9 peak,joint dev
+745,not Moscow,10 cpu,10 cores,10 nodes,9 memory,4 nets,7 linpack,7 peak,domestic dev
+746,not Moscow,10 cpu,9 cores,10 nodes,9 memory,4 nets,7 linpack,5 peak,foreign dev
+747,not Moscow,8 cpu,6 cores,8 nodes,4 memory,7 nets,8 linpack,9 peak,domestic dev
+748,not Moscow,4 cpu,6 cores,4 nodes,3 memory,8 nets,8 linpack,8 peak,joint dev
+749,not Moscow,9 cpu,10 cores,9 nodes,8 memory,1 nets,8 linpack,9 peak,foreign dev
+750,Moscow,3 cpu,7 cores,3 nodes,4 memory,7 nets,8 linpack,7 peak,foreign dev
+751,not Moscow,8 cpu,9 cores,8 nodes,9 memory,4 nets,9 linpack,8 peak,foreign dev
+752,not Moscow,3 cpu,7 cores,3 nodes,7 memory,10 nets,9 linpack,8 peak,foreign dev
+753,Moscow,10 cpu,10 cores,10 nodes,8 memory,5 nets,9 linpack,8 peak,domestic dev
+754,not Moscow,4 cpu,7 cores,7 nodes,7 memory,2 nets,9 linpack,9 peak,joint dev
+755,not Moscow,5 cpu,8 cores,4 nodes,10 memory,2 nets,10 linpack,10 peak,foreign dev
+756,not Moscow,5 cpu,8 cores,5 nodes,10 memory,9 nets,10 linpack,10 peak,foreign dev
+757,Moscow,7 cpu,9 cores,7 nodes,3 memory,8 nets,10 linpack,10 peak,foreign dev
+758,not Moscow,7 cpu,9 cores,6 nodes,10 memory,9 nets,10 linpack,10 peak,domestic dev
+759,Moscow,1 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,domestic dev
+760,Moscow,5 cpu,1 cores,5 nodes,1 memory,1 nets,1 linpack,1 peak,domestic dev
+761,not Moscow,6 cpu,1 cores,5 nodes,5 memory,7 nets,1 linpack,1 peak,domestic dev
+762,Moscow,1 cpu,2 cores,1 nodes,2 memory,2 nets,2 linpack,2 peak,foreign dev
+763,not Moscow,9 cpu,2 cores,9 nodes,7 memory,2 nets,2 linpack,2 peak,joint dev
+764,not Moscow,5 cpu,4 cores,5 nodes,1 memory,9 nets,2 linpack,4 peak,domestic dev
+765,Moscow,8 cpu,4 cores,8 nodes,9 memory,10 nets,3 linpack,3 peak,foreign dev
+766,not Moscow,1 cpu,2 cores,1 nodes,10 memory,10 nets,3 linpack,3 peak,foreign dev
+767,not Moscow,9 cpu,6 cores,9 nodes,8 memory,4 nets,3 linpack,4 peak,joint dev
+768,not Moscow,2 cpu,3 cores,2 nodes,2 memory,9 nets,4 linpack,5 peak,domestic dev
+769,Moscow,2 cpu,3 cores,2 nodes,6 memory,9 nets,4 linpack,5 peak,domestic dev
+770,Moscow,8 cpu,5 cores,8 nodes,5 memory,2 nets,4 linpack,3 peak,domestic dev
+771,not Moscow,9 cpu,7 cores,9 nodes,8 memory,4 nets,5 linpack,4 peak,joint dev
+772,not Moscow,4 cpu,5 cores,4 nodes,2 memory,9 nets,5 linpack,5 peak,domestic dev
+773,Moscow,7 cpu,9 cores,7 nodes,5 memory,7 nets,5 linpack,6 peak,domestic dev
+774,Moscow,6 cpu,3 cores,6 nodes,3 memory,10 nets,6 linpack,2 peak,foreign dev
+775,Moscow,10 cpu,8 cores,10 nodes,10 memory,6 nets,6 linpack,7 peak,foreign dev
+776,not Moscow,7 cpu,4 cores,7 nodes,4 memory,8 nets,6 linpack,7 peak,domestic dev
+777,Moscow,2 cpu,5 cores,2 nodes,6 memory,3 nets,7 linpack,6 peak,foreign dev
+778,not Moscow,3 cpu,6 cores,3 nodes,6 memory,6 nets,7 linpack,8 peak,joint dev
+779,not Moscow,6 cpu,8 cores,6 nodes,3 memory,8 nets,7 linpack,9 peak,joint dev
+780,not Moscow,10 cpu,10 cores,9 nodes,9 memory,5 nets,8 linpack,7 peak,domestic dev
+781,not Moscow,10 cpu,9 cores,10 nodes,9 memory,5 nets,8 linpack,6 peak,foreign dev
+782,not Moscow,7 cpu,7 cores,7 nodes,4 memory,7 nets,8 linpack,10 peak,domestic dev
+783,not Moscow,4 cpu,6 cores,4 nodes,3 memory,8 nets,8 linpack,8 peak,joint dev
+784,not Moscow,8 cpu,10 cores,8 nodes,8 memory,1 nets,9 linpack,10 peak,foreign dev
+785,Moscow,3 cpu,7 cores,3 nodes,4 memory,8 nets,9 linpack,8 peak,foreign dev
+786,not Moscow,8 cpu,9 cores,8 nodes,9 memory,6 nets,9 linpack,9 peak,foreign dev
+787,not Moscow,3 cpu,8 cores,3 nodes,7 memory,10 nets,9 linpack,9 peak,foreign dev
+788,Moscow,9 cpu,10 cores,10 nodes,8 memory,5 nets,10 linpack,8 peak,domestic dev
+789,not Moscow,4 cpu,8 cores,6 nodes,7 memory,3 nets,10 linpack,10 peak,joint dev
+790,not Moscow,5 cpu,9 cores,4 nodes,10 memory,3 nets,10 linpack,10 peak,foreign dev
+791,not Moscow,10 cpu,10 cores,10 nodes,10 memory,1 nets,10 linpack,9 peak,joint dev
+792,Moscow,1 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,domestic dev
+793,Moscow,6 cpu,1 cores,5 nodes,1 memory,1 nets,1 linpack,1 peak,domestic dev
+794,not Moscow,3 cpu,2 cores,3 nodes,3 memory,8 nets,1 linpack,2 peak,domestic dev
+795,not Moscow,6 cpu,1 cores,6 nodes,3 memory,8 nets,2 linpack,1 peak,joint dev
+796,Moscow,1 cpu,2 cores,1 nodes,2 memory,3 nets,2 linpack,2 peak,foreign dev
+797,not Moscow,9 cpu,3 cores,9 nodes,7 memory,3 nets,2 linpack,2 peak,joint dev
+798,not Moscow,5 cpu,4 cores,5 nodes,1 memory,9 nets,3 linpack,4 peak,domestic dev
+799,Moscow,8 cpu,4 cores,8 nodes,9 memory,10 nets,3 linpack,3 peak,foreign dev
+800,not Moscow,1 cpu,2 cores,1 nodes,10 memory,10 nets,3 linpack,3 peak,foreign dev
+801,not Moscow,2 cpu,3 cores,2 nodes,2 memory,9 nets,4 linpack,5 peak,domestic dev
+802,Moscow,2 cpu,4 cores,2 nodes,6 memory,9 nets,4 linpack,5 peak,domestic dev
+803,Moscow,8 cpu,5 cores,8 nodes,6 memory,2 nets,4 linpack,4 peak,domestic dev
+804,not Moscow,9 cpu,7 cores,9 nodes,8 memory,4 nets,5 linpack,4 peak,joint dev
+805,not Moscow,5 cpu,5 cores,4 nodes,2 memory,9 nets,5 linpack,5 peak,domestic dev
+806,Moscow,7 cpu,9 cores,7 nodes,5 memory,7 nets,5 linpack,6 peak,domestic dev
+807,Moscow,7 cpu,3 cores,7 nodes,3 memory,10 nets,6 linpack,3 peak,foreign dev
+808,Moscow,10 cpu,8 cores,10 nodes,10 memory,6 nets,6 linpack,7 peak,foreign dev
+809,not Moscow,7 cpu,5 cores,7 nodes,4 memory,7 nets,6 linpack,7 peak,domestic dev
+810,Moscow,2 cpu,6 cores,2 nodes,7 memory,2 nets,7 linpack,6 peak,foreign dev
+811,not Moscow,3 cpu,6 cores,3 nodes,6 memory,6 nets,7 linpack,7 peak,joint dev
+812,not Moscow,6 cpu,8 cores,6 nodes,4 memory,8 nets,7 linpack,9 peak,joint dev
+813,not Moscow,10 cpu,10 cores,9 nodes,9 memory,6 nets,7 linpack,7 peak,domestic dev
+814,not Moscow,10 cpu,9 cores,10 nodes,9 memory,1 nets,8 linpack,9 peak,joint dev
+815,not Moscow,9 cpu,9 cores,10 nodes,9 memory,5 nets,8 linpack,6 peak,foreign dev
+816,not Moscow,10 cpu,10 cores,10 nodes,10 memory,2 nets,8 linpack,9 peak,joint dev
+817,not Moscow,7 cpu,7 cores,7 nodes,5 memory,7 nets,8 linpack,10 peak,domestic dev
+818,not Moscow,4 cpu,6 cores,4 nodes,4 memory,8 nets,9 linpack,8 peak,joint dev
+819,not Moscow,8 cpu,10 cores,8 nodes,8 memory,1 nets,9 linpack,10 peak,foreign dev
+820,Moscow,3 cpu,7 cores,3 nodes,5 memory,7 nets,9 linpack,8 peak,foreign dev
+821,not Moscow,8 cpu,9 cores,8 nodes,8 memory,5 nets,9 linpack,8 peak,foreign dev
+822,not Moscow,4 cpu,7 cores,4 nodes,7 memory,10 nets,10 linpack,9 peak,foreign dev
+823,Moscow,9 cpu,10 cores,9 nodes,8 memory,5 nets,10 linpack,8 peak,domestic dev
+824,not Moscow,4 cpu,8 cores,6 nodes,7 memory,4 nets,10 linpack,10 peak,joint dev
+825,not Moscow,5 cpu,8 cores,5 nodes,10 memory,3 nets,10 linpack,10 peak,foreign dev
+826,Moscow,1 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,domestic dev
+827,Moscow,5 cpu,3 cores,6 nodes,4 memory,10 nets,1 linpack,1 peak,foreign dev
+828,Moscow,4 cpu,1 cores,4 nodes,1 memory,1 nets,1 linpack,1 peak,domestic dev
+829,Moscow,6 cpu,3 cores,3 nodes,5 memory,1 nets,2 linpack,2 peak,domestic dev
+830,not Moscow,3 cpu,2 cores,3 nodes,4 memory,8 nets,2 linpack,2 peak,domestic dev
+831,not Moscow,5 cpu,1 cores,6 nodes,3 memory,8 nets,2 linpack,2 peak,joint dev
+832,Moscow,1 cpu,2 cores,1 nodes,2 memory,3 nets,3 linpack,3 peak,foreign dev
+833,not Moscow,9 cpu,3 cores,9 nodes,8 memory,4 nets,3 linpack,3 peak,joint dev
+834,not Moscow,4 cpu,5 cores,4 nodes,2 memory,9 nets,3 linpack,6 peak,domestic dev
+835,Moscow,8 cpu,5 cores,8 nodes,10 memory,10 nets,4 linpack,4 peak,foreign dev
+836,not Moscow,9 cpu,9 cores,9 nodes,9 memory,2 nets,4 linpack,5 peak,domestic dev
+837,Moscow,8 cpu,6 cores,8 nodes,8 memory,9 nets,4 linpack,4 peak,foreign dev
+838,not Moscow,1 cpu,2 cores,1 nodes,10 memory,10 nets,5 linpack,4 peak,foreign dev
+839,Moscow,9 cpu,8 cores,10 nodes,10 memory,10 nets,5 linpack,5 peak,foreign dev
+840,not Moscow,2 cpu,4 cores,2 nodes,3 memory,8 nets,5 linpack,6 peak,domestic dev
+841,Moscow,2 cpu,4 cores,2 nodes,7 memory,9 nets,6 linpack,7 peak,domestic dev
+842,Moscow,7 cpu,8 cores,7 nodes,2 memory,1 nets,6 linpack,7 peak,foreign dev
+843,Moscow,8 cpu,7 cores,8 nodes,7 memory,3 nets,6 linpack,5 peak,domestic dev
+844,not Moscow,4 cpu,7 cores,5 nodes,6 memory,7 nets,7 linpack,8 peak,foreign dev
+845,not Moscow,9 cpu,8 cores,9 nodes,8 memory,5 nets,7 linpack,6 peak,joint dev
+846,not Moscow,3 cpu,6 cores,4 nodes,3 memory,8 nets,7 linpack,7 peak,domestic dev
+847,Moscow,7 cpu,9 cores,7 nodes,6 memory,6 nets,7 linpack,8 peak,domestic dev
+848,not Moscow,6 cpu,5 cores,6 nodes,4 memory,7 nets,8 linpack,7 peak,domestic dev
+849,Moscow,7 cpu,4 cores,7 nodes,5 memory,9 nets,8 linpack,3 peak,foreign dev
+850,Moscow,10 cpu,8 cores,10 nodes,10 memory,6 nets,8 linpack,9 peak,foreign dev
+851,not Moscow,7 cpu,6 cores,7 nodes,6 memory,7 nets,8 linpack,9 peak,domestic dev
+852,Moscow,2 cpu,7 cores,2 nodes,7 memory,3 nets,9 linpack,9 peak,foreign dev
+853,Moscow,6 cpu,9 cores,5 nodes,1 memory,5 nets,9 linpack,8 peak,foreign dev
+854,not Moscow,3 cpu,7 cores,3 nodes,7 memory,4 nets,9 linpack,10 peak,joint dev
+855,not Moscow,5 cpu,9 cores,5 nodes,5 memory,7 nets,9 linpack,10 peak,joint dev
+856,not Moscow,10 cpu,10 cores,9 nodes,9 memory,6 nets,10 linpack,9 peak,domestic dev
+857,not Moscow,10 cpu,10 cores,10 nodes,9 memory,2 nets,10 linpack,10 peak,joint dev
+858,Moscow,8 cpu,10 cores,8 nodes,8 memory,2 nets,10 linpack,10 peak,foreign dev
+859,not Moscow,10 cpu,10 cores,10 nodes,9 memory,5 nets,10 linpack,8 peak,foreign dev
+860,Moscow,2 cpu,1 cores,1 nodes,1 memory,3 nets,1 linpack,1 peak,domestic dev
+861,Moscow,1 cpu,1 cores,1 nodes,1 memory,7 nets,1 linpack,1 peak,domestic dev
+862,not Moscow,2 cpu,2 cores,2 nodes,1 memory,1 nets,1 linpack,1 peak,domestic dev
+863,Moscow,5 cpu,2 cores,5 nodes,2 memory,2 nets,2 linpack,2 peak,domestic dev
+864,not Moscow,5 cpu,1 cores,6 nodes,4 memory,8 nets,2 linpack,2 peak,domestic dev
+865,not Moscow,3 cpu,2 cores,3 nodes,5 memory,8 nets,2 linpack,2 peak,domestic dev
+866,not Moscow,7 cpu,3 cores,4 nodes,9 memory,1 nets,3 linpack,3 peak,domestic dev
+867,Moscow,1 cpu,3 cores,1 nodes,3 memory,4 nets,3 linpack,3 peak,foreign dev
+868,not Moscow,9 cpu,4 cores,9 nodes,8 memory,5 nets,3 linpack,3 peak,joint dev
+869,Moscow,4 cpu,4 cores,4 nodes,2 memory,2 nets,4 linpack,4 peak,domestic dev
+870,not Moscow,9 cpu,10 cores,10 nodes,9 memory,4 nets,4 linpack,5 peak,domestic dev
+871,not Moscow,5 cpu,6 cores,5 nodes,3 memory,9 nets,4 linpack,6 peak,domestic dev
+872,Moscow,8 cpu,5 cores,8 nodes,9 memory,10 nets,5 linpack,4 peak,foreign dev
+873,not Moscow,1 cpu,3 cores,2 nodes,10 memory,10 nets,5 linpack,5 peak,foreign dev
+874,Moscow,10 cpu,6 cores,9 nodes,10 memory,2 nets,5 linpack,6 peak,domestic dev
+875,not Moscow,2 cpu,5 cores,2 nodes,4 memory,9 nets,6 linpack,7 peak,domestic dev
+876,Moscow,3 cpu,5 cores,3 nodes,7 memory,10 nets,6 linpack,7 peak,domestic dev
+877,Moscow,7 cpu,9 cores,7 nodes,3 memory,3 nets,6 linpack,8 peak,foreign dev
+878,Moscow,9 cpu,7 cores,9 nodes,7 memory,4 nets,7 linpack,5 peak,domestic dev
+879,not Moscow,6 cpu,8 cores,6 nodes,6 memory,7 nets,7 linpack,8 peak,foreign dev
+880,not Moscow,9 cpu,9 cores,9 nodes,8 memory,6 nets,7 linpack,6 peak,joint dev
+881,not Moscow,4 cpu,7 cores,5 nodes,4 memory,9 nets,8 linpack,7 peak,domestic dev
+882,not Moscow,10 cpu,8 cores,10 nodes,9 memory,5 nets,8 linpack,8 peak,foreign dev
+883,Moscow,8 cpu,10 cores,8 nodes,6 memory,7 nets,8 linpack,9 peak,domestic dev
+884,not Moscow,6 cpu,6 cores,7 nodes,5 memory,8 nets,8 linpack,8 peak,domestic dev
+885,Moscow,7 cpu,4 cores,7 nodes,5 memory,10 nets,9 linpack,4 peak,foreign dev
+886,Moscow,8 cpu,10 cores,8 nodes,8 memory,3 nets,9 linpack,10 peak,foreign dev
+887,Moscow,10 cpu,9 cores,10 nodes,10 memory,6 nets,9 linpack,10 peak,foreign dev
+888,not Moscow,8 cpu,7 cores,8 nodes,6 memory,8 nets,9 linpack,10 peak,domestic dev
+889,Moscow,3 cpu,8 cores,3 nodes,8 memory,5 nets,10 linpack,9 peak,foreign dev
+890,Moscow,6 cpu,9 cores,6 nodes,2 memory,9 nets,10 linpack,9 peak,foreign dev
+891,not Moscow,10 cpu,10 cores,10 nodes,10 memory,1 nets,10 linpack,9 peak,domestic dev
+892,not Moscow,4 cpu,8 cores,4 nodes,7 memory,6 nets,10 linpack,10 peak,joint dev
+893,Moscow,2 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,domestic dev
+894,Moscow,1 cpu,1 cores,1 nodes,1 memory,7 nets,1 linpack,1 peak,domestic dev
+895,not Moscow,2 cpu,2 cores,2 nodes,2 memory,1 nets,1 linpack,1 peak,domestic dev
+896,Moscow,5 cpu,2 cores,5 nodes,3 memory,2 nets,2 linpack,2 peak,domestic dev
+897,Moscow,3 cpu,4 cores,3 nodes,1 memory,1 nets,2 linpack,2 peak,joint dev
+898,not Moscow,5 cpu,1 cores,6 nodes,5 memory,8 nets,2 linpack,2 peak,domestic dev
+899,not Moscow,4 cpu,2 cores,4 nodes,5 memory,8 nets,3 linpack,3 peak,domestic dev
+900,not Moscow,7 cpu,3 cores,4 nodes,9 memory,3 nets,3 linpack,3 peak,domestic dev
+901,Moscow,1 cpu,3 cores,1 nodes,4 memory,5 nets,3 linpack,3 peak,foreign dev
+902,not Moscow,9 cpu,4 cores,9 nodes,8 memory,5 nets,4 linpack,4 peak,joint dev
+903,Moscow,4 cpu,4 cores,4 nodes,2 memory,2 nets,4 linpack,5 peak,domestic dev
+904,not Moscow,9 cpu,10 cores,10 nodes,9 memory,4 nets,4 linpack,6 peak,domestic dev
+905,Moscow,9 cpu,8 cores,9 nodes,9 memory,4 nets,5 linpack,4 peak,foreign dev
+906,not Moscow,5 cpu,7 cores,5 nodes,3 memory,9 nets,5 linpack,7 peak,domestic dev
+907,Moscow,8 cpu,6 cores,8 nodes,10 memory,10 nets,5 linpack,5 peak,foreign dev
+908,not Moscow,1 cpu,3 cores,2 nodes,10 memory,10 nets,6 linpack,5 peak,foreign dev
+909,Moscow,10 cpu,6 cores,9 nodes,10 memory,2 nets,6 linpack,7 peak,domestic dev
+910,not Moscow,2 cpu,5 cores,2 nodes,4 memory,9 nets,6 linpack,7 peak,domestic dev
+911,Moscow,3 cpu,5 cores,3 nodes,7 memory,9 nets,7 linpack,8 peak,domestic dev
+912,Moscow,7 cpu,9 cores,7 nodes,3 memory,3 nets,7 linpack,9 peak,foreign dev
+913,Moscow,9 cpu,7 cores,9 nodes,7 memory,5 nets,7 linpack,6 peak,domestic dev
+914,not Moscow,6 cpu,8 cores,6 nodes,6 memory,7 nets,7 linpack,9 peak,foreign dev
+915,not Moscow,10 cpu,9 cores,10 nodes,8 memory,6 nets,8 linpack,6 peak,joint dev
+916,not Moscow,4 cpu,7 cores,5 nodes,4 memory,8 nets,8 linpack,8 peak,domestic dev
+917,Moscow,6 cpu,9 cores,6 nodes,2 memory,9 nets,8 linpack,8 peak,foreign dev
+918,not Moscow,10 cpu,10 cores,10 nodes,10 memory,3 nets,8 linpack,7 peak,domestic dev
+919,not Moscow,8 cpu,9 cores,8 nodes,7 memory,10 nets,9 linpack,9 peak,domestic dev
+920,not Moscow,10 cpu,8 cores,10 nodes,9 memory,6 nets,9 linpack,9 peak,foreign dev
+921,Moscow,8 cpu,10 cores,8 nodes,7 memory,7 nets,9 linpack,10 peak,domestic dev
+922,not Moscow,6 cpu,6 cores,7 nodes,5 memory,8 nets,9 linpack,8 peak,domestic dev
+923,Moscow,7 cpu,5 cores,7 nodes,6 memory,10 nets,10 linpack,4 peak,foreign dev
+924,Moscow,8 cpu,10 cores,8 nodes,8 memory,1 nets,10 linpack,10 peak,foreign dev
+925,not Moscow,7 cpu,7 cores,7 nodes,6 memory,7 nets,10 linpack,10 peak,domestic dev
+926,Moscow,3 cpu,8 cores,3 nodes,8 memory,6 nets,10 linpack,10 peak,foreign dev
+927,Moscow,2 cpu,1 cores,1 nodes,1 memory,2 nets,1 linpack,1 peak,domestic dev
+928,Moscow,1 cpu,1 cores,1 nodes,1 memory,7 nets,1 linpack,1 peak,domestic dev
+929,not Moscow,2 cpu,2 cores,2 nodes,2 memory,5 nets,1 linpack,1 peak,domestic dev
+930,Moscow,6 cpu,4 cores,6 nodes,3 memory,1 nets,2 linpack,2 peak,domestic dev
+931,Moscow,5 cpu,2 cores,5 nodes,4 memory,3 nets,2 linpack,2 peak,domestic dev
+932,Moscow,3 cpu,4 cores,3 nodes,1 memory,5 nets,2 linpack,3 peak,joint dev
+933,not Moscow,5 cpu,1 cores,6 nodes,5 memory,8 nets,3 linpack,2 peak,domestic dev
+934,not Moscow,3 cpu,2 cores,3 nodes,6 memory,7 nets,3 linpack,3 peak,domestic dev
+935,not Moscow,6 cpu,3 cores,5 nodes,9 memory,4 nets,3 linpack,3 peak,domestic dev
+936,Moscow,1 cpu,3 cores,1 nodes,5 memory,6 nets,4 linpack,4 peak,foreign dev
+937,not Moscow,9 cpu,5 cores,9 nodes,8 memory,6 nets,4 linpack,4 peak,joint dev
+938,Moscow,7 cpu,8 cores,7 nodes,4 memory,1 nets,4 linpack,6 peak,domestic dev
+939,Moscow,4 cpu,5 cores,4 nodes,2 memory,4 nets,5 linpack,5 peak,domestic dev
+940,not Moscow,10 cpu,10 cores,10 nodes,9 memory,3 nets,5 linpack,6 peak,domestic dev
+941,not Moscow,2 cpu,4 cores,2 nodes,3 memory,9 nets,5 linpack,6 peak,domestic dev
+942,Moscow,9 cpu,8 cores,9 nodes,9 memory,2 nets,5 linpack,5 peak,foreign dev
+943,not Moscow,5 cpu,7 cores,5 nodes,5 memory,8 nets,6 linpack,7 peak,domestic dev
+944,Moscow,8 cpu,6 cores,8 nodes,10 memory,10 nets,6 linpack,5 peak,foreign dev
+945,not Moscow,1 cpu,3 cores,2 nodes,10 memory,10 nets,6 linpack,5 peak,foreign dev
+946,not Moscow,4 cpu,6 cores,4 nodes,6 memory,8 nets,6 linpack,8 peak,foreign dev
+947,Moscow,10 cpu,6 cores,9 nodes,10 memory,5 nets,7 linpack,7 peak,domestic dev
+948,Moscow,3 cpu,5 cores,3 nodes,7 memory,9 nets,7 linpack,8 peak,domestic dev
+949,not Moscow,5 cpu,6 cores,5 nodes,3 memory,9 nets,7 linpack,7 peak,foreign dev
+950,Moscow,7 cpu,9 cores,7 nodes,4 memory,1 nets,7 linpack,9 peak,foreign dev
+951,Moscow,9 cpu,7 cores,9 nodes,7 memory,5 nets,8 linpack,6 peak,domestic dev
+952,not Moscow,9 cpu,9 cores,10 nodes,8 memory,6 nets,8 linpack,7 peak,joint dev
+953,not Moscow,4 cpu,7 cores,4 nodes,5 memory,8 nets,8 linpack,9 peak,domestic dev
+954,Moscow,7 cpu,9 cores,8 nodes,6 memory,2 nets,8 linpack,10 peak,foreign dev
+955,Moscow,6 cpu,8 cores,6 nodes,2 memory,9 nets,9 linpack,8 peak,foreign dev
+956,not Moscow,10 cpu,10 cores,10 nodes,10 memory,4 nets,9 linpack,8 peak,domestic dev
+957,not Moscow,8 cpu,10 cores,8 nodes,8 memory,10 nets,9 linpack,10 peak,domestic dev
+958,not Moscow,10 cpu,8 cores,10 nodes,9 memory,6 nets,9 linpack,9 peak,foreign dev
+959,Moscow,8 cpu,10 cores,7 nodes,7 memory,7 nets,10 linpack,10 peak,domestic dev
+960,not Moscow,6 cpu,7 cores,6 nodes,6 memory,7 nets,10 linpack,9 peak,domestic dev
+961,Moscow,8 cpu,9 cores,8 nodes,8 memory,3 nets,10 linpack,10 peak,foreign dev
+962,Moscow,7 cpu,5 cores,7 nodes,7 memory,10 nets,10 linpack,4 peak,foreign dev
+963,Moscow,2 cpu,1 cores,1 nodes,1 memory,3 nets,1 linpack,1 peak,domestic dev
+964,Moscow,1 cpu,1 cores,1 nodes,1 memory,7 nets,1 linpack,1 peak,domestic dev
+965,not Moscow,2 cpu,2 cores,2 nodes,2 memory,5 nets,1 linpack,1 peak,domestic dev
+966,Moscow,5 cpu,2 cores,5 nodes,4 memory,3 nets,2 linpack,2 peak,domestic dev
+967,Moscow,6 cpu,4 cores,6 nodes,3 memory,1 nets,2 linpack,2 peak,domestic dev
+968,Moscow,3 cpu,4 cores,3 nodes,1 memory,5 nets,2 linpack,3 peak,joint dev
+969,not Moscow,5 cpu,1 cores,6 nodes,5 memory,8 nets,3 linpack,2 peak,domestic dev
+970,not Moscow,3 cpu,2 cores,3 nodes,6 memory,8 nets,3 linpack,3 peak,domestic dev
+971,not Moscow,6 cpu,3 cores,4 nodes,9 memory,4 nets,3 linpack,3 peak,domestic dev
+972,Moscow,1 cpu,3 cores,1 nodes,5 memory,6 nets,4 linpack,4 peak,foreign dev
+973,not Moscow,9 cpu,5 cores,9 nodes,8 memory,6 nets,4 linpack,4 peak,joint dev
+974,Moscow,7 cpu,8 cores,7 nodes,4 memory,1 nets,4 linpack,5 peak,domestic dev
+975,Moscow,4 cpu,5 cores,4 nodes,2 memory,4 nets,5 linpack,5 peak,domestic dev
+976,not Moscow,10 cpu,10 cores,10 nodes,9 memory,3 nets,5 linpack,6 peak,domestic dev
+977,not Moscow,2 cpu,4 cores,2 nodes,3 memory,9 nets,5 linpack,6 peak,domestic dev
+978,Moscow,9 cpu,8 cores,9 nodes,9 memory,2 nets,5 linpack,4 peak,foreign dev
+979,not Moscow,5 cpu,7 cores,5 nodes,5 memory,9 nets,6 linpack,7 peak,domestic dev
+980,Moscow,8 cpu,6 cores,8 nodes,10 memory,10 nets,6 linpack,5 peak,foreign dev
+981,not Moscow,1 cpu,3 cores,2 nodes,10 memory,10 nets,6 linpack,5 peak,foreign dev
+982,not Moscow,4 cpu,5 cores,4 nodes,6 memory,8 nets,6 linpack,8 peak,foreign dev
+983,Moscow,10 cpu,6 cores,8 nodes,10 memory,5 nets,7 linpack,7 peak,domestic dev
+984,Moscow,6 cpu,7 cores,6 nodes,2 memory,9 nets,7 linpack,6 peak,foreign dev
+985,Moscow,3 cpu,5 cores,3 nodes,7 memory,10 nets,7 linpack,8 peak,domestic dev
+986,Moscow,9 cpu,10 cores,9 nodes,8 memory,1 nets,7 linpack,9 peak,domestic dev
+987,not Moscow,5 cpu,6 cores,5 nodes,3 memory,9 nets,8 linpack,7 peak,foreign dev
+988,Moscow,7 cpu,9 cores,7 nodes,4 memory,5 nets,8 linpack,9 peak,foreign dev
+989,Moscow,8 cpu,7 cores,9 nodes,7 memory,6 nets,8 linpack,6 peak,domestic dev
+990,not Moscow,9 cpu,8 cores,10 nodes,8 memory,7 nets,8 linpack,7 peak,joint dev
+991,not Moscow,4 cpu,7 cores,5 nodes,5 memory,8 nets,9 linpack,8 peak,domestic dev
+992,Moscow,7 cpu,9 cores,7 nodes,6 memory,2 nets,9 linpack,10 peak,foreign dev
+993,not Moscow,10 cpu,10 cores,10 nodes,10 memory,4 nets,9 linpack,8 peak,domestic dev
+994,not Moscow,8 cpu,9 cores,8 nodes,7 memory,10 nets,9 linpack,10 peak,domestic dev
+995,not Moscow,10 cpu,8 cores,10 nodes,9 memory,6 nets,10 linpack,9 peak,foreign dev
+996,Moscow,7 cpu,10 cores,7 nodes,7 memory,7 nets,10 linpack,10 peak,domestic dev
+997,not Moscow,6 cpu,6 cores,6 nodes,6 memory,7 nets,10 linpack,9 peak,domestic dev
+998,Moscow,8 cpu,9 cores,8 nodes,8 memory,2 nets,10 linpack,10 peak,foreign dev
+999,Moscow,2 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,domestic dev
+1000,Moscow,1 cpu,1 cores,1 nodes,1 memory,9 nets,1 linpack,1 peak,domestic dev
+1001,not Moscow,2 cpu,2 cores,2 nodes,2 memory,6 nets,1 linpack,1 peak,domestic dev
+1002,Moscow,5 cpu,2 cores,5 nodes,4 memory,5 nets,2 linpack,2 peak,domestic dev
+1003,Moscow,6 cpu,4 cores,6 nodes,3 memory,6 nets,2 linpack,2 peak,domestic dev
+1004,Moscow,3 cpu,4 cores,3 nodes,2 memory,5 nets,2 linpack,3 peak,joint dev
+1005,not Moscow,5 cpu,1 cores,6 nodes,5 memory,9 nets,3 linpack,2 peak,domestic dev
+1006,not Moscow,3 cpu,2 cores,3 nodes,6 memory,8 nets,3 linpack,3 peak,domestic dev
+1007,not Moscow,6 cpu,3 cores,4 nodes,9 memory,3 nets,3 linpack,3 peak,domestic dev
+1008,Moscow,6 cpu,6 cores,6 nodes,4 memory,2 nets,4 linpack,4 peak,domestic dev
+1009,Moscow,1 cpu,3 cores,1 nodes,5 memory,7 nets,4 linpack,4 peak,foreign dev
+1010,not Moscow,8 cpu,4 cores,9 nodes,8 memory,6 nets,4 linpack,4 peak,joint dev
+1011,Moscow,7 cpu,8 cores,7 nodes,4 memory,1 nets,4 linpack,6 peak,domestic dev
+1012,Moscow,4 cpu,5 cores,4 nodes,3 memory,5 nets,5 linpack,5 peak,domestic dev
+1013,not Moscow,9 cpu,9 cores,9 nodes,9 memory,3 nets,5 linpack,6 peak,domestic dev
+1014,not Moscow,2 cpu,4 cores,2 nodes,3 memory,7 nets,5 linpack,6 peak,domestic dev
+1015,Moscow,8 cpu,8 cores,8 nodes,8 memory,3 nets,5 linpack,4 peak,foreign dev
+1016,Moscow,5 cpu,6 cores,5 nodes,1 memory,8 nets,6 linpack,5 peak,foreign dev
+1017,not Moscow,5 cpu,7 cores,5 nodes,5 memory,8 nets,6 linpack,7 peak,domestic dev
+1018,Moscow,7 cpu,6 cores,7 nodes,10 memory,10 nets,6 linpack,5 peak,foreign dev
+1019,not Moscow,8 cpu,9 cores,8 nodes,7 memory,8 nets,6 linpack,8 peak,domestic dev
+1020,not Moscow,1 cpu,3 cores,2 nodes,10 memory,10 nets,7 linpack,5 peak,foreign dev
+1021,not Moscow,4 cpu,5 cores,4 nodes,6 memory,9 nets,7 linpack,8 peak,foreign dev
+1022,Moscow,9 cpu,6 cores,8 nodes,10 memory,2 nets,7 linpack,7 peak,domestic dev
+1023,not Moscow,4 cpu,5 cores,5 nodes,2 memory,5 nets,7 linpack,7 peak,foreign dev
+1024,Moscow,10 cpu,10 cores,10 nodes,9 memory,1 nets,8 linpack,8 peak,domestic dev
+1025,Moscow,3 cpu,5 cores,3 nodes,7 memory,10 nets,8 linpack,9 peak,domestic dev
+1026,not Moscow,9 cpu,10 cores,9 nodes,6 memory,1 nets,8 linpack,9 peak,domestic dev
+1027,Moscow,6 cpu,9 cores,6 nodes,4 memory,4 nets,8 linpack,10 peak,foreign dev
+1028,Moscow,8 cpu,7 cores,8 nodes,7 memory,6 nets,9 linpack,6 peak,domestic dev
+1029,not Moscow,10 cpu,8 cores,10 nodes,8 memory,4 nets,9 linpack,9 peak,domestic dev
+1030,not Moscow,9 cpu,8 cores,9 nodes,8 memory,7 nets,9 linpack,7 peak,joint dev
+1031,not Moscow,4 cpu,7 cores,4 nodes,5 memory,9 nets,9 linpack,9 peak,domestic dev
+1032,Moscow,7 cpu,9 cores,7 nodes,6 memory,4 nets,10 linpack,10 peak,foreign dev
+1033,not Moscow,10 cpu,10 cores,10 nodes,10 memory,2 nets,10 linpack,8 peak,domestic dev
+1034,not Moscow,7 cpu,10 cores,7 nodes,7 memory,10 nets,10 linpack,10 peak,domestic dev
+1035,not Moscow,10 cpu,7 cores,10 nodes,9 memory,7 nets,10 linpack,10 peak,foreign dev
+1036,Moscow,1 cpu,1 cores,1 nodes,1 memory,5 nets,1 linpack,1 peak,domestic dev
+1037,Moscow,1 cpu,1 cores,1 nodes,1 memory,9 nets,1 linpack,1 peak,domestic dev
+1038,not Moscow,2 cpu,2 cores,2 nodes,2 memory,5 nets,1 linpack,1 peak,domestic dev
+1039,Moscow,4 cpu,1 cores,4 nodes,3 memory,5 nets,1 linpack,2 peak,domestic dev
+1040,Moscow,5 cpu,3 cores,5 nodes,3 memory,7 nets,2 linpack,1 peak,domestic dev
+1041,Moscow,2 cpu,3 cores,2 nodes,2 memory,6 nets,2 linpack,2 peak,joint dev
+1042,not Moscow,4 cpu,1 cores,5 nodes,5 memory,8 nets,2 linpack,2 peak,domestic dev
+1043,not Moscow,3 cpu,2 cores,3 nodes,6 memory,9 nets,2 linpack,2 peak,domestic dev
+1044,not Moscow,3 cpu,3 cores,4 nodes,1 memory,1 nets,3 linpack,3 peak,joint dev
+1045,not Moscow,5 cpu,2 cores,3 nodes,9 memory,3 nets,3 linpack,3 peak,domestic dev
+1046,Moscow,5 cpu,5 cores,5 nodes,3 memory,3 nets,3 linpack,4 peak,domestic dev
+1047,not Moscow,6 cpu,6 cores,6 nodes,5 memory,6 nets,3 linpack,4 peak,foreign dev
+1048,Moscow,1 cpu,2 cores,1 nodes,4 memory,7 nets,4 linpack,3 peak,foreign dev
+1049,not Moscow,8 cpu,4 cores,8 nodes,7 memory,7 nets,4 linpack,3 peak,joint dev
+1050,Moscow,6 cpu,7 cores,6 nodes,4 memory,2 nets,4 linpack,5 peak,domestic dev
+1051,Moscow,3 cpu,4 cores,3 nodes,2 memory,6 nets,4 linpack,5 peak,domestic dev
+1052,not Moscow,9 cpu,9 cores,9 nodes,8 memory,4 nets,5 linpack,6 peak,domestic dev
+1053,not Moscow,2 cpu,4 cores,2 nodes,3 memory,8 nets,5 linpack,6 peak,domestic dev
+1054,Moscow,7 cpu,7 cores,8 nodes,8 memory,4 nets,5 linpack,4 peak,foreign dev
+1055,Moscow,5 cpu,6 cores,5 nodes,1 memory,8 nets,5 linpack,5 peak,foreign dev
+1056,not Moscow,4 cpu,6 cores,4 nodes,4 memory,9 nets,6 linpack,7 peak,domestic dev
+1057,Moscow,7 cpu,5 cores,7 nodes,9 memory,10 nets,6 linpack,4 peak,foreign dev
+1058,not Moscow,7 cpu,8 cores,7 nodes,6 memory,9 nets,6 linpack,8 peak,domestic dev
+1059,not Moscow,1 cpu,3 cores,1 nodes,10 memory,10 nets,6 linpack,5 peak,foreign dev
+1060,not Moscow,3 cpu,5 cores,3 nodes,5 memory,10 nets,7 linpack,9 peak,foreign dev
+1061,Moscow,10 cpu,10 cores,10 nodes,10 memory,1 nets,7 linpack,7 peak,foreign dev
+1062,Moscow,10 cpu,10 cores,10 nodes,10 memory,1 nets,7 linpack,7 peak,foreign dev
+1063,Moscow,9 cpu,6 cores,7 nodes,10 memory,3 nets,7 linpack,8 peak,domestic dev
+1064,not Moscow,9 cpu,9 cores,9 nodes,7 memory,3 nets,8 linpack,8 peak,domestic dev
+1065,not Moscow,4 cpu,5 cores,4 nodes,2 memory,6 nets,8 linpack,6 peak,foreign dev
+1066,Moscow,10 cpu,9 cores,10 nodes,9 memory,2 nets,8 linpack,8 peak,domestic dev
+1067,Moscow,2 cpu,4 cores,2 nodes,7 memory,10 nets,8 linpack,9 peak,domestic dev
+1068,Moscow,8 cpu,10 cores,8 nodes,5 memory,2 nets,9 linpack,9 peak,domestic dev
+1069,not Moscow,8 cpu,9 cores,9 nodes,6 memory,2 nets,9 linpack,10 peak,domestic dev
+1070,Moscow,6 cpu,8 cores,6 nodes,4 memory,5 nets,9 linpack,10 peak,foreign dev
+1071,Moscow,7 cpu,7 cores,7 nodes,6 memory,7 nets,9 linpack,6 peak,domestic dev
+1072,not Moscow,10 cpu,10 cores,10 nodes,9 memory,1 nets,10 linpack,10 peak,domestic dev
+1073,not Moscow,9 cpu,7 cores,9 nodes,8 memory,4 nets,10 linpack,9 peak,domestic dev
+1074,Moscow,6 cpu,8 cores,6 nodes,7 memory,4 nets,10 linpack,10 peak,foreign dev
+1075,not Moscow,8 cpu,8 cores,8 nodes,8 memory,8 nets,10 linpack,7 peak,joint dev
+1076,Moscow,2 cpu,1 cores,1 nodes,1 memory,4 nets,1 linpack,1 peak,domestic dev
+1077,Moscow,1 cpu,1 cores,2 nodes,1 memory,8 nets,1 linpack,1 peak,joint dev
+1078,Moscow,1 cpu,1 cores,1 nodes,1 memory,10 nets,1 linpack,1 peak,domestic dev
+1079,Moscow,2 cpu,2 cores,2 nodes,1 memory,7 nets,1 linpack,1 peak,joint dev
+1080,not Moscow,2 cpu,2 cores,2 nodes,2 memory,6 nets,2 linpack,2 peak,domestic dev
+1081,Moscow,4 cpu,2 cores,4 nodes,3 memory,5 nets,2 linpack,2 peak,domestic dev
+1082,not Moscow,4 cpu,1 cores,5 nodes,5 memory,9 nets,2 linpack,2 peak,domestic dev
+1083,not Moscow,3 cpu,2 cores,3 nodes,6 memory,9 nets,2 linpack,2 peak,domestic dev
+1084,not Moscow,3 cpu,3 cores,4 nodes,2 memory,1 nets,3 linpack,3 peak,joint dev
+1085,not Moscow,5 cpu,3 cores,3 nodes,9 memory,4 nets,3 linpack,3 peak,domestic dev
+1086,not Moscow,10 cpu,7 cores,10 nodes,8 memory,8 nets,3 linpack,3 peak,foreign dev
+1087,Moscow,5 cpu,4 cores,5 nodes,3 memory,3 nets,3 linpack,3 peak,domestic dev
+1088,not Moscow,6 cpu,6 cores,6 nodes,4 memory,5 nets,4 linpack,5 peak,foreign dev
+1089,Moscow,1 cpu,3 cores,1 nodes,4 memory,7 nets,4 linpack,4 peak,foreign dev
+1090,not Moscow,7 cpu,4 cores,8 nodes,7 memory,8 nets,4 linpack,4 peak,joint dev
+1091,not Moscow,8 cpu,10 cores,9 nodes,6 memory,3 nets,4 linpack,4 peak,domestic dev
+1092,Moscow,6 cpu,7 cores,6 nodes,4 memory,1 nets,5 linpack,7 peak,domestic dev
+1093,Moscow,3 cpu,4 cores,3 nodes,3 memory,6 nets,5 linpack,6 peak,domestic dev
+1094,not Moscow,8 cpu,9 cores,8 nodes,8 memory,5 nets,5 linpack,7 peak,domestic dev
+1095,Moscow,9 cpu,7 cores,9 nodes,10 memory,2 nets,5 linpack,5 peak,domestic dev
+1096,not Moscow,2 cpu,4 cores,2 nodes,3 memory,10 nets,6 linpack,7 peak,domestic dev
+1097,Moscow,7 cpu,7 cores,7 nodes,8 memory,4 nets,6 linpack,4 peak,foreign dev
+1098,not Moscow,7 cpu,8 cores,7 nodes,7 memory,7 nets,6 linpack,9 peak,joint dev
+1099,not Moscow,6 cpu,8 cores,7 nodes,7 memory,7 nets,6 linpack,9 peak,joint dev
+1100,Moscow,10 cpu,10 cores,10 nodes,10 memory,2 nets,7 linpack,6 peak,foreign dev
+1101,Moscow,10 cpu,10 cores,10 nodes,9 memory,1 nets,7 linpack,6 peak,foreign dev
+1102,not Moscow,5 cpu,5 cores,5 nodes,5 memory,9 nets,7 linpack,8 peak,domestic dev
+1103,Moscow,5 cpu,6 cores,5 nodes,2 memory,10 nets,7 linpack,5 peak,foreign dev
+1104,not Moscow,4 cpu,6 cores,4 nodes,4 memory,9 nets,8 linpack,9 peak,domestic dev
+1105,Moscow,6 cpu,5 cores,6 nodes,9 memory,10 nets,8 linpack,5 peak,foreign dev
+1106,Moscow,10 cpu,10 cores,10 nodes,9 memory,2 nets,8 linpack,7 peak,foreign dev
+1107,not Moscow,1 cpu,3 cores,1 nodes,10 memory,10 nets,8 linpack,6 peak,foreign dev
+1108,not Moscow,9 cpu,8 cores,8 nodes,7 memory,3 nets,9 linpack,8 peak,domestic dev
+1109,not Moscow,3 cpu,5 cores,3 nodes,6 memory,8 nets,9 linpack,10 peak,foreign dev
+1110,Moscow,10 cpu,10 cores,10 nodes,10 memory,1 nets,9 linpack,8 peak,foreign dev
+1111,not Moscow,7 cpu,8 cores,7 nodes,5 memory,5 nets,9 linpack,10 peak,foreign dev
+1112,Moscow,9 cpu,6 cores,6 nodes,10 memory,6 nets,10 linpack,9 peak,domestic dev
+1113,not Moscow,4 cpu,5 cores,4 nodes,2 memory,6 nets,10 linpack,8 peak,foreign dev
+1114,not Moscow,9 cpu,9 cores,9 nodes,8 memory,2 nets,10 linpack,10 peak,domestic dev
+1115,Moscow,8 cpu,9 cores,8 nodes,5 memory,4 nets,10 linpack,10 peak,domestic dev
+1116,not Moscow,8 cpu,9 cores,9 nodes,6 memory,3 nets,10 linpack,10 peak,domestic dev

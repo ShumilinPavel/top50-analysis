@@ -1,0 +1,249 @@
+,Affiliation,Year,Cpu,Cores,Nodes,Memory,Nets,Linpack,Peak,GRPperCapita,Num of Systems,Q1,Q2,Q3,Q4,Top10
+0,ВЦ РАН,2004,Cpu: 9,Cores: 9,Nodes: 9,Memory: 3,Nets: 8,Linpack: 6,Peak: 6,GRPperCapita: 4,Num of Systems: 10,Q1: 10,Q2: 8,Q3: 8,Q4: 8,Top10: 10
+1,ИБХ РАН,2004,Cpu: 1,Cores: 1,Nodes: 1,Memory: 4,Nets: 1,Linpack: 2,Peak: 2,GRPperCapita: 3,Num of Systems: 2,Q1: 2,Q2: 3,Q3: 3,Q4: 3,Top10: 1
+2,ИВМ РАН,2004,Cpu: 8,Cores: 8,Nodes: 8,Memory: 8,Nets: 7,Linpack: 4,Peak: 6,GRPperCapita: 3,Num of Systems: 10,Q1: 6,Q2: 6,Q3: 8,Q4: 6,Top10: 5
+3,ИВМиМГ СО РАН,2004,Cpu: 5,Cores: 5,Nodes: 6,Memory: 3,Nets: 6,Linpack: 9,Peak: 10,GRPperCapita: 9,Num of Systems: 9,Q1: 7,Q2: 10,Q3: 6,Q4: 5,Top10: 7
+4,ИММ УРО РАН,2004,Cpu: 4,Cores: 4,Nodes: 5,Memory: 2,Nets: 6,Linpack: 3,Peak: 3,GRPperCapita: 7,Num of Systems: 8,Q1: 6,Q2: 5,Q3: 7,Q4: 4,Top10: 8
+5,ИПС РАН,2004,Cpu: 3,Cores: 3,Nodes: 4,Memory: 7,Nets: 10,Linpack: 5,Peak: 5,GRPperCapita: 6,Num of Systems: 8,Q1: 9,Q2: 8,Q3: 10,Q4: 10,Top10: 9
+6,ИПХФ РАН,2004,Cpu: 10,Cores: 10,Nodes: 10,Memory: 8,Nets: 10,Linpack: 10,Peak: 8,GRPperCapita: 8,Num of Systems: 7,Q1: 3,Q2: 1,Q3: 2,Q4: 2,Top10: 3
+7,ИСП РАН,2004,Cpu: 8,Cores: 8,Nodes: 10,Memory: 10,Nets: 5,Linpack: 8,Peak: 9,GRPperCapita: 2,Num of Systems: 6,Q1: 10,Q2: 10,Q3: 9,Q4: 9,Top10: 10
+8,КГПУ,2004,Cpu: 10,Cores: 10,Nodes: 8,Memory: 10,Nets: 9,Linpack: 10,Peak: 10,GRPperCapita: 5,Num of Systems: 6,Q1: 8,Q2: 9,Q3: 10,Q4: 10,Top10: 6
+9,КГУ,2004,Cpu: 7,Cores: 7,Nodes: 7,Memory: 9,Nets: 4,Linpack: 8,Peak: 8,GRPperCapita: 10,Num of Systems: 5,Q1: 5,Q2: 4,Q3: 5,Q4: 6,Top10: 6
+10,МГУ,2004,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 1,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+11,НИИ БМХ РАМН,2004,Cpu: 3,Cores: 3,Nodes: 3,Memory: 6,Nets: 8,Linpack: 7,Peak: 3,GRPperCapita: 1,Num of Systems: 4,Q1: 4,Q2: 6,Q3: 4,Q4: 8,Top10: 4
+12,СПбГПУ,2004,Cpu: 6,Cores: 6,Nodes: 6,Memory: 6,Nets: 3,Linpack: 6,Peak: 7,GRPperCapita: 6,Num of Systems: 3,Q1: 1,Q2: 2,Q3: 1,Q4: 1,Top10: 2
+13,ЮУрГУ,2004,Cpu: 2,Cores: 2,Nodes: 3,Memory: 1,Nets: 2,Linpack: 1,Peak: 1,GRPperCapita: 8,Num of Systems: 3,Q1: 8,Q2: 7,Q3: 6,Q4: 7,Top10: 8
+14,ЮФУ,2004,Cpu: 6,Cores: 6,Nodes: 2,Memory: 5,Nets: 3,Linpack: 3,Peak: 4,GRPperCapita: 10,Num of Systems: 1,Q1: 3,Q2: 3,Q3: 3,Q4: 3,Top10: 3
+15,ВЦ РАН,2005,Cpu: 10,Cores: 10,Nodes: 10,Memory: 9,Nets: 8,Linpack: 10,Peak: 10,GRPperCapita: 5,Num of Systems: 10,Q1: 6,Q2: 6,Q3: 6,Q4: 5,Top10: 6
+16,ИБХ РАН,2005,Cpu: 4,Cores: 4,Nodes: 4,Memory: 2,Nets: 1,Linpack: 2,Peak: 2,GRPperCapita: 4,Num of Systems: 2,Q1: 2,Q2: 2,Q3: 4,Q4: 4,Top10: 2
+17,ИБХ РАН,2005,Cpu: 3,Cores: 3,Nodes: 3,Memory: 1,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 3,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 3,Q4: 3,Top10: 1
+18,ИВМ РАН,2005,Cpu: 8,Cores: 8,Nodes: 9,Memory: 7,Nets: 7,Linpack: 6,Peak: 6,GRPperCapita: 2,Num of Systems: 10,Q1: 7,Q2: 5,Q3: 10,Q4: 6,Top10: 8
+19,ИВМиМГ СО РАН,2005,Cpu: 2,Cores: 2,Nodes: 2,Memory: 4,Nets: 6,Linpack: 6,Peak: 6,GRPperCapita: 9,Num of Systems: 9,Q1: 5,Q2: 10,Q3: 6,Q4: 8,Top10: 5
+20,ИММ РАН,2005,Cpu: 5,Cores: 5,Nodes: 5,Memory: 5,Nets: 10,Linpack: 5,Peak: 3,GRPperCapita: 1,Num of Systems: 8,Q1: 6,Q2: 9,Q3: 8,Q4: 9,Top10: 6
+21,ИММ УРО РАН,2005,Cpu: 7,Cores: 7,Nodes: 8,Memory: 8,Nets: 6,Linpack: 8,Peak: 7,GRPperCapita: 6,Num of Systems: 7,Q1: 9,Q2: 8,Q3: 9,Q4: 6,Top10: 7
+22,ИПС РАН,2005,Cpu: 6,Cores: 6,Nodes: 7,Memory: 10,Nets: 10,Linpack: 10,Peak: 10,GRPperCapita: 7,Num of Systems: 6,Q1: 10,Q2: 10,Q3: 10,Q4: 10,Top10: 10
+23,КазНЦ РАН,2005,Cpu: 1,Cores: 1,Nodes: 1,Memory: 3,Nets: 5,Linpack: 4,Peak: 5,GRPperCapita: 6,Num of Systems: 6,Q1: 8,Q2: 6,Q3: 5,Q4: 10,Top10: 9
+24,МГУ,2005,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 2,Linpack: 1,Peak: 1,GRPperCapita: 1,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+25,ННГУ,2005,Cpu: 10,Cores: 10,Nodes: 10,Memory: 10,Nets: 9,Linpack: 9,Peak: 9,GRPperCapita: 10,Num of Systems: 5,Q1: 4,Q2: 3,Q3: 1,Q4: 1,Top10: 4
+26,ЮУрГУ,2005,Cpu: 6,Cores: 6,Nodes: 6,Memory: 6,Nets: 4,Linpack: 3,Peak: 4,GRPperCapita: 8,Num of Systems: 4,Q1: 10,Q2: 7,Q3: 7,Q4: 7,Top10: 10
+27,ЮФУ,2005,Cpu: 9,Cores: 9,Nodes: 6,Memory: 6,Nets: 3,Linpack: 7,Peak: 8,GRPperCapita: 10,Num of Systems: 3,Q1: 3,Q2: 4,Q3: 2,Q4: 2,Top10: 3
+28,ИБХ РАН,2006,Cpu: 6,Cores: 6,Nodes: 6,Memory: 5,Nets: 6,Linpack: 8,Peak: 9,GRPperCapita: 3,Num of Systems: 10,Q1: 3,Q2: 3,Q3: 5,Q4: 5,Top10: 3
+29,КРСУ,2006,Cpu: 2,Cores: 2,Nodes: 3,Memory: 8,Nets: 8,Linpack: 2,Peak: 2,GRPperCapita: 10,Num of Systems: 9,Q1: 8,Q2: 9,Q3: 9,Q4: 9,Top10: 9
+30,Курчатовский институт,2006,Cpu: 8,Cores: 8,Nodes: 8,Memory: 6,Nets: 5,Linpack: 10,Peak: 8,GRPperCapita: 2,Num of Systems: 8,Q1: 2,Q2: 2,Q3: 3,Q4: 3,Top10: 2
+31,МГУ,2006,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 1,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+32,СВФУ,2006,Cpu: 9,Cores: 9,Nodes: 9,Memory: 2,Nets: 3,Linpack: 3,Peak: 5,GRPperCapita: 5,Num of Systems: 6,Q1: 9,Q2: 6,Q3: 10,Q4: 10,Top10: 8
+33,СПбГПУ,2006,Cpu: 10,Cores: 10,Nodes: 10,Memory: 3,Nets: 10,Linpack: 9,Peak: 10,GRPperCapita: 6,Num of Systems: 5,Q1: 5,Q2: 5,Q3: 2,Q4: 2,Top10: 5
+34,ФГУП ЦНИИмаш,2006,Cpu: 5,Cores: 5,Nodes: 2,Memory: 10,Nets: 9,Linpack: 6,Peak: 6,GRPperCapita: 8,Num of Systems: 3,Q1: 6,Q2: 8,Q3: 8,Q4: 8,Top10: 6
+35,ЮУрГУ,2006,Cpu: 3,Cores: 3,Nodes: 5,Memory: 9,Nets: 2,Linpack: 5,Peak: 3,GRPperCapita: 9,Num of Systems: 2,Q1: 10,Q2: 10,Q3: 6,Q4: 6,Top10: 10
+36,ИГЭУ,2007,Cpu: 7,Cores: 6,Nodes: 7,Memory: 7,Nets: 10,Linpack: 10,Peak: 8,GRPperCapita: 10,Num of Systems: 10,Q1: 10,Q2: 8,Q3: 8,Q4: 8,Top10: 9
+37,ИСП РАН,2007,Cpu: 10,Cores: 8,Nodes: 10,Memory: 8,Nets: 8,Linpack: 6,Peak: 6,GRPperCapita: 3,Num of Systems: 10,Q1: 10,Q2: 10,Q3: 9,Q4: 9,Top10: 10
+38,КРСУ,2007,Cpu: 6,Cores: 9,Nodes: 6,Memory: 9,Nets: 7,Linpack: 8,Peak: 9,GRPperCapita: 10,Num of Systems: 9,Q1: 8,Q2: 10,Q3: 10,Q4: 10,Top10: 7
+39,ЛИТ ОИЯИ,2007,Cpu: 5,Cores: 5,Nodes: 5,Memory: 4,Nets: 10,Linpack: 4,Peak: 3,GRPperCapita: 7,Num of Systems: 8,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+40,МГУ,2007,Cpu: 1,Cores: 2,Nodes: 1,Memory: 1,Nets: 1,Linpack: 2,Peak: 4,GRPperCapita: 2,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+41,МФТИ,2007,Cpu: 2,Cores: 1,Nodes: 2,Memory: 2,Nets: 6,Linpack: 1,Peak: 1,GRPperCapita: 1,Num of Systems: 7,Q1: 3,Q2: 5,Q3: 4,Q4: 5,Top10: 3
+42,НИИ БМХ РАМН,2007,Cpu: 6,Cores: 6,Nodes: 6,Memory: 6,Nets: 6,Linpack: 7,Peak: 7,GRPperCapita: 1,Num of Systems: 6,Q1: 6,Q2: 6,Q3: 6,Q4: 7,Top10: 6
+43,ННГУ,2007,Cpu: 4,Cores: 4,Nodes: 4,Memory: 10,Nets: 9,Linpack: 3,Peak: 2,GRPperCapita: 9,Num of Systems: 6,Q1: 4,Q2: 3,Q3: 3,Q4: 3,Top10: 4
+44,СВФУ,2007,Cpu: 10,Cores: 10,Nodes: 10,Memory: 6,Nets: 5,Linpack: 9,Peak: 10,GRPperCapita: 4,Num of Systems: 5,Q1: 9,Q2: 9,Q3: 10,Q4: 10,Top10: 8
+45,СПбГПУ,2007,Cpu: 3,Cores: 3,Nodes: 3,Memory: 3,Nets: 4,Linpack: 5,Peak: 5,GRPperCapita: 5,Num of Systems: 4,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 2
+46,ТГУ,2007,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 2,Linpack: 1,Peak: 1,GRPperCapita: 6,Num of Systems: 3,Q1: 5,Q2: 4,Q3: 5,Q4: 4,Top10: 6
+47,ТПУ,2007,Cpu: 9,Cores: 7,Nodes: 9,Memory: 5,Nets: 1,Linpack: 6,Peak: 6,GRPperCapita: 6,Num of Systems: 2,Q1: 6,Q2: 6,Q3: 6,Q4: 6,Top10: 5
+48,ЮУрГУ,2007,Cpu: 8,Cores: 10,Nodes: 8,Memory: 10,Nets: 3,Linpack: 10,Peak: 10,GRPperCapita: 8,Num of Systems: 1,Q1: 7,Q2: 7,Q3: 7,Q4: 6,Top10: 10
+49,ВлГУ,2008,Cpu: 7,Cores: 5,Nodes: 7,Memory: 6,Nets: 1,Linpack: 4,Peak: 5,GRPperCapita: 10,Num of Systems: 10,Q1: 8,Q2: 10,Q3: 8,Q4: 7,Top10: 7
+50,ВятГУ,2008,Cpu: 4,Cores: 2,Nodes: 4,Memory: 4,Nets: 8,Linpack: 3,Peak: 3,GRPperCapita: 10,Num of Systems: 10,Q1: 10,Q2: 10,Q3: 9,Q4: 10,Top10: 10
+51,ИВМ РАН,2008,Cpu: 10,Cores: 10,Nodes: 10,Memory: 9,Nets: 8,Linpack: 8,Peak: 9,GRPperCapita: 3,Num of Systems: 10,Q1: 7,Q2: 9,Q3: 10,Q4: 8,Top10: 7
+52,ИВМиМГ СО РАН,2008,Cpu: 5,Cores: 9,Nodes: 5,Memory: 6,Nets: 7,Linpack: 10,Peak: 10,GRPperCapita: 9,Num of Systems: 9,Q1: 7,Q2: 7,Q3: 7,Q4: 8,Top10: 7
+53,ИДСТУ СО РАН,2008,Cpu: 9,Cores: 9,Nodes: 9,Memory: 9,Nets: 10,Linpack: 9,Peak: 8,GRPperCapita: 8,Num of Systems: 9,Q1: 9,Q2: 9,Q3: 10,Q4: 9,Top10: 9
+54,ИПРИМ РАН,2008,Cpu: 9,Cores: 8,Nodes: 9,Memory: 8,Nets: 7,Linpack: 7,Peak: 7,GRPperCapita: 2,Num of Systems: 9,Q1: 10,Q2: 10,Q3: 10,Q4: 10,Top10: 10
+55,ИПХФ РАН,2008,Cpu: 2,Cores: 5,Nodes: 2,Memory: 6,Nets: 9,Linpack: 6,Peak: 5,GRPperCapita: 6,Num of Systems: 8,Q1: 3,Q2: 2,Q3: 2,Q4: 2,Top10: 2
+56,ИТПМ СО РАН,2008,Cpu: 10,Cores: 9,Nodes: 10,Memory: 7,Nets: 7,Linpack: 9,Peak: 9,GRPperCapita: 9,Num of Systems: 8,Q1: 6,Q2: 6,Q3: 7,Q4: 6,Top10: 6
+57,КазНЦ РАН,2008,Cpu: 4,Cores: 7,Nodes: 4,Memory: 5,Nets: 9,Linpack: 6,Peak: 7,GRPperCapita: 5,Num of Systems: 7,Q1: 10,Q2: 8,Q3: 8,Q4: 10,Top10: 10
+58,Курчатовский институт,2008,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 2,Num of Systems: 7,Q1: 2,Q2: 2,Q3: 4,Q4: 2,Top10: 2
+59,ЛИТ ОИЯИ,2008,Cpu: 4,Cores: 4,Nodes: 4,Memory: 2,Nets: 10,Linpack: 5,Peak: 4,GRPperCapita: 6,Num of Systems: 7,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+60,МГУ,2008,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 2,Linpack: 1,Peak: 1,GRPperCapita: 2,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+61,МИЭТ,2008,Cpu: 8,Cores: 7,Nodes: 8,Memory: 9,Nets: 10,Linpack: 9,Peak: 8,GRPperCapita: 1,Num of Systems: 6,Q1: 8,Q2: 7,Q3: 7,Q4: 7,Top10: 9
+62,МФТИ,2008,Cpu: 3,Cores: 3,Nodes: 3,Memory: 4,Nets: 3,Linpack: 3,Peak: 3,GRPperCapita: 3,Num of Systems: 1,Q1: 4,Q2: 4,Q3: 4,Q4: 5,Top10: 4
+63,НГУ,2008,Cpu: 6,Cores: 4,Nodes: 6,Memory: 3,Nets: 1,Linpack: 4,Peak: 4,GRPperCapita: 9,Num of Systems: 6,Q1: 2,Q2: 2,Q3: 2,Q4: 4,Top10: 2
+64,НИЦЭМ им. Н.Ф. Гамалеи,2008,Cpu: 10,Cores: 10,Nodes: 10,Memory: 10,Nets: 6,Linpack: 10,Peak: 10,GRPperCapita: 1,Num of Systems: 6,Q1: 7,Q2: 7,Q3: 9,Q4: 9,Top10: 8
+65,ННГУ,2008,Cpu: 6,Cores: 7,Nodes: 6,Memory: 10,Nets: 9,Linpack: 7,Peak: 6,GRPperCapita: 8,Num of Systems: 5,Q1: 3,Q2: 3,Q3: 2,Q4: 2,Top10: 3
+66,ОИВТ РАН,2008,Cpu: 9,Cores: 8,Nodes: 9,Memory: 8,Nets: 6,Linpack: 7,Peak: 7,GRPperCapita: 1,Num of Systems: 5,Q1: 4,Q2: 4,Q3: 4,Q4: 4,Top10: 4
+67,ПНИПУ,2008,Cpu: 6,Cores: 4,Nodes: 6,Memory: 5,Nets: 6,Linpack: 5,Peak: 6,GRPperCapita: 7,Num of Systems: 4,Q1: 9,Q2: 9,Q3: 9,Q4: 9,Top10: 9
+68,СПбГПУ,2008,Cpu: 5,Cores: 6,Nodes: 5,Memory: 4,Nets: 5,Linpack: 8,Peak: 9,GRPperCapita: 4,Num of Systems: 4,Q1: 2,Q2: 3,Q3: 3,Q4: 3,Top10: 3
+69,СПбГУ,2008,Cpu: 7,Cores: 6,Nodes: 7,Memory: 7,Nets: 5,Linpack: 6,Peak: 6,GRPperCapita: 4,Num of Systems: 4,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+70,СФУ,2008,Cpu: 2,Cores: 2,Nodes: 2,Memory: 10,Nets: 4,Linpack: 2,Peak: 2,GRPperCapita: 4,Num of Systems: 3,Q1: 5,Q2: 6,Q3: 6,Q4: 6,Top10: 5
+71,ТГУ,2008,Cpu: 1,Cores: 3,Nodes: 1,Memory: 2,Nets: 2,Linpack: 2,Peak: 2,GRPperCapita: 6,Num of Systems: 3,Q1: 5,Q2: 5,Q3: 5,Q4: 4,Top10: 5
+72,ТПУ,2008,Cpu: 8,Cores: 10,Nodes: 8,Memory: 7,Nets: 2,Linpack: 10,Peak: 10,GRPperCapita: 5,Num of Systems: 2,Q1: 6,Q2: 5,Q3: 5,Q4: 5,Top10: 6
+73,УГАТУ,2008,Cpu: 2,Cores: 1,Nodes: 2,Memory: 1,Nets: 4,Linpack: 1,Peak: 1,GRPperCapita: 7,Num of Systems: 2,Q1: 6,Q2: 6,Q3: 6,Q4: 6,Top10: 6
+74,ЮУрГУ,2008,Cpu: 3,Cores: 2,Nodes: 3,Memory: 2,Nets: 4,Linpack: 2,Peak: 2,GRPperCapita: 7,Num of Systems: 2,Q1: 9,Q2: 8,Q3: 6,Q4: 7,Top10: 8
+75,ЮФУ,2008,Cpu: 7,Cores: 6,Nodes: 7,Memory: 3,Nets: 3,Linpack: 4,Peak: 4,GRPperCapita: 10,Num of Systems: 1,Q1: 4,Q2: 4,Q3: 3,Q4: 3,Top10: 4
+76,БФУ имени И. Канта,2009,Cpu: 6,Cores: 5,Nodes: 6,Memory: 5,Nets: 9,Linpack: 5,Peak: 5,GRPperCapita: 7,Num of Systems: 10,Q1: 10,Q2: 9,Q3: 10,Q4: 10,Top10: 10
+77,ВлГУ,2009,Cpu: 5,Cores: 3,Nodes: 5,Memory: 5,Nets: 4,Linpack: 5,Peak: 5,GRPperCapita: 10,Num of Systems: 10,Q1: 9,Q2: 10,Q3: 8,Q4: 9,Top10: 9
+78,ВятГУ,2009,Cpu: 3,Cores: 2,Nodes: 2,Memory: 4,Nets: 4,Linpack: 2,Peak: 2,GRPperCapita: 10,Num of Systems: 10,Q1: 10,Q2: 10,Q3: 9,Q4: 10,Top10: 10
+79,ИВМ РАН,2009,Cpu: 10,Cores: 10,Nodes: 10,Memory: 8,Nets: 3,Linpack: 8,Peak: 9,GRPperCapita: 3,Num of Systems: 9,Q1: 6,Q2: 8,Q3: 9,Q4: 8,Top10: 6
+80,ИВМиМГ СО РАН,2009,Cpu: 8,Cores: 7,Nodes: 8,Memory: 4,Nets: 3,Linpack: 5,Peak: 5,GRPperCapita: 8,Num of Systems: 9,Q1: 6,Q2: 6,Q3: 6,Q4: 6,Top10: 6
+81,ИММ УРО РАН,2009,Cpu: 9,Cores: 8,Nodes: 9,Memory: 7,Nets: 3,Linpack: 7,Peak: 8,GRPperCapita: 7,Num of Systems: 9,Q1: 6,Q2: 8,Q3: 9,Q4: 6,Top10: 6
+82,ИПРИМ РАН,2009,Cpu: 10,Cores: 9,Nodes: 10,Memory: 9,Nets: 8,Linpack: 10,Peak: 10,GRPperCapita: 3,Num of Systems: 8,Q1: 9,Q2: 10,Q3: 10,Q4: 10,Top10: 9
+83,ИПХФ РАН,2009,Cpu: 2,Cores: 6,Nodes: 2,Memory: 7,Nets: 10,Linpack: 6,Peak: 6,GRPperCapita: 6,Num of Systems: 8,Q1: 3,Q2: 2,Q3: 2,Q4: 3,Top10: 3
+84,КБГУ,2009,Cpu: 10,Cores: 10,Nodes: 10,Memory: 9,Nets: 2,Linpack: 9,Peak: 9,GRPperCapita: 10,Num of Systems: 8,Q1: 10,Q2: 9,Q3: 8,Q4: 8,Top10: 10
+85,КазНЦ РАН,2009,Cpu: 4,Cores: 9,Nodes: 4,Memory: 6,Nets: 9,Linpack: 8,Peak: 8,GRPperCapita: 5,Num of Systems: 7,Q1: 8,Q2: 8,Q3: 8,Q4: 8,Top10: 8
+86,Курчатовский институт,2009,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 2,Linpack: 1,Peak: 1,GRPperCapita: 3,Num of Systems: 7,Q1: 2,Q2: 2,Q3: 3,Q4: 2,Top10: 2
+87,ЛИТ ОИЯИ,2009,Cpu: 5,Cores: 4,Nodes: 5,Memory: 3,Nets: 10,Linpack: 6,Peak: 4,GRPperCapita: 6,Num of Systems: 6,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+88,МГТУ им. Н. Э.Баумана,2009,Cpu: 5,Cores: 6,Nodes: 5,Memory: 8,Nets: 8,Linpack: 8,Peak: 7,GRPperCapita: 2,Num of Systems: 6,Q1: 7,Q2: 5,Q3: 5,Q4: 5,Top10: 7
+89,МГУ,2009,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 5,Linpack: 1,Peak: 1,GRPperCapita: 2,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+90,МГУПС,2009,Cpu: 8,Cores: 6,Nodes: 8,Memory: 3,Nets: 2,Linpack: 4,Peak: 6,GRPperCapita: 2,Num of Systems: 6,Q1: 9,Q2: 9,Q3: 10,Q4: 9,Top10: 9
+91,МФТИ,2009,Cpu: 4,Cores: 4,Nodes: 4,Memory: 5,Nets: 9,Linpack: 3,Peak: 3,GRPperCapita: 1,Num of Systems: 5,Q1: 2,Q2: 3,Q3: 4,Q4: 4,Top10: 3
+92,НГУ,2009,Cpu: 7,Cores: 5,Nodes: 7,Memory: 3,Nets: 1,Linpack: 4,Peak: 4,GRPperCapita: 8,Num of Systems: 5,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 2
+93,ННГУ,2009,Cpu: 7,Cores: 8,Nodes: 7,Memory: 10,Nets: 10,Linpack: 9,Peak: 8,GRPperCapita: 8,Num of Systems: 5,Q1: 4,Q2: 4,Q3: 3,Q4: 3,Top10: 4
+94,ОИВТ РАН,2009,Cpu: 9,Cores: 9,Nodes: 9,Memory: 9,Nets: 8,Linpack: 9,Peak: 9,GRPperCapita: 1,Num of Systems: 4,Q1: 3,Q2: 3,Q3: 5,Q4: 5,Top10: 2
+95,ПНИПУ,2009,Cpu: 6,Cores: 5,Nodes: 6,Memory: 6,Nets: 7,Linpack: 6,Peak: 6,GRPperCapita: 6,Num of Systems: 4,Q1: 8,Q2: 7,Q3: 7,Q4: 9,Top10: 8
+96,РГУ им. Губкина,2009,Cpu: 9,Cores: 10,Nodes: 9,Memory: 10,Nets: 1,Linpack: 10,Peak: 10,GRPperCapita: 1,Num of Systems: 3,Q1: 8,Q2: 6,Q3: 6,Q4: 6,Top10: 7
+97,СПбГПУ,2009,Cpu: 6,Cores: 8,Nodes: 6,Memory: 6,Nets: 7,Linpack: 10,Peak: 10,GRPperCapita: 4,Num of Systems: 3,Q1: 3,Q2: 4,Q3: 3,Q4: 3,Top10: 3
+98,СПбГУ,2009,Cpu: 8,Cores: 7,Nodes: 8,Memory: 8,Nets: 6,Linpack: 7,Peak: 7,GRPperCapita: 4,Num of Systems: 3,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+99,СФУ,2009,Cpu: 3,Cores: 2,Nodes: 3,Memory: 10,Nets: 6,Linpack: 2,Peak: 2,GRPperCapita: 5,Num of Systems: 2,Q1: 5,Q2: 5,Q3: 5,Q4: 5,Top10: 5
+100,ТГУ,2009,Cpu: 2,Cores: 3,Nodes: 1,Memory: 2,Nets: 5,Linpack: 3,Peak: 3,GRPperCapita: 5,Num of Systems: 2,Q1: 5,Q2: 5,Q3: 4,Q4: 4,Top10: 5
+101,УГАТУ,2009,Cpu: 2,Cores: 2,Nodes: 2,Memory: 2,Nets: 6,Linpack: 2,Peak: 2,GRPperCapita: 9,Num of Systems: 2,Q1: 5,Q2: 6,Q3: 6,Q4: 7,Top10: 5
+102,ЮУрГУ,2009,Cpu: 3,Cores: 3,Nodes: 3,Memory: 2,Nets: 5,Linpack: 3,Peak: 3,GRPperCapita: 9,Num of Systems: 1,Q1: 7,Q2: 7,Q3: 7,Q4: 7,Top10: 8
+103,ЮФУ,2009,Cpu: 1,Cores: 1,Nodes: 3,Memory: 1,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 9,Num of Systems: 1,Q1: 4,Q2: 3,Q3: 2,Q4: 2,Top10: 4
+104,БФУ имени И. Канта,2010,Cpu: 8,Cores: 7,Nodes: 8,Memory: 9,Nets: 9,Linpack: 8,Peak: 7,GRPperCapita: 7,Num of Systems: 10,Q1: 10,Q2: 10,Q3: 9,Q4: 10,Top10: 10
+105,ВлГУ,2010,Cpu: 7,Cores: 6,Nodes: 7,Memory: 8,Nets: 5,Linpack: 7,Peak: 8,GRPperCapita: 10,Num of Systems: 10,Q1: 9,Q2: 10,Q3: 7,Q4: 8,Top10: 10
+106,ВятГУ,2010,Cpu: 4,Cores: 3,Nodes: 3,Memory: 7,Nets: 5,Linpack: 3,Peak: 3,GRPperCapita: 10,Num of Systems: 10,Q1: 10,Q2: 9,Q3: 10,Q4: 9,Top10: 10
+107,ИВМиМГ СО РАН,2010,Cpu: 10,Cores: 9,Nodes: 10,Memory: 7,Nets: 4,Linpack: 6,Peak: 6,GRPperCapita: 9,Num of Systems: 9,Q1: 6,Q2: 6,Q3: 7,Q4: 7,Top10: 6
+108,ИММ УРО РАН,2010,Cpu: 5,Cores: 4,Nodes: 4,Memory: 2,Nets: 4,Linpack: 3,Peak: 3,GRPperCapita: 6,Num of Systems: 9,Q1: 7,Q2: 7,Q3: 9,Q4: 4,Top10: 8
+109,ИПХФ РАН,2010,Cpu: 4,Cores: 10,Nodes: 3,Memory: 10,Nets: 10,Linpack: 10,Peak: 9,GRPperCapita: 6,Num of Systems: 8,Q1: 3,Q2: 3,Q3: 2,Q4: 3,Top10: 3
+110,КазНЦ РАН,2010,Cpu: 7,Cores: 5,Nodes: 7,Memory: 8,Nets: 4,Linpack: 5,Peak: 5,GRPperCapita: 5,Num of Systems: 8,Q1: 8,Q2: 8,Q3: 7,Q4: 8,Top10: 9
+111,Курчатовский институт,2010,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 3,Num of Systems: 2,Q1: 2,Q2: 2,Q3: 3,Q4: 2,Top10: 2
+112,ЛИТ ОИЯИ,2010,Cpu: 7,Cores: 7,Nodes: 7,Memory: 5,Nets: 10,Linpack: 10,Peak: 7,GRPperCapita: 5,Num of Systems: 7,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+113,МАИ,2010,Cpu: 10,Cores: 10,Nodes: 10,Memory: 7,Nets: 3,Linpack: 9,Peak: 10,GRPperCapita: 2,Num of Systems: 7,Q1: 8,Q2: 5,Q3: 5,Q4: 6,Top10: 8
+114,МГУ,2010,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 2,Linpack: 1,Peak: 1,GRPperCapita: 3,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+115,МГУПС,2010,Cpu: 9,Cores: 9,Nodes: 9,Memory: 6,Nets: 3,Linpack: 7,Peak: 8,GRPperCapita: 2,Num of Systems: 7,Q1: 9,Q2: 8,Q3: 10,Q4: 10,Top10: 7
+116,МФТИ,2010,Cpu: 6,Cores: 7,Nodes: 5,Memory: 9,Nets: 10,Linpack: 6,Peak: 6,GRPperCapita: 1,Num of Systems: 6,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 2
+117,НГУ,2010,Cpu: 9,Cores: 8,Nodes: 9,Memory: 6,Nets: 2,Linpack: 7,Peak: 7,GRPperCapita: 9,Num of Systems: 6,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+118,ПНИПУ,2010,Cpu: 8,Cores: 8,Nodes: 8,Memory: 10,Nets: 9,Linpack: 9,Peak: 10,GRPperCapita: 7,Num of Systems: 5,Q1: 7,Q2: 7,Q3: 8,Q4: 7,Top10: 7
+119,СГАУ,2010,Cpu: 6,Cores: 5,Nodes: 6,Memory: 4,Nets: 7,Linpack: 5,Peak: 5,GRPperCapita: 7,Num of Systems: 5,Q1: 5,Q2: 6,Q3: 5,Q4: 5,Top10: 5
+120,СФУ,2010,Cpu: 4,Cores: 3,Nodes: 4,Memory: 10,Nets: 8,Linpack: 4,Peak: 4,GRPperCapita: 4,Num of Systems: 4,Q1: 4,Q2: 4,Q3: 4,Q4: 5,Top10: 4
+121,ТГУ,2010,Cpu: 3,Cores: 4,Nodes: 2,Memory: 5,Nets: 6,Linpack: 4,Peak: 4,GRPperCapita: 4,Num of Systems: 4,Q1: 4,Q2: 4,Q3: 4,Q4: 4,Top10: 4
+122,ТГУ,2010,Cpu: 2,Cores: 4,Nodes: 1,Memory: 4,Nets: 6,Linpack: 4,Peak: 4,GRPperCapita: 4,Num of Systems: 4,Q1: 4,Q2: 4,Q3: 4,Q4: 4,Top10: 5
+123,УГАТУ,2010,Cpu: 3,Cores: 2,Nodes: 2,Memory: 2,Nets: 8,Linpack: 2,Peak: 2,GRPperCapita: 8,Num of Systems: 3,Q1: 5,Q2: 5,Q3: 6,Q4: 7,Top10: 4
+124,ФГУП НИИР,2010,Cpu: 5,Cores: 6,Nodes: 6,Memory: 3,Nets: 7,Linpack: 10,Peak: 10,GRPperCapita: 1,Num of Systems: 3,Q1: 10,Q2: 10,Q3: 10,Q4: 10,Top10: 9
+125,ЦИАМ им. П.И. Баранова,2010,Cpu: 10,Cores: 10,Nodes: 10,Memory: 4,Nets: 7,Linpack: 8,Peak: 9,GRPperCapita: 1,Num of Systems: 2,Q1: 6,Q2: 7,Q3: 8,Q4: 9,Top10: 7
+126,ЮУрГУ,2010,Cpu: 1,Cores: 1,Nodes: 5,Memory: 3,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 8,Num of Systems: 1,Q1: 7,Q2: 9,Q3: 6,Q4: 6,Top10: 6
+127,ЮФУ,2010,Cpu: 2,Cores: 2,Nodes: 4,Memory: 1,Nets: 1,Linpack: 2,Peak: 2,GRPperCapita: 10,Num of Systems: 1,Q1: 3,Q2: 3,Q3: 3,Q4: 3,Top10: 3
+128,ВятГУ,2011,Cpu: 5,Cores: 7,Nodes: 4,Memory: 9,Nets: 6,Linpack: 8,Peak: 8,GRPperCapita: 10,Num of Systems: 10,Q1: 10,Q2: 10,Q3: 10,Q4: 9,Top10: 10
+129,ИММ УРО РАН,2011,Cpu: 7,Cores: 9,Nodes: 5,Memory: 6,Nets: 5,Linpack: 7,Peak: 7,GRPperCapita: 6,Num of Systems: 10,Q1: 10,Q2: 9,Q3: 9,Q4: 6,Top10: 10
+130,ИПМ им. М.В.Келдыша РАН,2011,Cpu: 10,Cores: 3,Nodes: 10,Memory: 4,Nets: 3,Linpack: 3,Peak: 3,GRPperCapita: 3,Num of Systems: 9,Q1: 6,Q2: 7,Q3: 7,Q4: 9,Top10: 7
+131,Курчатовский институт,2011,Cpu: 1,Cores: 1,Nodes: 2,Memory: 5,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 2,Num of Systems: 3,Q1: 3,Q2: 3,Q3: 3,Q4: 3,Top10: 3
+132,МГУ,2011,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 2,Linpack: 1,Peak: 1,GRPperCapita: 1,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+133,НГУ,2011,Cpu: 4,Cores: 4,Nodes: 3,Memory: 3,Nets: 10,Linpack: 5,Peak: 5,GRPperCapita: 9,Num of Systems: 9,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 2
+134,ННГУ,2011,Cpu: 10,Cores: 10,Nodes: 10,Memory: 10,Nets: 9,Linpack: 9,Peak: 9,GRPperCapita: 7,Num of Systems: 8,Q1: 4,Q2: 4,Q3: 5,Q4: 4,Top10: 4
+135,СВФУ,2011,Cpu: 7,Cores: 5,Nodes: 6,Memory: 2,Nets: 5,Linpack: 4,Peak: 5,GRPperCapita: 3,Num of Systems: 3,Q1: 9,Q2: 8,Q3: 9,Q4: 10,Top10: 8
+136,СГАУ,2011,Cpu: 8,Cores: 10,Nodes: 8,Memory: 9,Nets: 8,Linpack: 10,Peak: 10,GRPperCapita: 7,Num of Systems: 7,Q1: 7,Q2: 6,Q3: 7,Q4: 7,Top10: 7
+137,СПбГУ,2011,Cpu: 9,Cores: 5,Nodes: 9,Memory: 3,Nets: 4,Linpack: 5,Peak: 4,GRPperCapita: 4,Num of Systems: 2,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+138,СФУ,2011,Cpu: 6,Cores: 8,Nodes: 5,Memory: 10,Nets: 10,Linpack: 9,Peak: 9,GRPperCapita: 5,Num of Systems: 7,Q1: 5,Q2: 5,Q3: 4,Q4: 5,Top10: 5
+139,ТГУ,2011,Cpu: 3,Cores: 3,Nodes: 1,Memory: 1,Nets: 7,Linpack: 3,Peak: 3,GRPperCapita: 5,Num of Systems: 6,Q1: 5,Q2: 5,Q3: 5,Q4: 3,Top10: 3
+140,ТюмГУ,2011,Cpu: 9,Cores: 9,Nodes: 9,Memory: 7,Nets: 7,Linpack: 10,Peak: 10,GRPperCapita: 1,Num of Systems: 5,Q1: 9,Q2: 10,Q3: 10,Q4: 10,Top10: 9
+141,УГАТУ,2011,Cpu: 3,Cores: 6,Nodes: 3,Memory: 7,Nets: 9,Linpack: 6,Peak: 6,GRPperCapita: 8,Num of Systems: 5,Q1: 7,Q2: 7,Q3: 6,Q4: 8,Top10: 6
+142,ЮУрГУ,2011,Cpu: 2,Cores: 2,Nodes: 7,Memory: 8,Nets: 1,Linpack: 2,Peak: 2,GRPperCapita: 9,Num of Systems: 1,Q1: 8,Q2: 9,Q3: 8,Q4: 7,Top10: 9
+143,ЮФУ,2011,Cpu: 5,Cores: 7,Nodes: 7,Memory: 5,Nets: 3,Linpack: 7,Peak: 7,GRPperCapita: 10,Num of Systems: 4,Q1: 3,Q2: 3,Q3: 3,Q4: 5,Top10: 5
+144,ВятГУ,2012,Cpu: 6,Cores: 9,Nodes: 5,Memory: 10,Nets: 6,Linpack: 10,Peak: 10,GRPperCapita: 10,Num of Systems: 10,Q1: 10,Q2: 10,Q3: 10,Q4: 9,Top10: 10
+145,ИВМиМГ СО РАН,2012,Cpu: 3,Cores: 3,Nodes: 3,Memory: 2,Nets: 5,Linpack: 3,Peak: 3,GRPperCapita: 8,Num of Systems: 4,Q1: 9,Q2: 10,Q3: 9,Q4: 9,Top10: 9
+146,ИДСТУ СО РАН,2012,Cpu: 9,Cores: 4,Nodes: 9,Memory: 5,Nets: 9,Linpack: 7,Peak: 8,GRPperCapita: 6,Num of Systems: 10,Q1: 8,Q2: 9,Q3: 10,Q4: 10,Top10: 8
+147,ИПМ им. М.В.Келдыша РАН,2012,Cpu: 9,Cores: 5,Nodes: 9,Memory: 6,Nets: 3,Linpack: 5,Peak: 3,GRPperCapita: 2,Num of Systems: 9,Q1: 7,Q2: 8,Q3: 7,Q4: 8,Top10: 7
+148,Курчатовский институт,2012,Cpu: 1,Cores: 1,Nodes: 2,Memory: 5,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 1,Num of Systems: 1,Q1: 3,Q2: 3,Q3: 3,Q4: 5,Top10: 3
+149,МГУ,2012,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 2,Linpack: 1,Peak: 1,GRPperCapita: 1,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+150,МФТИ,2012,Cpu: 8,Cores: 10,Nodes: 8,Memory: 4,Nets: 9,Linpack: 5,Peak: 7,GRPperCapita: 5,Num of Systems: 9,Q1: 3,Q2: 3,Q3: 3,Q4: 4,Top10: 3
+151,НГУ,2012,Cpu: 4,Cores: 5,Nodes: 3,Memory: 3,Nets: 5,Linpack: 7,Peak: 5,GRPperCapita: 7,Num of Systems: 3,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 1
+152,ННГУ,2012,Cpu: 10,Cores: 6,Nodes: 10,Memory: 7,Nets: 8,Linpack: 3,Peak: 4,GRPperCapita: 9,Num of Systems: 8,Q1: 5,Q2: 4,Q3: 4,Q4: 3,Top10: 5
+153,СВФУ,2012,Cpu: 7,Cores: 7,Nodes: 6,Memory: 3,Nets: 4,Linpack: 6,Peak: 6,GRPperCapita: 3,Num of Systems: 3,Q1: 10,Q2: 9,Q3: 9,Q4: 10,Top10: 9
+154,СПбГУ,2012,Cpu: 10,Cores: 10,Nodes: 10,Memory: 8,Nets: 7,Linpack: 8,Peak: 7,GRPperCapita: 3,Num of Systems: 7,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 2
+155,СФУ,2012,Cpu: 7,Cores: 9,Nodes: 5,Memory: 10,Nets: 10,Linpack: 10,Peak: 10,GRPperCapita: 4,Num of Systems: 7,Q1: 6,Q2: 6,Q3: 5,Q4: 6,Top10: 6
+156,ТГУ,2012,Cpu: 3,Cores: 3,Nodes: 1,Memory: 1,Nets: 7,Linpack: 4,Peak: 5,GRPperCapita: 5,Num of Systems: 6,Q1: 4,Q2: 5,Q3: 6,Q4: 5,Top10: 4
+157,УГАТУ,2012,Cpu: 5,Cores: 7,Nodes: 4,Memory: 9,Nets: 10,Linpack: 9,Peak: 9,GRPperCapita: 7,Num of Systems: 5,Q1: 7,Q2: 7,Q3: 7,Q4: 7,Top10: 7
+158,ЮУрГУ,2012,Cpu: 2,Cores: 2,Nodes: 7,Memory: 9,Nets: 1,Linpack: 2,Peak: 2,GRPperCapita: 9,Num of Systems: 2,Q1: 9,Q2: 7,Q3: 8,Q4: 7,Top10: 10
+159,ЮФУ,2012,Cpu: 5,Cores: 8,Nodes: 7,Memory: 7,Nets: 3,Linpack: 9,Peak: 9,GRPperCapita: 10,Num of Systems: 5,Q1: 5,Q2: 5,Q3: 5,Q4: 3,Top10: 5
+160,ВятГУ,2013,Cpu: 6,Cores: 9,Nodes: 4,Memory: 10,Nets: 6,Linpack: 10,Peak: 10,GRPperCapita: 10,Num of Systems: 10,Q1: 10,Q2: 10,Q3: 10,Q4: 10,Top10: 10
+161,ИВМиМГ СО РАН,2013,Cpu: 3,Cores: 4,Nodes: 2,Memory: 2,Nets: 5,Linpack: 4,Peak: 3,GRPperCapita: 7,Num of Systems: 2,Q1: 9,Q2: 10,Q3: 9,Q4: 9,Top10: 8
+162,ИДСТУ СО РАН,2013,Cpu: 7,Cores: 5,Nodes: 7,Memory: 4,Nets: 10,Linpack: 6,Peak: 7,GRPperCapita: 6,Num of Systems: 10,Q1: 10,Q2: 9,Q3: 10,Q4: 10,Top10: 9
+163,ИММ УРО РАН,2013,Cpu: 9,Cores: 2,Nodes: 9,Memory: 7,Nets: 4,Linpack: 2,Peak: 2,GRPperCapita: 4,Num of Systems: 9,Q1: 9,Q2: 8,Q3: 6,Q4: 8,Top10: 10
+164,ИПМ им. М.В.Келдыша РАН,2013,Cpu: 8,Cores: 6,Nodes: 8,Memory: 6,Nets: 2,Linpack: 6,Peak: 4,GRPperCapita: 2,Num of Systems: 9,Q1: 7,Q2: 6,Q3: 6,Q4: 7,Top10: 7
+165,Курчатовский институт,2013,Cpu: 1,Cores: 2,Nodes: 2,Memory: 5,Nets: 2,Linpack: 2,Peak: 2,GRPperCapita: 1,Num of Systems: 1,Q1: 3,Q2: 3,Q3: 4,Q4: 4,Top10: 3
+166,МГУ,2013,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 3,Linpack: 1,Peak: 1,GRPperCapita: 1,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+167,МФТИ,2013,Cpu: 6,Cores: 4,Nodes: 5,Memory: 1,Nets: 9,Linpack: 3,Peak: 5,GRPperCapita: 5,Num of Systems: 8,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 2
+168,НГУ,2013,Cpu: 4,Cores: 7,Nodes: 4,Memory: 4,Nets: 9,Linpack: 8,Peak: 7,GRPperCapita: 7,Num of Systems: 7,Q1: 2,Q2: 2,Q3: 2,Q4: 2,Top10: 1
+169,ННГУ,2013,Cpu: 9,Cores: 6,Nodes: 9,Memory: 9,Nets: 8,Linpack: 4,Peak: 4,GRPperCapita: 9,Num of Systems: 7,Q1: 4,Q2: 4,Q3: 4,Q4: 3,Top10: 4
+170,ПГНИУ,2013,Cpu: 10,Cores: 10,Nodes: 10,Memory: 10,Nets: 1,Linpack: 10,Peak: 9,GRPperCapita: 6,Num of Systems: 6,Q1: 6,Q2: 6,Q3: 7,Q4: 6,Top10: 6
+171,СВФУ,2013,Cpu: 7,Cores: 9,Nodes: 6,Memory: 3,Nets: 7,Linpack: 7,Peak: 9,GRPperCapita: 2,Num of Systems: 6,Q1: 8,Q2: 7,Q3: 9,Q4: 9,Top10: 7
+172,СПбГУ,2013,Cpu: 10,Cores: 10,Nodes: 10,Memory: 9,Nets: 7,Linpack: 7,Peak: 6,GRPperCapita: 3,Num of Systems: 5,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 2
+173,ТГУ,2013,Cpu: 2,Cores: 3,Nodes: 1,Memory: 2,Nets: 6,Linpack: 5,Peak: 6,GRPperCapita: 4,Num of Systems: 4,Q1: 4,Q2: 5,Q3: 3,Q4: 5,Top10: 4
+174,УГАТУ,2013,Cpu: 4,Cores: 7,Nodes: 3,Memory: 8,Nets: 10,Linpack: 9,Peak: 8,GRPperCapita: 8,Num of Systems: 4,Q1: 6,Q2: 9,Q3: 7,Q4: 7,Top10: 6
+175,ЮУрГУ,2013,Cpu: 2,Cores: 1,Nodes: 6,Memory: 6,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 9,Num of Systems: 2,Q1: 7,Q2: 7,Q3: 8,Q4: 6,Top10: 9
+176,ЮФУ,2013,Cpu: 5,Cores: 8,Nodes: 7,Memory: 7,Nets: 4,Linpack: 9,Peak: 10,GRPperCapita: 10,Num of Systems: 3,Q1: 5,Q2: 4,Q3: 5,Q4: 4,Top10: 5
+177,ИВМиМГ СО РАН,2014,Cpu: 3,Cores: 5,Nodes: 3,Memory: 4,Nets: 6,Linpack: 6,Peak: 4,GRPperCapita: 9,Num of Systems: 3,Q1: 8,Q2: 9,Q3: 8,Q4: 8,Top10: 8
+178,ИДСТУ СО РАН,2014,Cpu: 7,Cores: 7,Nodes: 7,Memory: 6,Nets: 10,Linpack: 8,Peak: 9,GRPperCapita: 8,Num of Systems: 10,Q1: 10,Q2: 8,Q3: 9,Q4: 10,Top10: 10
+179,ИММ УРО РАН,2014,Cpu: 9,Cores: 3,Nodes: 9,Memory: 8,Nets: 6,Linpack: 3,Peak: 3,GRPperCapita: 7,Num of Systems: 10,Q1: 8,Q2: 8,Q3: 7,Q4: 7,Top10: 8
+180,ИПА РАН,2014,Cpu: 10,Cores: 9,Nodes: 10,Memory: 10,Nets: 3,Linpack: 5,Peak: 6,GRPperCapita: 6,Num of Systems: 9,Q1: 10,Q2: 10,Q3: 10,Q4: 10,Top10: 10
+181,ИПМ им. М.В.Келдыша РАН,2014,Cpu: 8,Cores: 8,Nodes: 8,Memory: 8,Nets: 5,Linpack: 7,Peak: 5,GRPperCapita: 3,Num of Systems: 8,Q1: 7,Q2: 6,Q3: 8,Q4: 6,Top10: 9
+182,Курчатовский институт,2014,Cpu: 1,Cores: 3,Nodes: 2,Memory: 7,Nets: 4,Linpack: 3,Peak: 3,GRPperCapita: 2,Num of Systems: 1,Q1: 4,Q2: 4,Q3: 4,Q4: 5,Top10: 4
+183,МГУ,2014,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 1,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+184,МИСиС,2014,Cpu: 8,Cores: 10,Nodes: 8,Memory: 9,Nets: 3,Linpack: 10,Peak: 10,GRPperCapita: 1,Num of Systems: 8,Q1: 3,Q2: 5,Q3: 5,Q4: 3,Top10: 3
+185,МФТИ,2014,Cpu: 4,Cores: 6,Nodes: 4,Memory: 1,Nets: 10,Linpack: 4,Peak: 6,GRPperCapita: 8,Num of Systems: 7,Q1: 2,Q2: 2,Q3: 3,Q4: 3,Top10: 1
+186,ННГУ,2014,Cpu: 5,Cores: 2,Nodes: 5,Memory: 2,Nets: 2,Linpack: 2,Peak: 2,GRPperCapita: 10,Num of Systems: 3,Q1: 5,Q2: 3,Q3: 3,Q4: 4,Top10: 5
+187,СВФУ,2014,Cpu: 6,Cores: 8,Nodes: 6,Memory: 6,Nets: 9,Linpack: 9,Peak: 10,GRPperCapita: 3,Num of Systems: 6,Q1: 6,Q2: 6,Q3: 6,Q4: 8,Top10: 6
+188,СПбГУ,2014,Cpu: 10,Cores: 10,Nodes: 10,Memory: 10,Nets: 8,Linpack: 10,Peak: 8,GRPperCapita: 5,Num of Systems: 6,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 2
+189,ТГУ,2014,Cpu: 3,Cores: 4,Nodes: 1,Memory: 3,Nets: 8,Linpack: 6,Peak: 7,GRPperCapita: 6,Num of Systems: 5,Q1: 3,Q2: 3,Q3: 2,Q4: 2,Top10: 3
+190,ФГУП ЦНИИ Крылова,2014,Cpu: 6,Cores: 6,Nodes: 6,Memory: 5,Nets: 7,Linpack: 8,Peak: 8,GRPperCapita: 4,Num of Systems: 4,Q1: 9,Q2: 10,Q3: 10,Q4: 9,Top10: 7
+191,ЮУрГУ,2014,Cpu: 2,Cores: 1,Nodes: 3,Memory: 3,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 10,Num of Systems: 2,Q1: 6,Q2: 7,Q3: 6,Q4: 6,Top10: 6
+192,ИВМиМГ СО РАН,2015,Cpu: 10,Cores: 9,Nodes: 10,Memory: 10,Nets: 10,Linpack: 8,Peak: 7,GRPperCapita: 9,Num of Systems: 10,Q1: 10,Q2: 9,Q3: 7,Q4: 8,Top10: 8
+193,ИДСТУ СО РАН,2015,Cpu: 7,Cores: 7,Nodes: 7,Memory: 7,Nets: 10,Linpack: 10,Peak: 10,GRPperCapita: 8,Num of Systems: 10,Q1: 8,Q2: 8,Q3: 9,Q4: 9,Top10: 9
+194,ИММ УРО РАН,2015,Cpu: 9,Cores: 4,Nodes: 9,Memory: 8,Nets: 6,Linpack: 4,Peak: 4,GRPperCapita: 7,Num of Systems: 9,Q1: 7,Q2: 7,Q3: 8,Q4: 7,Top10: 7
+195,ИПА РАН,2015,Cpu: 10,Cores: 10,Nodes: 10,Memory: 10,Nets: 4,Linpack: 5,Peak: 6,GRPperCapita: 5,Num of Systems: 8,Q1: 9,Q2: 10,Q3: 10,Q4: 10,Top10: 10
+196,ИПМ им. М.В.Келдыша РАН,2015,Cpu: 8,Cores: 8,Nodes: 8,Memory: 7,Nets: 5,Linpack: 7,Peak: 5,GRPperCapita: 3,Num of Systems: 7,Q1: 6,Q2: 7,Q3: 7,Q4: 7,Top10: 7
+197,Курчатовский институт,2015,Cpu: 1,Cores: 4,Nodes: 2,Memory: 1,Nets: 1,Linpack: 2,Peak: 2,GRPperCapita: 2,Num of Systems: 1,Q1: 4,Q2: 4,Q3: 5,Q4: 5,Top10: 4
+198,МГУ,2015,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 3,Linpack: 1,Peak: 1,GRPperCapita: 1,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+199,МИСиС,2015,Cpu: 7,Cores: 10,Nodes: 7,Memory: 9,Nets: 4,Linpack: 10,Peak: 10,GRPperCapita: 1,Num of Systems: 7,Q1: 4,Q2: 5,Q3: 4,Q4: 3,Top10: 4
+200,МФТИ,2015,Cpu: 4,Cores: 7,Nodes: 4,Memory: 3,Nets: 9,Linpack: 6,Peak: 7,GRPperCapita: 7,Num of Systems: 6,Q1: 1,Q2: 1,Q3: 3,Q4: 4,Top10: 1
+201,ННГУ,2015,Cpu: 5,Cores: 3,Nodes: 5,Memory: 4,Nets: 8,Linpack: 4,Peak: 4,GRPperCapita: 10,Num of Systems: 5,Q1: 5,Q2: 4,Q3: 4,Q4: 4,Top10: 5
+202,СПбГПУ,2015,Cpu: 3,Cores: 2,Nodes: 1,Memory: 2,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 4,Num of Systems: 3,Q1: 3,Q2: 3,Q3: 2,Q4: 2,Top10: 3
+203,ТГУ,2015,Cpu: 4,Cores: 5,Nodes: 3,Memory: 4,Nets: 7,Linpack: 7,Peak: 8,GRPperCapita: 6,Num of Systems: 4,Q1: 2,Q2: 2,Q3: 1,Q4: 1,Top10: 2
+204,ФГУП ЦНИИ Крылова,2015,Cpu: 6,Cores: 6,Nodes: 6,Memory: 6,Nets: 7,Linpack: 9,Peak: 9,GRPperCapita: 4,Num of Systems: 4,Q1: 10,Q2: 10,Q3: 10,Q4: 10,Top10: 10
+205,ЮУрГУ,2015,Cpu: 2,Cores: 1,Nodes: 4,Memory: 5,Nets: 2,Linpack: 3,Peak: 3,GRPperCapita: 10,Num of Systems: 2,Q1: 7,Q2: 6,Q3: 6,Q4: 6,Top10: 6
+206,ИВМиМГ СО РАН,2016,Cpu: 10,Cores: 10,Nodes: 10,Memory: 10,Nets: 10,Linpack: 10,Peak: 9,GRPperCapita: 9,Num of Systems: 10,Q1: 8,Q2: 8,Q3: 9,Q4: 9,Top10: 8
+207,ИММ УРО РАН,2016,Cpu: 9,Cores: 6,Nodes: 9,Memory: 9,Nets: 6,Linpack: 5,Peak: 5,GRPperCapita: 7,Num of Systems: 10,Q1: 9,Q2: 9,Q3: 8,Q4: 7,Top10: 9
+208,ИПА РАН,2016,Cpu: 10,Cores: 10,Nodes: 10,Memory: 10,Nets: 4,Linpack: 6,Peak: 7,GRPperCapita: 5,Num of Systems: 9,Q1: 10,Q2: 10,Q3: 10,Q4: 10,Top10: 10
+209,ИПМ им. М.В.Келдыша РАН,2016,Cpu: 8,Cores: 9,Nodes: 8,Memory: 8,Nets: 5,Linpack: 9,Peak: 6,GRPperCapita: 2,Num of Systems: 8,Q1: 7,Q2: 7,Q3: 6,Q4: 8,Top10: 7
+210,Курчатовский институт,2016,Cpu: 1,Cores: 2,Nodes: 3,Memory: 1,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 1,Num of Systems: 1,Q1: 4,Q2: 5,Q3: 5,Q4: 5,Top10: 4
+211,МГУ,2016,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 3,Linpack: 1,Peak: 1,GRPperCapita: 1,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+212,МФТИ,2016,Cpu: 5,Cores: 8,Nodes: 5,Memory: 4,Nets: 10,Linpack: 8,Peak: 10,GRPperCapita: 6,Num of Systems: 7,Q1: 1,Q2: 2,Q3: 3,Q4: 3,Top10: 1
+213,ННГУ,2016,Cpu: 6,Cores: 4,Nodes: 6,Memory: 5,Nets: 9,Linpack: 4,Peak: 4,GRPperCapita: 10,Num of Systems: 6,Q1: 5,Q2: 4,Q3: 4,Q4: 4,Top10: 5
+214,СПбГПУ,2016,Cpu: 3,Cores: 3,Nodes: 1,Memory: 2,Nets: 1,Linpack: 2,Peak: 2,GRPperCapita: 4,Num of Systems: 3,Q1: 3,Q2: 3,Q3: 2,Q4: 2,Top10: 3
+215,ТГУ,2016,Cpu: 4,Cores: 5,Nodes: 2,Memory: 3,Nets: 8,Linpack: 7,Peak: 8,GRPperCapita: 8,Num of Systems: 5,Q1: 2,Q2: 1,Q3: 1,Q4: 1,Top10: 2
+216,ФГУП ЦНИИ Крылова,2016,Cpu: 7,Cores: 7,Nodes: 7,Memory: 7,Nets: 7,Linpack: 10,Peak: 10,GRPperCapita: 3,Num of Systems: 4,Q1: 10,Q2: 10,Q3: 10,Q4: 10,Top10: 10
+217,ЮУрГУ,2016,Cpu: 2,Cores: 1,Nodes: 4,Memory: 6,Nets: 2,Linpack: 3,Peak: 3,GRPperCapita: 10,Num of Systems: 2,Q1: 6,Q2: 6,Q3: 7,Q4: 6,Top10: 6
+218,ВолгГТУ,2017,Cpu: 10,Cores: 7,Nodes: 10,Memory: 9,Nets: 7,Linpack: 10,Peak: 9,GRPperCapita: 10,Num of Systems: 10,Q1: 9,Q2: 7,Q3: 6,Q4: 5,Top10: 9
+219,ИАПУ ДВО РАН,2017,Cpu: 9,Cores: 10,Nodes: 9,Memory: 5,Nets: 4,Linpack: 9,Peak: 10,GRPperCapita: 10,Num of Systems: 10,Q1: 7,Q2: 10,Q3: 9,Q4: 8,Top10: 7
+220,ИВМиМГ СО РАН,2017,Cpu: 6,Cores: 6,Nodes: 6,Memory: 6,Nets: 3,Linpack: 5,Peak: 5,GRPperCapita: 9,Num of Systems: 4,Q1: 9,Q2: 8,Q3: 9,Q4: 9,Top10: 8
+221,ИДСТУ СО РАН,2017,Cpu: 7,Cores: 8,Nodes: 7,Memory: 7,Nets: 10,Linpack: 7,Peak: 9,GRPperCapita: 9,Num of Systems: 9,Q1: 10,Q2: 9,Q3: 10,Q4: 10,Top10: 9
+222,ИММ УРО РАН,2017,Cpu: 8,Cores: 5,Nodes: 8,Memory: 9,Nets: 9,Linpack: 5,Peak: 4,GRPperCapita: 8,Num of Systems: 9,Q1: 8,Q2: 9,Q3: 7,Q4: 7,Top10: 10
+223,ИПА РАН,2017,Cpu: 9,Cores: 9,Nodes: 9,Memory: 10,Nets: 7,Linpack: 6,Peak: 7,GRPperCapita: 7,Num of Systems: 8,Q1: 10,Q2: 10,Q3: 10,Q4: 10,Top10: 10
+224,ИПМ им. М.В.Келдыша РАН,2017,Cpu: 7,Cores: 7,Nodes: 7,Memory: 7,Nets: 8,Linpack: 9,Peak: 6,GRPperCapita: 7,Num of Systems: 7,Q1: 7,Q2: 7,Q3: 7,Q4: 7,Top10: 7
+225,Курчатовский институт,2017,Cpu: 1,Cores: 1,Nodes: 2,Memory: 1,Nets: 1,Linpack: 1,Peak: 1,GRPperCapita: 6,Num of Systems: 1,Q1: 4,Q2: 3,Q3: 5,Q4: 3,Top10: 4
+226,МГУ,2017,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 5,Linpack: 1,Peak: 1,GRPperCapita: 5,Num of Systems: 1,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+227,МИСиС,2017,Cpu: 5,Cores: 9,Nodes: 5,Memory: 8,Nets: 6,Linpack: 10,Peak: 10,GRPperCapita: 5,Num of Systems: 7,Q1: 3,Q2: 4,Q3: 4,Q4: 5,Top10: 3
+228,МФТИ,2017,Cpu: 4,Cores: 5,Nodes: 4,Memory: 3,Nets: 1,Linpack: 4,Peak: 5,GRPperCapita: 4,Num of Systems: 3,Q1: 1,Q2: 1,Q3: 3,Q4: 3,Top10: 1
+229,ННГУ,2017,Cpu: 5,Cores: 3,Nodes: 5,Memory: 4,Nets: 10,Linpack: 3,Peak: 3,GRPperCapita: 3,Num of Systems: 6,Q1: 5,Q2: 5,Q3: 3,Q4: 4,Top10: 5
+230,СПбГПУ,2017,Cpu: 3,Cores: 2,Nodes: 1,Memory: 2,Nets: 2,Linpack: 2,Peak: 2,GRPperCapita: 3,Num of Systems: 3,Q1: 3,Q2: 3,Q3: 1,Q4: 2,Top10: 3
+231,Сколтех,2017,Cpu: 10,Cores: 10,Nodes: 10,Memory: 10,Nets: 3,Linpack: 8,Peak: 8,GRPperCapita: 2,Num of Systems: 5,Q1: 5,Q2: 6,Q3: 8,Q4: 9,Top10: 5
+232,ТГУ,2017,Cpu: 3,Cores: 4,Nodes: 3,Memory: 3,Nets: 9,Linpack: 7,Peak: 7,GRPperCapita: 1,Num of Systems: 5,Q1: 2,Q2: 2,Q3: 2,Q4: 1,Top10: 2
+233,ЮУрГУ,2017,Cpu: 2,Cores: 3,Nodes: 3,Memory: 5,Nets: 5,Linpack: 3,Peak: 3,GRPperCapita: 1,Num of Systems: 2,Q1: 6,Q2: 5,Q3: 5,Q4: 6,Top10: 6
+234,ИВМиМГ СО РАН,2018,Cpu: 10,Cores: 9,Nodes: 9,Memory: 8,Nets: 4,Linpack: 10,Peak: 9,GRPperCapita: 10,Num of Systems: 10,Q1: 10,Q2: 9,Q3: 9,Q4: 9,Top10: 10
+235,ИДСТУ СО РАН,2018,Cpu: 6,Cores: 8,Nodes: 6,Memory: 7,Nets: 10,Linpack: 9,Peak: 10,GRPperCapita: 10,Num of Systems: 10,Q1: 9,Q2: 10,Q3: 10,Q4: 10,Top10: 8
+236,ИММ УРО РАН,2018,Cpu: 8,Cores: 7,Nodes: 8,Memory: 9,Nets: 7,Linpack: 7,Peak: 6,GRPperCapita: 9,Num of Systems: 9,Q1: 8,Q2: 8,Q3: 8,Q4: 8,Top10: 9
+237,ИПА РАН,2018,Cpu: 9,Cores: 10,Nodes: 10,Memory: 10,Nets: 7,Linpack: 7,Peak: 7,GRPperCapita: 8,Num of Systems: 8,Q1: 10,Q2: 10,Q3: 10,Q4: 10,Top10: 10
+238,Курчатовский институт,2018,Cpu: 1,Cores: 1,Nodes: 2,Memory: 1,Nets: 2,Linpack: 1,Peak: 1,GRPperCapita: 7,Num of Systems: 1,Q1: 4,Q2: 3,Q3: 4,Q4: 4,Top10: 4
+239,ЛИТ ОИЯИ,2018,Cpu: 7,Cores: 6,Nodes: 7,Memory: 5,Nets: 1,Linpack: 4,Peak: 5,GRPperCapita: 7,Num of Systems: 1,Q1: 2,Q2: 4,Q3: 5,Q4: 3,Top10: 2
+240,МГУ,2018,Cpu: 1,Cores: 1,Nodes: 1,Memory: 1,Nets: 6,Linpack: 1,Peak: 1,GRPperCapita: 6,Num of Systems: 5,Q1: 1,Q2: 1,Q3: 1,Q4: 1,Top10: 1
+241,МФТИ,2018,Cpu: 4,Cores: 7,Nodes: 4,Memory: 4,Nets: 3,Linpack: 6,Peak: 7,GRPperCapita: 5,Num of Systems: 4,Q1: 1,Q2: 1,Q3: 1,Q4: 2,Top10: 1
+242,ННГУ,2018,Cpu: 5,Cores: 4,Nodes: 5,Memory: 6,Nets: 10,Linpack: 5,Peak: 4,GRPperCapita: 4,Num of Systems: 7,Q1: 6,Q2: 4,Q3: 4,Q4: 5,Top10: 6
+243,ОИВТ РАН,2018,Cpu: 10,Cores: 10,Nodes: 10,Memory: 10,Nets: 9,Linpack: 10,Peak: 10,GRPperCapita: 4,Num of Systems: 7,Q1: 7,Q2: 7,Q3: 6,Q4: 7,Top10: 7
+244,СПбГПУ,2018,Cpu: 3,Cores: 2,Nodes: 1,Memory: 2,Nets: 4,Linpack: 2,Peak: 2,GRPperCapita: 3,Num of Systems: 4,Q1: 4,Q2: 5,Q3: 3,Q4: 1,Top10: 4
+245,Сколтех,2018,Cpu: 7,Cores: 4,Nodes: 7,Memory: 4,Nets: 1,Linpack: 3,Peak: 3,GRPperCapita: 2,Num of Systems: 3,Q1: 5,Q2: 6,Q3: 7,Q4: 7,Top10: 5
+246,ТГУ,2018,Cpu: 4,Cores: 5,Nodes: 3,Memory: 3,Nets: 8,Linpack: 8,Peak: 8,GRPperCapita: 1,Num of Systems: 6,Q1: 3,Q2: 2,Q3: 2,Q4: 4,Top10: 3
+247,ЮУрГУ,2018,Cpu: 2,Cores: 3,Nodes: 4,Memory: 7,Nets: 5,Linpack: 4,Peak: 4,GRPperCapita: 1,Num of Systems: 2,Q1: 7,Q2: 7,Q3: 7,Q4: 6,Top10: 7
